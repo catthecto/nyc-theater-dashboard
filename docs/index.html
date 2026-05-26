@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>NYC Theater Dashboard</title>
+  <link rel="stylesheet" href="css/style.css">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+</head>
+<body>
+  <header class="site-header">
+    <div class="header-content">
+      <h1>NYC Theater Dashboard</h1>
+      <div class="freshness" id="freshness"></div>
+    </div>
+  </header>
+
+  <div class="filter-bar" id="filter-bar">
+    <div class="filter-bar-inner">
+      <button class="filter-toggle" id="filter-toggle" aria-expanded="false" aria-controls="filter-panel">
+        Filters <span class="filter-count" id="filter-count"></span>
+      </button>
+      <div class="filter-panel" id="filter-panel">
+        <div class="filter-group">
+          <label class="filter-label">Type</label>
+          <div class="button-group" data-filter="genre">
+            <button class="chip active" data-value="core">Plays & Musicals</button>
+            <button class="chip" data-value="all">All</button>
+          </div>
+        </div>
+        <div class="filter-group">
+          <label class="filter-label">Category</label>
+          <div class="button-group" data-filter="category">
+            <button class="chip active" data-value="all">All</button>
+            <button class="chip" data-value="broadway">Broadway</button>
+            <button class="chip" data-value="off-broadway">Off-Broadway</button>
+          </div>
+        </div>
+        <div class="filter-group">
+          <label class="filter-label">Status</label>
+          <div class="button-group" data-filter="status">
+            <button class="chip" data-value="all">All</button>
+            <button class="chip active" data-value="running">Running</button>
+            <button class="chip" data-value="upcoming">Upcoming</button>
+          </div>
+        </div>
+        <div class="filter-group">
+          <label class="filter-label">Price</label>
+          <div class="button-group" data-filter="price">
+            <button class="chip active" data-value="all">All</button>
+            <button class="chip" data-value="0-50">Under $50</button>
+            <button class="chip" data-value="50-100">$50–100</button>
+            <button class="chip" data-value="100-200">$100–200</button>
+            <button class="chip" data-value="200+">$200+</button>
+          </div>
+        </div>
+        <div class="filter-group">
+          <label class="filter-label">Sort</label>
+          <select id="sort-select">
+            <option value="price-asc">Price: Low → High</option>
+            <option value="price-desc">Price: High → Low</option>
+            <option value="rating">Top Rated</option>
+            <option value="title-asc">A → Z</option>
+            <option value="closing-soon">Closing Soon</option>
+          </select>
+        </div>
+        <div class="filter-group">
+          <label class="filter-label">Search</label>
+          <input type="search" id="search-input" placeholder="Show or venue…" autocomplete="off">
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <main>
+    <div class="main-header">
+      <div class="show-count" id="show-count"></div>
+      <div class="view-toggle">
+        <button class="view-btn active" data-view="grid" aria-label="Grid view">
+          <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="3" y="3" width="7" height="7"/><rect x="14" y="3" width="7" height="7"/><rect x="3" y="14" width="7" height="7"/><rect x="14" y="14" width="7" height="7"/></svg>
+        </button>
+        <button class="view-btn" data-view="map" aria-label="Map view">
+          <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 2C8.13 2 5 5.13 5 9c0 5.25 7 13 7 13s7-7.75 7-13c0-3.87-3.13-7-7-7z"/><circle cx="12" cy="9" r="2.5"/></svg>
+        </button>
+      </div>
+    </div>
+    <div class="card-grid" id="card-grid"></div>
+    <div class="map-container" id="map-container" hidden>
+      <div id="map"></div>
+    </div>
+    <div class="empty-state" id="empty-state" hidden>No shows match your filters.</div>
+  </main>
+
+  <script src="js/app.js" defer></script>
+</body>
+</html>
