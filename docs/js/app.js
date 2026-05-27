@@ -107,7 +107,13 @@
     return allShows.filter((show) => {
       if (filters.genre === "core" && !CORE_GENRES.has(show.genre)) return false;
       if (filters.category !== "all" && show.category !== filters.category) return false;
-      if (filters.status !== "all" && show.status !== filters.status) return false;
+      if (filters.status === "closing-soon") {
+        if (!show.closing_date) return false;
+        const close = new Date(show.closing_date);
+        const cutoff = new Date();
+        cutoff.setDate(cutoff.getDate() + 30);
+        if (close > cutoff) return false;
+      } else if (filters.status !== "all" && show.status !== filters.status) return false;
 
       if (filters.price !== "all") {
         const p = show.price?.cheapest;
