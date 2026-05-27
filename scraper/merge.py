@@ -166,8 +166,8 @@ def merge_sources(
         )
 
     before = len(shows)
-    shows = [s for s in shows if s.price or s.description or s.review]
-    logger.info(f"Dropped {before - len(shows)} shows with no price, description, or reviews")
+    shows = [s for s in shows if s.price or s.review]
+    logger.info(f"Dropped {before - len(shows)} shows with no price or reviews")
 
     sources = ["todaytix"]
     if playbill_shows:
