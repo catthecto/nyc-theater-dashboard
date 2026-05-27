@@ -53,6 +53,8 @@ async def fetch_all_shows() -> list[TodayTixShow]:
             data = resp.json()
 
             for raw in data.get("data", []):
+                if raw.get("areRegularTicketsAvailable") is False and not raw.get("lowPriceFaceValue"):
+                    continue
                 shows.append(_parse_show(raw))
 
             pagination = data.get("pagination", {})
