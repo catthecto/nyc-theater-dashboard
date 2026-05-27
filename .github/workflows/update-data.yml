@@ -30,4 +30,8 @@ jobs:
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add docs/data/shows.json .geocode-cache.json
           git diff --staged --quiet || git commit -m "Update show data $(date -u +%Y-%m-%d)"
-          git push
+          for i in 1 2 3; do
+            git push && break
+            echo "Push attempt $i failed, retrying in 10s..."
+            sleep 10
+          done
