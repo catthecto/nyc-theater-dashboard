@@ -31,6 +31,7 @@ jobs:
           git add docs/data/shows.json .geocode-cache.json
           git diff --staged --quiet || git commit -m "Update show data $(date -u +%Y-%m-%d)"
           for i in 1 2 3; do
+            git pull --rebase origin main
             git push && break
             echo "Push attempt $i failed, retrying in 10s..."
             sleep 10
