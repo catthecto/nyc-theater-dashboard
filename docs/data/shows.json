@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "last_updated": "2026-06-01T16:10:51.211964Z",
-    "show_count": 120,
+    "last_updated": "2026-06-02T14:11:44.606716Z",
+    "show_count": 128,
     "sources": [
       "todaytix",
       "playbill"
@@ -21,18 +21,18 @@
       "playbill_url": "https://playbill.com/production/the-book-of-mormon-eugene-oneill-theatre-vault-0000013715",
       "todaytix_url": "https://www.todaytix.com/shows/127",
       "price": {
-        "cheapest": 72,
+        "cheapest": 82,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-06-01"
+        "as_of": "2026-06-02"
       },
       "review": {
         "score": 90,
         "review_count": 13560,
         "adjectives": [
-          "Funny",
           "Entertaining",
           "Raunchy",
+          "Funny",
           "Clever",
           "Hilarious"
         ]
@@ -40,12 +40,108 @@
       "lat": 40.7611047,
       "lng": -73.9857404,
       "tags": [
-        "comedy",
-        "award-winners",
         "satire",
+        "award-winners",
         "must-see",
+        "comedy",
         "rush-available"
       ]
+    },
+    {
+      "id": "evita-winter-garden-theatre",
+      "title": "Evita",
+      "venue": "Winter Garden Theatre",
+      "category": "broadway",
+      "status": "upcoming",
+      "genre": "musical",
+      "opening_date": "2027-02-27",
+      "description": "*Evita* is the riveting story of the rise and fall of the glamorous First Lady of Argentina.",
+      "image_url": "https://images.ctfassets.net/6pezt69ih962/4hDfO41pIIHI8Z9t0Ftual/c645a458cbe1607351253936890ae52c/EVITA-ThirdPartyAssets-TodayTix_480x720.jpg",
+      "todaytix_url": "https://www.todaytix.com/shows/19071",
+      "price": {
+        "cheapest": 72,
+        "currency": "USD",
+        "source": "todaytix",
+        "as_of": "2026-06-02"
+      },
+      "lat": 40.7616856,
+      "lng": -73.9835045,
+      "tags": [
+        "stars-on-stage"
+      ]
+    },
+    {
+      "id": "much-ado-about-nothing-winter-garden-theatre",
+      "title": "Much Ado About Nothing",
+      "venue": "Winter Garden Theatre",
+      "category": "broadway",
+      "status": "upcoming",
+      "genre": "play",
+      "opening_date": "2026-10-31",
+      "description": "*Much Ado About Nothing* is Shakespeare's classic comedy about two pairs of lovers that form during a group of soldiers' visit to Italy.",
+      "image_url": "https://images.ctfassets.net/6pezt69ih962/54fGz3aG5CpQ7PFTyiEm9v/f9481fc6db7eac3c451c48fdee845fae/MAAN-ThirdPartyAssets-ThirdPartyAssets-TodayTix-480x720.jpg",
+      "todaytix_url": "https://www.todaytix.com/shows/46347",
+      "price": {
+        "cheapest": 72,
+        "currency": "USD",
+        "source": "todaytix",
+        "as_of": "2026-06-02"
+      },
+      "lat": 40.7616856,
+      "lng": -73.9835045,
+      "tags": [
+        "stars-on-stage"
+      ]
+    },
+    {
+      "id": "death-of-a-salesman-winter-garden-theatre",
+      "title": "Death of a Salesman",
+      "venue": "Winter Garden Theatre",
+      "category": "broadway",
+      "status": "running",
+      "genre": "play",
+      "opening_date": "2026-03-06",
+      "description": "*Death of a Salesman* is a classic family drama about a father who works on the road, juggling his career, personal life, and the American Dream.",
+      "image_url": "https://images.ctfassets.net/6pezt69ih962/6iTvRawlwgZ4S8uVdp5WOj/5f3e7e96dd00429059fe6cfd133928fa/DOAS_TodayTix-480x720v2.png",
+      "playbill_url": "https://playbill.com/production/death-of-a-salesman-broadway-winter-garden-theatre-2026",
+      "todaytix_url": "https://www.todaytix.com/shows/45916",
+      "price": {
+        "cheapest": 97,
+        "currency": "USD",
+        "source": "todaytix",
+        "as_of": "2026-06-02"
+      },
+      "review": {
+        "score": 94,
+        "review_count": 826,
+        "adjectives": []
+      },
+      "lat": 40.7616856,
+      "lng": -73.9835045,
+      "tags": [
+        "stars-on-stage"
+      ]
+    },
+    {
+      "id": "chamber-magic-lotte-new-york-palace-hotel",
+      "title": "Chamber Magic",
+      "venue": "Lotte New York Palace Hotel",
+      "category": "off-broadway",
+      "status": "running",
+      "genre": "experience",
+      "opening_date": "2022-04-01",
+      "description": "A riveting evening of mind-blowing, interactive magic, hosted by Steve Cohen. Take part in this unusual and perfect date night experience.",
+      "image_url": "https://images.ctfassets.net/6pezt69ih962/3wo5pmTA3LDdiNu6WFNhHd/e8aeab7e365a9f1f7063cf617e7ada30/cohen.png",
+      "todaytix_url": "https://www.todaytix.com/shows/7062",
+      "price": {
+        "cheapest": 190,
+        "currency": "USD",
+        "source": "todaytix",
+        "as_of": "2026-06-02"
+      },
+      "lat": 40.7579803,
+      "lng": -73.974769,
+      "tags": []
     },
     {
       "id": "the-play-that-goes-wrong-new-world-stages",
@@ -63,16 +159,16 @@
         "cheapest": 138,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-06-01"
+        "as_of": "2026-06-02"
       },
       "review": {
         "score": 86,
         "review_count": 3939,
         "adjectives": [
+          "Clever",
+          "Delightful",
           "Hilarious",
           "Entertaining",
-          "Delightful",
-          "Clever",
           "Funny"
         ]
       },
@@ -99,17 +195,17 @@
         "cheapest": 60,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-06-01"
+        "as_of": "2026-06-02"
       },
       "review": {
         "score": 94,
         "review_count": 512,
         "adjectives": [
+          "Delightful",
+          "Entertaining",
           "Funny",
           "Great acting",
-          "Delightful",
-          "Great singing",
-          "Entertaining"
+          "Great singing"
         ]
       },
       "lat": 40.7627588,
@@ -134,17 +230,17 @@
         "cheapest": 57,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-06-01"
+        "as_of": "2026-06-02"
       },
       "review": {
         "score": 81,
         "review_count": 721,
         "adjectives": [
-          "Enchanting",
-          "Entertaining",
+          "Delightful",
           "Clever",
+          "Entertaining",
           "Absorbing",
-          "Delightful"
+          "Enchanting"
         ]
       },
       "lat": 40.7627588,
@@ -167,239 +263,59 @@
         "cheapest": 58,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-06-01"
+        "as_of": "2026-06-02"
       },
       "review": {
         "score": 94,
         "review_count": 208,
         "adjectives": [
-          "Entertaining",
           "Delightful",
-          "Great acting",
           "Funny",
+          "Entertaining",
+          "Great acting",
           "Clever"
         ]
       },
       "lat": 40.7627588,
       "lng": -73.9875605,
       "tags": [
-        "immersive",
-        "family-kid-friendly"
+        "family-kid-friendly",
+        "immersive"
       ]
     },
     {
-      "id": "chamber-magic-lotte-new-york-palace-hotel",
-      "title": "Chamber Magic",
-      "venue": "Lotte New York Palace Hotel",
+      "id": "the-25th-annual-putnam-county-spelling-bee-new-world-stages",
+      "title": "The 25th Annual Putnam County Spelling Bee",
+      "venue": "New World Stages",
       "category": "off-broadway",
-      "status": "running",
-      "genre": "experience",
-      "opening_date": "2022-04-01",
-      "description": "A riveting evening of mind-blowing, interactive magic, hosted by Steve Cohen. Take part in this unusual and perfect date night experience.",
-      "image_url": "https://images.ctfassets.net/6pezt69ih962/3wo5pmTA3LDdiNu6WFNhHd/e8aeab7e365a9f1f7063cf617e7ada30/cohen.png",
-      "todaytix_url": "https://www.todaytix.com/shows/7062",
-      "price": {
-        "cheapest": 190,
-        "currency": "USD",
-        "source": "todaytix",
-        "as_of": "2026-06-01"
-      },
-      "lat": 40.7579803,
-      "lng": -73.974769,
-      "tags": []
-    },
-    {
-      "id": "indian-princesses-atlantic-theater-company-linda-gross-theater",
-      "title": "Indian Princesses",
-      "venue": "Atlantic Theater Company - Linda Gross Theater",
-      "category": "off-broadway",
-      "status": "running",
-      "genre": "play",
-      "opening_date": "2026-04-30",
-      "closing_date": "2026-06-07",
-      "description": "*Indian Princesses* is a touching and wise new play about a summer camp for young girls of color and their white fathers.",
-      "image_url": "https://images.ctfassets.net/6pezt69ih962/4yhbMXsDi9ueULihSZ1NdL/8c27929c352420fa28e4f43ddc6143ce/IP_TT_480x720.jpg",
-      "playbill_url": "https://playbill.com/production/indian-princesses-off-broadway-atlantic-theater-company-linda-gross-theater-2026",
-      "todaytix_url": "https://www.todaytix.com/shows/44895",
-      "price": {
-        "cheapest": 38,
-        "currency": "USD",
-        "source": "todaytix",
-        "as_of": "2026-06-01"
-      },
-      "tags": [
-        "rush-available"
-      ]
-    },
-    {
-      "id": "the-saviors-atlantic-theater-company-linda-gross-theater",
-      "title": "The Saviors",
-      "venue": "Atlantic Theater Company - Linda Gross Theater",
-      "category": "off-broadway",
-      "status": "upcoming",
-      "genre": "play",
-      "opening_date": "2026-07-08",
-      "closing_date": "2026-08-08",
-      "description": "*The Saviors* is a new play about faith, boyhood, and the bonds that break and tie.",
-      "image_url": "https://images.ctfassets.net/6pezt69ih962/5nFso1t3MbAbSHYgxpdgKT/513740e5f81d1680cb69a0cccc02105f/Saviors_480x720_TodayTix_1.png",
-      "playbill_url": "https://playbill.com/production/the-saviors-off-broadway-atlantic-theater-company-linda-gross-theater-2026",
-      "todaytix_url": "https://www.todaytix.com/shows/46214",
-      "price": {
-        "cheapest": 58,
-        "currency": "USD",
-        "source": "todaytix",
-        "as_of": "2026-06-01"
-      },
-      "tags": []
-    },
-    {
-      "id": "giant-music-box-theatre",
-      "title": "Giant",
-      "venue": "Music Box Theatre",
-      "category": "broadway",
-      "status": "running",
-      "genre": "play",
-      "opening_date": "2026-03-11",
-      "closing_date": "2026-06-28",
-      "description": "*Giant* dramatizes a period of Roald Dahl's life after the 1983 literary review of one of his picture books.",
-      "image_url": "https://images.ctfassets.net/6pezt69ih962/1OPdBa7lB9TbutJyQS940I/170019ae2aa98d65ff5b2684bab617c8/GNT-112768-023684-ThirdPartyAssets-TodayTix-480x720__1_.jpg",
-      "playbill_url": "https://playbill.com/production/giant-broadway-music-box-theatre-2026",
-      "todaytix_url": "https://www.todaytix.com/shows/45280",
-      "price": {
-        "cheapest": 87,
-        "currency": "USD",
-        "source": "todaytix",
-        "as_of": "2026-06-01"
-      },
-      "review": {
-        "score": 88,
-        "review_count": 226,
-        "adjectives": [
-          "Ambitious",
-          "Thought provoking",
-          "Great acting"
-        ]
-      },
-      "lat": 40.7588721,
-      "lng": -73.9871508,
-      "tags": [
-        "stars-on-stage"
-      ]
-    },
-    {
-      "id": "inter-alia-music-box-theatre",
-      "title": "Inter Alia",
-      "venue": "Music Box Theatre",
-      "category": "broadway",
-      "status": "upcoming",
-      "genre": "play",
-      "opening_date": "2026-11-10",
-      "description": "*Inter Alia* is a legal drama where a sharp lawyer tries to keep her personal life out of the courtroom, until one event changes everything.",
-      "image_url": "https://images.ctfassets.net/6pezt69ih962/2nxNys7Rc8jam5y1cLhn9Y/52235645fe26f47f5389a5aed21b6682/IA-ThirdPartyAssets-TodayTix-480x720.jpg",
-      "todaytix_url": "https://www.todaytix.com/shows/46738",
-      "price": {
-        "cheapest": 82,
-        "currency": "USD",
-        "source": "todaytix",
-        "as_of": "2026-06-01"
-      },
-      "lat": 40.7588721,
-      "lng": -73.9871508,
-      "tags": [
-        "stars-on-stage"
-      ]
-    },
-    {
-      "id": "schmigadoon-on-broadway-nederlander-theatre",
-      "title": "Schmigadoon! on Broadway",
-      "venue": "Nederlander Theatre",
-      "category": "broadway",
       "status": "running",
       "genre": "musical",
-      "opening_date": "2026-04-04",
-      "closing_date": "2027-01-03",
-      "description": "*Schmigadoon!* is a musical comedy based on the hit TV show that spoofs Broadway's Golden Age.",
-      "image_url": "https://images.ctfassets.net/6pezt69ih962/52mHKfZYl3jFRCa4KsoGbW/2184acdc18e6baa88b981a5a038893cb/SMGD-TodayTixTonyBanners-480x720.png",
-      "todaytix_url": "https://www.todaytix.com/shows/45429",
+      "opening_date": "2025-11-07",
+      "closing_date": "2026-09-06",
+      "description": "*The 25th Annual Putnam County Spelling Bee* is a charming and witty musical about adolescent students competing to win a local spelling competition while coping with teenage issues along the way.",
+      "image_url": "https://images.ctfassets.net/6pezt69ih962/5asBIfITFd8Am7Gs8HABlH/28af016128d8ccf7e4b5cdee25b16c87/480x720_Poster_Key_Art.jpg",
+      "playbill_url": "https://playbill.com/production/the-25th-annual-putnam-county-spelling-bee-off-broadway-new-world-stages-stage-3-2025",
+      "todaytix_url": "https://www.todaytix.com/shows/44388",
       "price": {
-        "cheapest": 62,
+        "cheapest": 57,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-06-01"
+        "as_of": "2026-06-02"
       },
       "review": {
         "score": 92,
-        "review_count": 217,
-        "adjectives": []
-      },
-      "lat": 40.7554837,
-      "lng": -73.9883023,
-      "tags": [
-        "film-tv"
-      ]
-    },
-    {
-      "id": "jerome-playwrights-horizons",
-      "title": "Jerome",
-      "venue": "Playwrights Horizons",
-      "category": "off-broadway",
-      "status": "running",
-      "genre": "play",
-      "opening_date": "2026-05-14",
-      "closing_date": "2026-06-21",
-      "description": "*Jerome* is a new play about an aging gay couple who meets a stranger in their Arizona ghost town.",
-      "image_url": "https://images.ctfassets.net/6pezt69ih962/5xaFJSJAeIG2jZNn1SWkvg/ecd20768de187a42346d5b4a21427a24/Jerome_Poster.png",
-      "playbill_url": "https://playbill.com/production/jerome-off-broadway-playwrights-horizons-the-judith-o-rubin-theater-2026",
-      "todaytix_url": "https://www.todaytix.com/shows/44703",
-      "price": {
-        "cheapest": 71,
-        "currency": "USD",
-        "source": "todaytix",
-        "as_of": "2026-06-01"
-      },
-      "lat": 40.7586397,
-      "lng": -73.9936128,
-      "tags": [
-        "comedy",
-        "drama",
-        "rush-available"
-      ]
-    },
-    {
-      "id": "mexodus-daryl-roth-theatre",
-      "title": "Mexodus",
-      "venue": "Daryl Roth Theatre",
-      "category": "off-broadway",
-      "status": "running",
-      "genre": "musical",
-      "opening_date": "2026-03-06",
-      "closing_date": "2026-06-14",
-      "description": "*Mexodus* is a groundbreaking hip-hop musical about people who escaped slavery by moving across the Mexican border.",
-      "image_url": "https://images.ctfassets.net/6pezt69ih962/7JDYsfRTydaAP9xUB9l4vM/8e63f157a4ae24485af6d0bcdfb603f5/Poster.jpg",
-      "playbill_url": "https://playbill.com/production/mexodus-off-broadway-daryl-roth-theatre-2026",
-      "todaytix_url": "https://www.todaytix.com/shows/44890",
-      "price": {
-        "cheapest": 95,
-        "currency": "USD",
-        "source": "todaytix",
-        "as_of": "2026-06-01"
-      },
-      "review": {
-        "score": 95,
-        "review_count": 397,
+        "review_count": 959,
         "adjectives": [
           "Great acting",
-          "Delightful",
-          "Great singing",
           "Entertaining",
-          "Clever"
+          "Funny",
+          "Delightful",
+          "Great singing"
         ]
       },
-      "lat": 40.7352914,
-      "lng": -73.9894585,
-      "tags": [
-        "rush-available"
-      ]
+      "lat": 40.7627588,
+      "lng": -73.9875605,
+      "tags": []
     },
     {
       "id": "the-rocky-horror-show-studio-54",
@@ -417,7 +333,7 @@
         "cheapest": 82,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-06-01"
+        "as_of": "2026-06-02"
       },
       "review": {
         "score": 91,
@@ -427,36 +343,11 @@
       "lat": 40.7643461,
       "lng": -73.9837786,
       "tags": [
+        "revival",
+        "stars-on-stage",
         "horror",
         "comedy",
-        "stars-on-stage",
-        "sci-fi-fantasy",
-        "revival"
-      ]
-    },
-    {
-      "id": "sylvia-metropolitan-opera-house",
-      "title": "Sylvia",
-      "venue": "Metropolitan Opera House",
-      "category": "off-broadway",
-      "status": "upcoming",
-      "genre": "dance",
-      "opening_date": "2026-07-09",
-      "closing_date": "2026-07-11",
-      "image_url": "https://images.ctfassets.net/6pezt69ih962/4o6dKPYoJFNtmzDQ534H0y/f3dcfd674bc0efe8e8a0bcce29d9a900/SYL_Poster2__1_.jpg",
-      "todaytix_url": "https://www.todaytix.com/shows/44084",
-      "price": {
-        "cheapest": 40,
-        "currency": "USD",
-        "source": "todaytix",
-        "as_of": "2026-06-01"
-      },
-      "lat": 40.7728705,
-      "lng": -73.9847923,
-      "tags": [
-        "comedy",
-        "adventure",
-        "romance"
+        "sci-fi-fantasy"
       ]
     },
     {
@@ -474,13 +365,38 @@
         "cheapest": 40,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-06-01"
+        "as_of": "2026-06-02"
+      },
+      "lat": 40.7728705,
+      "lng": -73.9847923,
+      "tags": [
+        "drama",
+        "romance"
+      ]
+    },
+    {
+      "id": "sylvia-metropolitan-opera-house",
+      "title": "Sylvia",
+      "venue": "Metropolitan Opera House",
+      "category": "off-broadway",
+      "status": "upcoming",
+      "genre": "dance",
+      "opening_date": "2026-07-09",
+      "closing_date": "2026-07-11",
+      "image_url": "https://images.ctfassets.net/6pezt69ih962/4o6dKPYoJFNtmzDQ534H0y/f3dcfd674bc0efe8e8a0bcce29d9a900/SYL_Poster2__1_.jpg",
+      "todaytix_url": "https://www.todaytix.com/shows/44084",
+      "price": {
+        "cheapest": 40,
+        "currency": "USD",
+        "source": "todaytix",
+        "as_of": "2026-06-02"
       },
       "lat": 40.7728705,
       "lng": -73.9847923,
       "tags": [
         "romance",
-        "drama"
+        "comedy",
+        "adventure"
       ]
     },
     {
@@ -495,10 +411,10 @@
       "image_url": "https://images.ctfassets.net/6pezt69ih962/90woCr0gkNrveY1XkWVVQ/0ee652567f27803d165864c4cbc2ddf0/TodayTix_Jan26_FridaAssets_480x720.jpg",
       "todaytix_url": "https://www.todaytix.com/shows/46166",
       "price": {
-        "cheapest": 137,
+        "cheapest": 164,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-06-01"
+        "as_of": "2026-06-02"
       },
       "lat": 40.7728705,
       "lng": -73.9847923,
@@ -521,7 +437,7 @@
         "cheapest": 57,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-06-01"
+        "as_of": "2026-06-02"
       },
       "review": {
         "score": 90,
@@ -537,8 +453,8 @@
       "lat": 40.7728705,
       "lng": -73.9847923,
       "tags": [
-        "romance",
         "drama",
+        "romance",
         "classic"
       ]
     },
@@ -557,7 +473,7 @@
         "cheapest": 47,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-06-01"
+        "as_of": "2026-06-02"
       },
       "review": {
         "score": 92,
@@ -592,15 +508,15 @@
         "cheapest": 40,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-06-01"
+        "as_of": "2026-06-02"
       },
       "lat": 40.7728705,
       "lng": -73.9847923,
       "tags": [
-        "comedy",
-        "adventure",
+        "drama",
         "romance",
-        "drama"
+        "comedy",
+        "adventure"
       ]
     },
     {
@@ -618,7 +534,7 @@
         "cheapest": 40,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-06-01"
+        "as_of": "2026-06-02"
       },
       "lat": 40.7728705,
       "lng": -73.9847923,
@@ -642,7 +558,7 @@
         "cheapest": 50,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-06-01"
+        "as_of": "2026-06-02"
       },
       "lat": 40.7728705,
       "lng": -73.9847923,
@@ -666,24 +582,24 @@
         "cheapest": 102,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-06-01"
+        "as_of": "2026-06-02"
       },
       "review": {
         "score": 89,
         "review_count": 514,
         "adjectives": [
-          "Funny",
-          "Great acting",
           "Clever",
           "Entertaining",
+          "Funny",
+          "Great acting",
           "Masterful"
         ]
       },
       "lat": 40.7578513,
       "lng": -73.9878417,
       "tags": [
-        "comedy",
         "romance",
+        "comedy",
         "contemporary",
         "rush-available"
       ]
@@ -704,7 +620,7 @@
         "cheapest": 76,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-06-01"
+        "as_of": "2026-06-02"
       },
       "lat": 40.7639353,
       "lng": -73.9794602,
@@ -727,7 +643,7 @@
         "cheapest": 48,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-06-01"
+        "as_of": "2026-06-02"
       },
       "lat": 40.7639353,
       "lng": -73.9794602,
@@ -741,7 +657,7 @@
       "title": "Are You Now or Have You Ever Been",
       "venue": "New York City Center",
       "category": "off-broadway",
-      "status": "upcoming",
+      "status": "running",
       "genre": "play",
       "opening_date": "2026-06-02",
       "closing_date": "2026-09-11",
@@ -752,74 +668,41 @@
         "cheapest": 100,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-06-01"
+        "as_of": "2026-06-02"
       },
       "lat": 40.7639353,
       "lng": -73.9794602,
       "tags": [
-        "history",
         "drama",
+        "history",
         "rush-available"
       ]
     },
     {
-      "id": "singfeld-a-musical-about-nothing-jerry-orbach-theatre",
-      "title": "Singfeld! A Musical About Nothing",
-      "venue": "Jerry Orbach Theatre",
+      "id": "jerome-playwrights-horizons",
+      "title": "Jerome",
+      "venue": "Playwrights Horizons",
       "category": "off-broadway",
       "status": "running",
-      "genre": "musical",
-      "opening_date": "2023-05-01",
-      "description": "Relive all the funniest moments from the classic sitcom at this musical parody. See Jerry, George, Elaine, and Kramer's most iconic adventures set to hilarious songs like \"The Master of their Domain,\" \"Seasons of George,\" and \"The Yadda Yadda Song.\"",
-      "image_url": "https://images.ctfassets.net/6pezt69ih962/6IgPHbuCaVrmRqLOcHkItF/039919a6e095b586de4617cb17cebbf1/Untitled_design__6__copy.png",
-      "playbill_url": "https://playbill.com/production/singfeld-a-musical-about-nothing-off-broadway-the-theater-center-the-jerry-orbach-theater-2024",
-      "todaytix_url": "https://www.todaytix.com/shows/28808",
+      "genre": "play",
+      "opening_date": "2026-05-14",
+      "closing_date": "2026-06-21",
+      "description": "*Jerome* is a new play about an aging gay couple who meets a stranger in their Arizona ghost town.",
+      "image_url": "https://images.ctfassets.net/6pezt69ih962/5xaFJSJAeIG2jZNn1SWkvg/ecd20768de187a42346d5b4a21427a24/Jerome_Poster.png",
+      "playbill_url": "https://playbill.com/production/jerome-off-broadway-playwrights-horizons-the-judith-o-rubin-theater-2026",
+      "todaytix_url": "https://www.todaytix.com/shows/44703",
       "price": {
-        "cheapest": 58,
+        "cheapest": 71,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-06-01"
+        "as_of": "2026-06-02"
       },
+      "lat": 40.7586397,
+      "lng": -73.9936128,
       "tags": [
+        "drama",
         "comedy",
         "rush-available"
-      ]
-    },
-    {
-      "id": "the-outsiders-bernard-b-jacobs-theatre",
-      "title": "The Outsiders",
-      "venue": "Bernard B. Jacobs Theatre",
-      "category": "broadway",
-      "status": "running",
-      "genre": "musical",
-      "opening_date": "2024-03-16",
-      "description": "You've read S. E. Hinton's book, you've seen Francis Ford Coppola's film, now see the stirring musical adaptation. Folk showtunes by Jamestown Revival give new life to the story about teenage street gangsters finding hope and brotherhood in a world that rejects them.",
-      "image_url": "https://images.ctfassets.net/6pezt69ih962/Xz0eDOlpgiy8lsYj8L4nv/ddc0837fa5fa9bc504fc7b9adaf693f8/Outsiders_people.png",
-      "playbill_url": "https://playbill.com/production/the-outsiders-broadway-bernard-b-jacobs-theatre-2024",
-      "todaytix_url": "https://www.todaytix.com/shows/34093",
-      "price": {
-        "cheapest": 97,
-        "currency": "USD",
-        "source": "todaytix",
-        "as_of": "2026-06-01"
-      },
-      "review": {
-        "score": 92,
-        "review_count": 2189,
-        "adjectives": [
-          "Great singing",
-          "Entertaining",
-          "Great acting",
-          "Great staging",
-          "Absorbing"
-        ]
-      },
-      "lat": 40.7586082,
-      "lng": -73.9877405,
-      "tags": [
-        "award-winners",
-        "must-see",
-        "drama"
       ]
     },
     {
@@ -838,60 +721,293 @@
         "cheapest": 215,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-06-01"
+        "as_of": "2026-06-02"
       },
       "tags": []
     },
     {
-      "id": "pied-à-terre-anne-l-bernstein-theater",
-      "title": "Pied à Terre",
-      "venue": "Anne L. Bernstein Theater",
+      "id": "the-outsiders-bernard-b-jacobs-theatre",
+      "title": "The Outsiders",
+      "venue": "Bernard B. Jacobs Theatre",
+      "category": "broadway",
+      "status": "running",
+      "genre": "musical",
+      "opening_date": "2024-03-16",
+      "description": "You've read S. E. Hinton's book, you've seen Francis Ford Coppola's film, now see the stirring musical adaptation. Folk showtunes by Jamestown Revival give new life to the story about teenage street gangsters finding hope and brotherhood in a world that rejects them.",
+      "image_url": "https://images.ctfassets.net/6pezt69ih962/Xz0eDOlpgiy8lsYj8L4nv/ddc0837fa5fa9bc504fc7b9adaf693f8/Outsiders_people.png",
+      "playbill_url": "https://playbill.com/production/the-outsiders-broadway-bernard-b-jacobs-theatre-2024",
+      "todaytix_url": "https://www.todaytix.com/shows/34093",
+      "price": {
+        "cheapest": 97,
+        "currency": "USD",
+        "source": "todaytix",
+        "as_of": "2026-06-02"
+      },
+      "review": {
+        "score": 92,
+        "review_count": 2189,
+        "adjectives": [
+          "Great acting",
+          "Entertaining",
+          "Great singing",
+          "Absorbing",
+          "Great staging"
+        ]
+      },
+      "lat": 40.7586082,
+      "lng": -73.9877405,
+      "tags": [
+        "drama",
+        "award-winners",
+        "must-see"
+      ]
+    },
+    {
+      "id": "singfeld-a-musical-about-nothing-jerry-orbach-theatre",
+      "title": "Singfeld! A Musical About Nothing",
+      "venue": "Jerry Orbach Theatre",
       "category": "off-broadway",
       "status": "running",
-      "genre": "play",
-      "opening_date": "2026-02-22",
-      "image_url": "https://images.ctfassets.net/6pezt69ih962/3xxtKKpoX6CbsjusQVTJvd/aacb802ea43c4c82c9bec0d1d7716c18/PaT_480x720.png",
-      "todaytix_url": "https://www.todaytix.com/shows/46093",
+      "genre": "musical",
+      "opening_date": "2023-05-01",
+      "description": "Relive all the funniest moments from the classic sitcom at this musical parody. See Jerry, George, Elaine, and Kramer's most iconic adventures set to hilarious songs like \"The Master of their Domain,\" \"Seasons of George,\" and \"The Yadda Yadda Song.\"",
+      "image_url": "https://images.ctfassets.net/6pezt69ih962/6IgPHbuCaVrmRqLOcHkItF/039919a6e095b586de4617cb17cebbf1/Untitled_design__6__copy.png",
+      "playbill_url": "https://playbill.com/production/singfeld-a-musical-about-nothing-off-broadway-the-theater-center-the-jerry-orbach-theater-2024",
+      "todaytix_url": "https://www.todaytix.com/shows/28808",
       "price": {
         "cheapest": 58,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-06-01"
+        "as_of": "2026-06-02"
+      },
+      "tags": [
+        "comedy",
+        "rush-available"
+      ]
+    },
+    {
+      "id": "giant-music-box-theatre",
+      "title": "Giant",
+      "venue": "Music Box Theatre",
+      "category": "broadway",
+      "status": "running",
+      "genre": "play",
+      "opening_date": "2026-03-11",
+      "closing_date": "2026-06-28",
+      "description": "*Giant* dramatizes a period of Roald Dahl's life after the 1983 literary review of one of his picture books.",
+      "image_url": "https://images.ctfassets.net/6pezt69ih962/1OPdBa7lB9TbutJyQS940I/170019ae2aa98d65ff5b2684bab617c8/GNT-112768-023684-ThirdPartyAssets-TodayTix-480x720__1_.jpg",
+      "playbill_url": "https://playbill.com/production/giant-broadway-music-box-theatre-2026",
+      "todaytix_url": "https://www.todaytix.com/shows/45280",
+      "price": {
+        "cheapest": 87,
+        "currency": "USD",
+        "source": "todaytix",
+        "as_of": "2026-06-02"
+      },
+      "review": {
+        "score": 88,
+        "review_count": 226,
+        "adjectives": [
+          "Thought provoking",
+          "Ambitious",
+          "Great acting"
+        ]
+      },
+      "lat": 40.7588721,
+      "lng": -73.9871508,
+      "tags": [
+        "stars-on-stage"
+      ]
+    },
+    {
+      "id": "inter-alia-music-box-theatre",
+      "title": "Inter Alia",
+      "venue": "Music Box Theatre",
+      "category": "broadway",
+      "status": "upcoming",
+      "genre": "play",
+      "opening_date": "2026-11-10",
+      "description": "*Inter Alia* is a legal drama where a sharp lawyer tries to keep her personal life out of the courtroom, until one event changes everything.",
+      "image_url": "https://images.ctfassets.net/6pezt69ih962/2nxNys7Rc8jam5y1cLhn9Y/52235645fe26f47f5389a5aed21b6682/IA-ThirdPartyAssets-TodayTix-480x720.jpg",
+      "todaytix_url": "https://www.todaytix.com/shows/46738",
+      "price": {
+        "cheapest": 82,
+        "currency": "USD",
+        "source": "todaytix",
+        "as_of": "2026-06-02"
+      },
+      "lat": 40.7588721,
+      "lng": -73.9871508,
+      "tags": [
+        "stars-on-stage"
+      ]
+    },
+    {
+      "id": "schmigadoon-on-broadway-nederlander-theatre",
+      "title": "Schmigadoon! on Broadway",
+      "venue": "Nederlander Theatre",
+      "category": "broadway",
+      "status": "running",
+      "genre": "musical",
+      "opening_date": "2026-04-04",
+      "closing_date": "2027-01-03",
+      "description": "*Schmigadoon!* is a musical comedy based on the hit TV show that spoofs Broadway's Golden Age.",
+      "image_url": "https://images.ctfassets.net/6pezt69ih962/52mHKfZYl3jFRCa4KsoGbW/2184acdc18e6baa88b981a5a038893cb/SMGD-TodayTixTonyBanners-480x720.png",
+      "todaytix_url": "https://www.todaytix.com/shows/45429",
+      "price": {
+        "cheapest": 62,
+        "currency": "USD",
+        "source": "todaytix",
+        "as_of": "2026-06-02"
+      },
+      "review": {
+        "score": 92,
+        "review_count": 217,
+        "adjectives": []
+      },
+      "lat": 40.7554837,
+      "lng": -73.9883023,
+      "tags": [
+        "film-tv"
+      ]
+    },
+    {
+      "id": "mexodus-daryl-roth-theatre",
+      "title": "Mexodus",
+      "venue": "Daryl Roth Theatre",
+      "category": "off-broadway",
+      "status": "running",
+      "genre": "musical",
+      "opening_date": "2026-03-06",
+      "closing_date": "2026-06-14",
+      "description": "*Mexodus* is a groundbreaking hip-hop musical about people who escaped slavery by moving across the Mexican border.",
+      "image_url": "https://images.ctfassets.net/6pezt69ih962/7JDYsfRTydaAP9xUB9l4vM/8e63f157a4ae24485af6d0bcdfb603f5/Poster.jpg",
+      "playbill_url": "https://playbill.com/production/mexodus-off-broadway-daryl-roth-theatre-2026",
+      "todaytix_url": "https://www.todaytix.com/shows/44890",
+      "price": {
+        "cheapest": 95,
+        "currency": "USD",
+        "source": "todaytix",
+        "as_of": "2026-06-02"
+      },
+      "review": {
+        "score": 95,
+        "review_count": 397,
+        "adjectives": [
+          "Great singing",
+          "Great acting",
+          "Delightful",
+          "Entertaining",
+          "Clever"
+        ]
+      },
+      "lat": 40.7352914,
+      "lng": -73.9894585,
+      "tags": [
+        "rush-available"
+      ]
+    },
+    {
+      "id": "indian-princesses-atlantic-theater-company-linda-gross-theater",
+      "title": "Indian Princesses",
+      "venue": "Atlantic Theater Company - Linda Gross Theater",
+      "category": "off-broadway",
+      "status": "running",
+      "genre": "play",
+      "opening_date": "2026-04-30",
+      "closing_date": "2026-06-07",
+      "description": "*Indian Princesses* is a touching and wise new play about a summer camp for young girls of color and their white fathers.",
+      "image_url": "https://images.ctfassets.net/6pezt69ih962/4yhbMXsDi9ueULihSZ1NdL/8c27929c352420fa28e4f43ddc6143ce/IP_TT_480x720.jpg",
+      "playbill_url": "https://playbill.com/production/indian-princesses-off-broadway-atlantic-theater-company-linda-gross-theater-2026",
+      "todaytix_url": "https://www.todaytix.com/shows/44895",
+      "price": {
+        "cheapest": 53,
+        "currency": "USD",
+        "source": "todaytix",
+        "as_of": "2026-06-02"
+      },
+      "tags": [
+        "rush-available"
+      ]
+    },
+    {
+      "id": "the-saviors-atlantic-theater-company-linda-gross-theater",
+      "title": "The Saviors",
+      "venue": "Atlantic Theater Company - Linda Gross Theater",
+      "category": "off-broadway",
+      "status": "upcoming",
+      "genre": "play",
+      "opening_date": "2026-07-08",
+      "closing_date": "2026-08-08",
+      "description": "*The Saviors* is a new play about faith, boyhood, and the bonds that break and tie.",
+      "image_url": "https://images.ctfassets.net/6pezt69ih962/5nFso1t3MbAbSHYgxpdgKT/513740e5f81d1680cb69a0cccc02105f/Saviors_480x720_TodayTix_1.png",
+      "playbill_url": "https://playbill.com/production/the-saviors-off-broadway-atlantic-theater-company-linda-gross-theater-2026",
+      "todaytix_url": "https://www.todaytix.com/shows/46214",
+      "price": {
+        "cheapest": 58,
+        "currency": "USD",
+        "source": "todaytix",
+        "as_of": "2026-06-02"
       },
       "tags": []
     },
     {
-      "id": "kenrex-lucille-lortel-theatre",
-      "title": "KENREX",
-      "venue": "Lucille Lortel Theatre",
+      "id": "selected-shorts-a-first-time-for-everything-with-meg-wolitzer-peter-jay-sharp-theatre-at-symphony-space",
+      "title": "Selected Shorts: A First Time for Everything with Meg Wolitzer",
+      "venue": "Peter Jay Sharp Theatre at Symphony Space",
       "category": "off-broadway",
-      "status": "running",
+      "status": "upcoming",
       "genre": "play",
-      "opening_date": "2026-04-16",
-      "closing_date": "2026-06-27",
-      "description": "*Kenrex* is a true crime drama about Ken McElroy, a man from Missouri convicted of second-degree assault.",
-      "image_url": "https://images.ctfassets.net/6pezt69ih962/4OBRPisID8RyyRrQDXnuhA/ee74722348b8d2c4ba57d5ce8c2ace00/260312_KENREX_KeyArt_480x720_RG.jpg",
-      "playbill_url": "https://playbill.com/production/kenrex-off-broadway-lucille-lortel-theatre",
-      "todaytix_url": "https://www.todaytix.com/shows/46159",
+      "opening_date": "2026-06-10",
+      "closing_date": "2026-06-10",
+      "image_url": "https://images.ctfassets.net/6pezt69ih962/4tBavxHbVsCMDMKGKaWuys/f7bc6d15f079a04c06093856a586387b/FirstTime_TodayTix_480x720.png",
+      "todaytix_url": "https://www.todaytix.com/shows/46191",
       "price": {
-        "cheapest": 65,
+        "cheapest": 47,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-06-01"
+        "as_of": "2026-06-02"
       },
-      "review": {
-        "score": 95,
-        "review_count": 107,
-        "adjectives": [
-          "Entertaining"
-        ]
+      "tags": []
+    },
+    {
+      "id": "inside-the-interestings-an-evening-with-sara-bareilles-michael-arden-meg-wolitzer-peter-jay-sharp-theatre-at-symphony-space",
+      "title": "Inside The Interestings: An Evening with Sara Bareilles, Michael Arden & Meg Wolitzer",
+      "venue": "Peter Jay Sharp Theatre at Symphony Space",
+      "category": "off-broadway",
+      "status": "upcoming",
+      "genre": "conversations",
+      "opening_date": "2026-06-09",
+      "closing_date": "2026-06-09",
+      "image_url": "https://images.ctfassets.net/6pezt69ih962/2qSezOCZzrumbLS1nNxDCZ/62cf955c5bad685102d9fe6f0b5778b0/Interestings_TodayTix_480x720.png",
+      "todaytix_url": "https://www.todaytix.com/shows/46999",
+      "price": {
+        "cheapest": 108,
+        "currency": "USD",
+        "source": "todaytix",
+        "as_of": "2026-06-02"
       },
-      "lat": 40.7333618,
-      "lng": -74.0057425,
+      "tags": []
+    },
+    {
+      "id": "dave-eggers-contrapposto-peter-jay-sharp-theatre-at-symphony-space",
+      "title": "Dave Eggers, Contrapposto",
+      "venue": "Peter Jay Sharp Theatre at Symphony Space",
+      "category": "off-broadway",
+      "status": "upcoming",
+      "genre": "conversations",
+      "opening_date": "2026-06-08",
+      "closing_date": "2026-06-08",
+      "image_url": "https://images.ctfassets.net/6pezt69ih962/7bBkbwFJ2O11PvhvhE8HlT/ef60270f9ce74d42dc3ed6fe7e8e8a63/Eggers_TodayTix_480x720__1_.png",
+      "todaytix_url": "https://www.todaytix.com/shows/46193",
+      "price": {
+        "cheapest": 41,
+        "currency": "USD",
+        "source": "todaytix",
+        "as_of": "2026-06-02"
+      },
       "tags": [
-        "crime-thriller-mystery",
-        "transfer",
-        "contemporary"
+        "award-winners"
       ]
     },
     {
@@ -909,7 +1025,7 @@
         "cheapest": 62,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-06-01"
+        "as_of": "2026-06-02"
       },
       "lat": 40.7581448,
       "lng": -73.9872564,
@@ -932,13 +1048,52 @@
         "cheapest": 53,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-06-01"
+        "as_of": "2026-06-02"
       },
       "lat": 40.7581448,
       "lng": -73.9872564,
       "tags": [
-        "comedy",
-        "stars-on-stage"
+        "stars-on-stage",
+        "comedy"
+      ]
+    },
+    {
+      "id": "pied-à-terre-anne-l-bernstein-theater",
+      "title": "Pied à Terre",
+      "venue": "Anne L. Bernstein Theater",
+      "category": "off-broadway",
+      "status": "running",
+      "genre": "play",
+      "opening_date": "2026-02-22",
+      "image_url": "https://images.ctfassets.net/6pezt69ih962/3xxtKKpoX6CbsjusQVTJvd/aacb802ea43c4c82c9bec0d1d7716c18/PaT_480x720.png",
+      "todaytix_url": "https://www.todaytix.com/shows/46093",
+      "price": {
+        "cheapest": 58,
+        "currency": "USD",
+        "source": "todaytix",
+        "as_of": "2026-06-02"
+      },
+      "tags": []
+    },
+    {
+      "id": "paradise-club-presents-salvage-city-supper-club-paradise-club",
+      "title": "Paradise Club Presents: Salvage City Supper Club",
+      "venue": "Paradise Club",
+      "category": "off-broadway",
+      "status": "running",
+      "genre": "immersive experiences",
+      "opening_date": "2026-04-17",
+      "closing_date": "2026-06-27",
+      "image_url": "https://images.ctfassets.net/6pezt69ih962/3VrtKEtovoiKRuFgBjXxtC/cfe5fb46a5484e39f2f2c8e5d85037cf/480_x_720.jpg",
+      "todaytix_url": "https://www.todaytix.com/shows/46557",
+      "price": {
+        "cheapest": 105,
+        "currency": "USD",
+        "source": "todaytix",
+        "as_of": "2026-06-02"
+      },
+      "tags": [
+        "sci-fi-fantasy"
       ]
     },
     {
@@ -957,7 +1112,7 @@
         "cheapest": 72,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-06-01"
+        "as_of": "2026-06-02"
       },
       "review": {
         "score": 91,
@@ -971,62 +1126,37 @@
       ]
     },
     {
-      "id": "selected-shorts-a-first-time-for-everything-with-meg-wolitzer-peter-jay-sharp-theatre-at-symphony-space",
-      "title": "Selected Shorts: A First Time for Everything with Meg Wolitzer",
-      "venue": "Peter Jay Sharp Theatre at Symphony Space",
+      "id": "kenrex-lucille-lortel-theatre",
+      "title": "KENREX",
+      "venue": "Lucille Lortel Theatre",
       "category": "off-broadway",
-      "status": "upcoming",
+      "status": "running",
       "genre": "play",
-      "opening_date": "2026-06-10",
-      "closing_date": "2026-06-10",
-      "image_url": "https://images.ctfassets.net/6pezt69ih962/4tBavxHbVsCMDMKGKaWuys/39eaa8c970e7589a3324bc8322b60646/Wolitzer_TodayTix_480x720.png",
-      "todaytix_url": "https://www.todaytix.com/shows/46191",
+      "opening_date": "2026-04-16",
+      "closing_date": "2026-06-27",
+      "description": "*Kenrex* is a true crime drama about Ken McElroy, a man from Missouri convicted of second-degree assault.",
+      "image_url": "https://images.ctfassets.net/6pezt69ih962/4OBRPisID8RyyRrQDXnuhA/ee74722348b8d2c4ba57d5ce8c2ace00/260312_KENREX_KeyArt_480x720_RG.jpg",
+      "playbill_url": "https://playbill.com/production/kenrex-off-broadway-lucille-lortel-theatre",
+      "todaytix_url": "https://www.todaytix.com/shows/46159",
       "price": {
-        "cheapest": 47,
+        "cheapest": 65,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-06-01"
+        "as_of": "2026-06-02"
       },
-      "tags": []
-    },
-    {
-      "id": "inside-the-interestings-an-evening-with-sara-bareilles-michael-arden-meg-wolitzer-peter-jay-sharp-theatre-at-symphony-space",
-      "title": "Inside The Interestings: An Evening with Sara Bareilles, Michael Arden & Meg Wolitzer",
-      "venue": "Peter Jay Sharp Theatre at Symphony Space",
-      "category": "off-broadway",
-      "status": "upcoming",
-      "genre": "conversations",
-      "opening_date": "2026-06-09",
-      "closing_date": "2026-06-09",
-      "image_url": "https://images.ctfassets.net/6pezt69ih962/2qSezOCZzrumbLS1nNxDCZ/62cf955c5bad685102d9fe6f0b5778b0/Interestings_TodayTix_480x720.png",
-      "todaytix_url": "https://www.todaytix.com/shows/46999",
-      "price": {
-        "cheapest": 108,
-        "currency": "USD",
-        "source": "todaytix",
-        "as_of": "2026-06-01"
+      "review": {
+        "score": 95,
+        "review_count": 107,
+        "adjectives": [
+          "Entertaining"
+        ]
       },
-      "tags": []
-    },
-    {
-      "id": "dave-eggers-contrapposto-peter-jay-sharp-theatre-at-symphony-space",
-      "title": "Dave Eggers, Contrapposto",
-      "venue": "Peter Jay Sharp Theatre at Symphony Space",
-      "category": "off-broadway",
-      "status": "upcoming",
-      "genre": "conversations",
-      "opening_date": "2026-06-08",
-      "closing_date": "2026-06-08",
-      "image_url": "https://images.ctfassets.net/6pezt69ih962/7bBkbwFJ2O11PvhvhE8HlT/ef60270f9ce74d42dc3ed6fe7e8e8a63/Eggers_TodayTix_480x720__1_.png",
-      "todaytix_url": "https://www.todaytix.com/shows/46193",
-      "price": {
-        "cheapest": 41,
-        "currency": "USD",
-        "source": "todaytix",
-        "as_of": "2026-06-01"
-      },
+      "lat": 40.7333618,
+      "lng": -74.0057425,
       "tags": [
-        "award-winners"
+        "crime-thriller-mystery",
+        "transfer",
+        "contemporary"
       ]
     },
     {
@@ -1046,30 +1176,9 @@
         "cheapest": 39,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-06-01"
+        "as_of": "2026-06-02"
       },
       "tags": []
-    },
-    {
-      "id": "paradise-club-presents-salvage-city-supper-club-paradise-club",
-      "title": "Paradise Club Presents: Salvage City Supper Club",
-      "venue": "Paradise Club",
-      "category": "off-broadway",
-      "status": "running",
-      "genre": "immersive experiences",
-      "opening_date": "2026-04-17",
-      "closing_date": "2026-06-27",
-      "image_url": "https://images.ctfassets.net/6pezt69ih962/3VrtKEtovoiKRuFgBjXxtC/cfe5fb46a5484e39f2f2c8e5d85037cf/480_x_720.jpg",
-      "todaytix_url": "https://www.todaytix.com/shows/46557",
-      "price": {
-        "cheapest": 105,
-        "currency": "USD",
-        "source": "todaytix",
-        "as_of": "2026-06-01"
-      },
-      "tags": [
-        "sci-fi-fantasy"
-      ]
     },
     {
       "id": "jim-hensons-fraggle-rock-back-to-the-rock-live-new-victory-theater",
@@ -1080,19 +1189,19 @@
       "genre": "musical",
       "opening_date": "2026-05-30",
       "closing_date": "2026-06-21",
-      "image_url": "https://images.ctfassets.net/6pezt69ih962/3nFvMhJPeGCkDmNtdc7fpV/99f1dda6c72fe7268122c7ea4cc1ad09/2526-Fraggle-Rock-TodayTix-480X720.jpg",
-      "todaytix_url": "https://www.todaytix.com/shows/46879",
+      "image_url": "https://images.ctfassets.net/6pezt69ih962/2JVHS4Le6nxnJw3CNm7hXv/ea7588aef3e5aec8882f09164f09e386/2526-Fraggle-Rock-TodayTix-480X720.jpg",
+      "todaytix_url": "https://www.todaytix.com/shows/46913",
       "price": {
         "cheapest": 34,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-06-01"
+        "as_of": "2026-06-02"
       },
       "lat": 40.7565592,
       "lng": -73.9874525,
       "tags": [
-        "family-kid-friendly",
-        "adventure"
+        "adventure",
+        "family-kid-friendly"
       ]
     },
     {
@@ -1109,7 +1218,7 @@
         "cheapest": 59,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-06-01"
+        "as_of": "2026-06-02"
       },
       "lat": 40.763373,
       "lng": -73.9841934,
@@ -1133,7 +1242,7 @@
         "cheapest": 64,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-06-01"
+        "as_of": "2026-06-02"
       },
       "review": {
         "score": 87,
@@ -1143,8 +1252,8 @@
       "lat": 40.763373,
       "lng": -73.9841934,
       "tags": [
-        "film-tv",
         "stars-on-stage",
+        "film-tv",
         "rush-available"
       ]
     },
@@ -1163,7 +1272,7 @@
         "cheapest": 58,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-06-01"
+        "as_of": "2026-06-02"
       },
       "tags": []
     },
@@ -1182,7 +1291,7 @@
         "cheapest": 33,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-06-01"
+        "as_of": "2026-06-02"
       },
       "lat": 40.7672334,
       "lng": -73.9655036,
@@ -1204,7 +1313,7 @@
         "cheapest": 65,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-06-01"
+        "as_of": "2026-06-02"
       },
       "tags": []
     },
@@ -1221,19 +1330,19 @@
       "playbill_url": "https://playbill.com/production/little-shop-of-horrorswestside-theatre-upstairs-2019-2020",
       "todaytix_url": "https://www.todaytix.com/shows/24608",
       "price": {
-        "cheapest": 122,
+        "cheapest": 70,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-06-01"
+        "as_of": "2026-06-02"
       },
       "review": {
         "score": 91,
         "review_count": 2229,
         "adjectives": [
-          "Funny",
-          "Delightful",
           "Entertaining",
           "Great singing",
+          "Delightful",
+          "Funny",
           "Clever"
         ]
       },
@@ -1241,10 +1350,10 @@
       "lng": -73.9926202,
       "tags": [
         "family-kid-friendly",
-        "comedy",
-        "award-winners",
         "stars-on-stage",
-        "must-see"
+        "award-winners",
+        "must-see",
+        "comedy"
       ]
     },
     {
@@ -1263,17 +1372,17 @@
         "cheapest": 58,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-06-01"
+        "as_of": "2026-06-02"
       },
       "review": {
         "score": 87,
         "review_count": 308,
         "adjectives": [
-          "Great acting",
-          "Entertaining",
           "Clever",
-          "Delightful",
-          "Funny"
+          "Entertaining",
+          "Great acting",
+          "Funny",
+          "Delightful"
         ]
       },
       "lat": 40.7160935,
@@ -1298,152 +1407,14 @@
         "cheapest": 60,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-06-01"
+        "as_of": "2026-06-02"
       },
       "lat": 40.7160935,
       "lng": -74.0058928,
       "tags": [
-        "crime-thriller-mystery",
         "drama",
+        "crime-thriller-mystery",
         "rush-available"
-      ]
-    },
-    {
-      "id": "cats-the-jellicle-ball-broadhurst-theatre",
-      "title": "CATS: The Jellicle Ball",
-      "venue": "Broadhurst Theatre",
-      "category": "broadway",
-      "status": "running",
-      "genre": "musical",
-      "opening_date": "2026-03-18",
-      "image_url": "https://images.ctfassets.net/6pezt69ih962/fDDhklXmDmUruVjCx5LlX/c4262d4acfba7c575174e326d5a03637/CATS_Character_Todaytix_480x720_PosterKeyArt.jpg",
-      "playbill_url": "https://playbill.com/production/cats-the-jellicle-ball-broadway-broadhurst-theatre-2026",
-      "todaytix_url": "https://www.todaytix.com/shows/39754",
-      "price": {
-        "cheapest": 69,
-        "currency": "USD",
-        "source": "todaytix",
-        "as_of": "2026-06-01"
-      },
-      "review": {
-        "score": 93,
-        "review_count": 668,
-        "adjectives": []
-      },
-      "lat": 40.7582686,
-      "lng": -73.9876171,
-      "tags": [
-        "stars-on-stage",
-        "revival"
-      ]
-    },
-    {
-      "id": "ragtime-vivian-beaumont-theater-lincoln-center-theater",
-      "title": "Ragtime",
-      "venue": "Vivian Beaumont Theater - Lincoln Center Theater",
-      "category": "broadway",
-      "status": "running",
-      "genre": "musical",
-      "opening_date": "2025-09-26",
-      "description": "Based on the bestselling novel, *Ragtime* is a musical epic that features three fictional families as they move through a rapidly changing New York in pursuit of the American Dream.",
-      "image_url": "https://images.ctfassets.net/6pezt69ih962/6WOVFvxvqgxOHoRkt2vUzw/b83b6ea7fcc02c9dbf4403fe22bc1977/LCT-Ragtime-113037-025607-TonyUpdate-TodayTix_480x720.jpg",
-      "playbill_url": "https://playbill.com/production/ragtime-broadway-vivian-beaumont-theater-2025",
-      "todaytix_url": "https://www.todaytix.com/shows/41025",
-      "price": {
-        "cheapest": 112,
-        "currency": "USD",
-        "source": "todaytix",
-        "as_of": "2026-06-01"
-      },
-      "review": {
-        "score": 95,
-        "review_count": 1980,
-        "adjectives": [
-          "Entertaining",
-          "Must see",
-          "Great singing",
-          "Great acting",
-          "Relevant"
-        ]
-      },
-      "tags": [
-        "history",
-        "award-winners",
-        "stars-on-stage",
-        "must-see",
-        "revival"
-      ]
-    },
-    {
-      "id": "im-almost-there-bam-fisher-fishman-space",
-      "title": "I'm Almost There",
-      "venue": "BAM Fisher (Fishman Space)",
-      "category": "off-broadway",
-      "status": "upcoming",
-      "genre": "musical",
-      "opening_date": "2026-06-09",
-      "closing_date": "2026-06-28",
-      "image_url": "https://images.ctfassets.net/6pezt69ih962/4n1TeEkQqKe90kRxT7qG8c/ed3b5e3cbcea45359772524f802769be/26-1238050-WS-Im-Almost-There-TodayTix-480x720-2.jpg",
-      "todaytix_url": "https://www.todaytix.com/shows/42035",
-      "price": {
-        "cheapest": 63,
-        "currency": "USD",
-        "source": "todaytix",
-        "as_of": "2026-06-01"
-      },
-      "review": {
-        "score": 82,
-        "review_count": 10,
-        "adjectives": [
-          "Entertaining",
-          "Delightful",
-          "Great acting",
-          "Clever",
-          "Absorbing"
-        ]
-      },
-      "tags": [
-        "romance"
-      ]
-    },
-    {
-      "id": "hamilton-richard-rodgers-theatre",
-      "title": "Hamilton",
-      "venue": "Richard Rodgers Theatre",
-      "category": "broadway",
-      "status": "running",
-      "genre": "musical",
-      "opening_date": "2015-07-13",
-      "description": "How does a show about an American Founding Father go on to revolutionize Broadway? Experience Lin-Manuel Miranda's Pulitzer- and Tony-winning hip-hop musical about how Alexander Hamilton fought, feuded, and financed his way into the history books.",
-      "image_url": "https://images.ctfassets.net/6pezt69ih962/4qb7FeNVZnq8k5A0AEN1Ug/beceb06cd0bb60e7b3ad2670fe0f0fa9/HAM_020_PA_BRAND_REFRESH_TICKETING_ASSETS_TodayTix_PosterKeyArt_480x720_v1.jpg",
-      "playbill_url": "https://playbill.com/production/hamilton-broadway-richard-rodgers-theatre-2015",
-      "todaytix_url": "https://www.todaytix.com/shows/384",
-      "price": {
-        "cheapest": 112,
-        "currency": "USD",
-        "source": "todaytix",
-        "as_of": "2026-06-01"
-      },
-      "review": {
-        "score": 96,
-        "review_count": 14401,
-        "adjectives": [
-          "Absorbing",
-          "Entertaining",
-          "Must see",
-          "Clever",
-          "Ambitious"
-        ]
-      },
-      "lat": 40.7590309,
-      "lng": -73.9867479,
-      "tags": [
-        "history",
-        "family-kid-friendly",
-        "award-winners",
-        "romance",
-        "must-see",
-        "drama"
       ]
     },
     {
@@ -1462,7 +1433,7 @@
         "cheapest": 62,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-06-01"
+        "as_of": "2026-06-02"
       },
       "review": {
         "score": 91,
@@ -1479,212 +1450,95 @@
       "lng": -73.9855847,
       "tags": [
         "family-kid-friendly",
-        "award-winners",
+        "drama",
         "stars-on-stage",
+        "award-winners",
         "must-see",
-        "sci-fi-fantasy",
-        "drama"
+        "sci-fi-fantasy"
       ]
     },
     {
-      "id": "music-city-st-lukes-theatre",
-      "title": "Music City",
-      "venue": "St. Luke's Theatre",
-      "category": "off-broadway",
-      "status": "upcoming",
-      "genre": "musical",
-      "opening_date": "2026-06-15",
-      "closing_date": "2026-10-31",
-      "description": "*Music City* is a soaring new musical about two singer-songwriters looking to make it big in Nashville.",
-      "image_url": "https://images.ctfassets.net/6pezt69ih962/5fs9hOzX1LWxdDvWVw8J24/f3d180bdf2c5a4ee1dd73f3438730050/840791634-260302_mc_todaytix_480x720_ss.jpg",
-      "playbill_url": "https://playbill.com/production/music-city-off-broadway-st-lukes-theatre-2026",
-      "todaytix_url": "https://www.todaytix.com/shows/46163",
-      "price": {
-        "cheapest": 67,
-        "currency": "USD",
-        "source": "todaytix",
-        "as_of": "2026-06-01"
-      },
-      "tags": [
-        "jukebox"
-      ]
-    },
-    {
-      "id": "animal-wisdom-pershing-square-signature-center",
-      "title": "Animal Wisdom",
-      "venue": "Pershing Square Signature Center",
-      "category": "off-broadway",
+      "id": "hamilton-richard-rodgers-theatre",
+      "title": "Hamilton",
+      "venue": "Richard Rodgers Theatre",
+      "category": "broadway",
       "status": "running",
       "genre": "musical",
-      "opening_date": "2022-03-15",
-      "closing_date": "2026-06-14",
-      "description": "*Animal Wisdom* is a a musical séance like no other, a singular piece from Heather Christian blending storytelling, requiem, and family mythology. ",
-      "image_url": "https://images.ctfassets.net/6pezt69ih962/2NXMbF8ZGgylEVESpiUIlf/f04bf41802ec16f7d3449eec5a57e525/AW_TodayTix_480x720.png",
-      "playbill_url": "https://playbill.com/production/animal-wisdom-off-broadway-the-pershing-square-signature-center-romulus-linney-courtyard-theatre-2026",
-      "todaytix_url": "https://www.todaytix.com/shows/44146",
+      "opening_date": "2015-07-13",
+      "description": "How does a show about an American Founding Father go on to revolutionize Broadway? Experience Lin-Manuel Miranda's Pulitzer- and Tony-winning hip-hop musical about how Alexander Hamilton fought, feuded, and financed his way into the history books.",
+      "image_url": "https://images.ctfassets.net/6pezt69ih962/4qb7FeNVZnq8k5A0AEN1Ug/beceb06cd0bb60e7b3ad2670fe0f0fa9/HAM_020_PA_BRAND_REFRESH_TICKETING_ASSETS_TodayTix_PosterKeyArt_480x720_v1.jpg",
+      "playbill_url": "https://playbill.com/production/hamilton-broadway-richard-rodgers-theatre-2015",
+      "todaytix_url": "https://www.todaytix.com/shows/384",
       "price": {
-        "cheapest": 48,
+        "cheapest": 112,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-06-01"
+        "as_of": "2026-06-02"
       },
+      "review": {
+        "score": 96,
+        "review_count": 14401,
+        "adjectives": [
+          "Absorbing",
+          "Must see",
+          "Ambitious",
+          "Entertaining",
+          "Clever"
+        ]
+      },
+      "lat": 40.7590309,
+      "lng": -73.9867479,
       "tags": [
-        "contemporary",
-        "revival"
-      ]
-    },
-    {
-      "id": "small-pershing-square-signature-center",
-      "title": "SMALL",
-      "venue": "Pershing Square Signature Center",
-      "category": "off-broadway",
-      "status": "running",
-      "genre": "play",
-      "opening_date": "2026-05-20",
-      "closing_date": "2026-07-25",
-      "description": "An acclaimed solo show, *Small* is about big dreams — both on the race track and on Broadway.",
-      "image_url": "https://images.ctfassets.net/6pezt69ih962/1IoQHG5Pe0jUxvE23C0Szz/fe0be3d770bf61d74f2f34cd3ea7ed2c/TT_POSTER_480x720.png",
-      "playbill_url": "https://playbill.com/production/small-off-broadway-the-pershing-square-signature-center-alice-griffin-jewel-box-theatre-2026",
-      "todaytix_url": "https://www.todaytix.com/shows/46839",
-      "price": {
-        "cheapest": 77,
-        "currency": "USD",
-        "source": "todaytix",
-        "as_of": "2026-06-01"
-      },
-      "tags": []
-    },
-    {
-      "id": "lauder-scotlands-kilted-king-of-broadway-59e59-theaters-theater-b",
-      "title": "Lauder: Scotland's Kilted King of Broadway",
-      "venue": "59E59 Theaters Theater B",
-      "category": "off-broadway",
-      "status": "running",
-      "genre": "play",
-      "opening_date": "2026-05-14",
-      "closing_date": "2026-06-07",
-      "image_url": "https://images.ctfassets.net/6pezt69ih962/7HxFmjBHX7xyNVhgHMpC2F/95b429df657f3bb6c6eb0b474afa9f1d/59E59_LAUDER_TODAYTIX_480x720.jpg",
-      "todaytix_url": "https://www.todaytix.com/shows/46869",
-      "price": {
-        "cheapest": 47,
-        "currency": "USD",
-        "source": "todaytix",
-        "as_of": "2026-06-01"
-      },
-      "tags": [
-        "jukebox",
-        "transfer",
-        "comedy",
-        "biography",
-        "rush-available"
-      ]
-    },
-    {
-      "id": "catch-of-the-day-59e59-theaters-theater-b",
-      "title": "Catch of the Day",
-      "venue": "59E59 Theaters Theater B",
-      "category": "off-broadway",
-      "status": "upcoming",
-      "genre": "play",
-      "opening_date": "2026-06-10",
-      "closing_date": "2026-06-28",
-      "image_url": "https://images.ctfassets.net/6pezt69ih962/5DbxfjKpCQj0H5h9qZlKgR/fc41a805c658525419356dd0b35b7b17/59E59_COTD_TODAYTIX_480x720.jpg",
-      "todaytix_url": "https://www.todaytix.com/shows/46912",
-      "price": {
-        "cheapest": 48,
-        "currency": "USD",
-        "source": "todaytix",
-        "as_of": "2026-06-01"
-      },
-      "tags": [
+        "family-kid-friendly",
+        "drama",
         "history",
-        "transfer",
-        "comedy",
-        "contemporary"
+        "romance",
+        "award-winners",
+        "must-see"
       ]
     },
     {
-      "id": "youth-in-flames-59e59-theaters-theater-c",
-      "title": "Youth in Flames",
-      "venue": "59E59 Theaters Theater C",
+      "id": "henry-vi-a-trilogy-in-two-parts-the-public-theater",
+      "title": "Henry VI: A Trilogy in Two Parts",
+      "venue": "The Public Theater",
       "category": "off-broadway",
       "status": "upcoming",
       "genre": "play",
-      "opening_date": "2026-06-10",
-      "closing_date": "2026-06-28",
-      "image_url": "https://images.ctfassets.net/6pezt69ih962/BhuRvnPFAJmVBeflDmOfY/5557340fcb983e04fdd4b6c12f24243b/59E59_YOUTH_IN_FLAMES_TODAYTIX_480x720.jpg",
-      "todaytix_url": "https://www.todaytix.com/shows/46871",
+      "opening_date": "2026-06-09",
+      "closing_date": "2026-07-19",
+      "image_url": "https://images.ctfassets.net/6pezt69ih962/7CBw1KI49KpVaXO8b2glWt/9a9480d5998ed0c47ef4ae3343ea5113/2526Public_HENRY_key_todaytix_V1_480x720.png",
+      "playbill_url": "https://playbill.com/production/henry-vi-a-trilogy-in-two-parts-off-broadway-public-theater-newman-theater-2026",
+      "todaytix_url": "https://www.todaytix.com/shows/46480",
       "price": {
-        "cheapest": 38,
+        "cheapest": 87,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-06-01"
+        "as_of": "2026-06-02"
       },
       "tags": [
-        "drama"
+        "classic"
       ]
     },
     {
-      "id": "this-is-not-about-me-59e59-theaters-theater-c",
-      "title": "THIS IS NOT ABOUT ME.",
-      "venue": "59E59 Theaters Theater C",
+      "id": "girl-interrupted-the-public-theater",
+      "title": "Girl, Interrupted ",
+      "venue": "The Public Theater",
       "category": "off-broadway",
       "status": "running",
       "genre": "play",
       "opening_date": "2026-05-13",
-      "closing_date": "2026-06-07",
-      "image_url": "https://images.ctfassets.net/6pezt69ih962/Ehc92lFfQUl5pTHtFrQJI/f8966dbb6882880d86207e5fb195c5df/59E59_TINAM_TODAYTIX_480x720.jpg",
-      "todaytix_url": "https://www.todaytix.com/shows/46872",
+      "closing_date": "2026-07-12",
+      "image_url": "https://images.ctfassets.net/6pezt69ih962/8YkjieYzDiyCRmjXbclhb/4bd5d4299c972c2d4e7f27eef0159776/2526Public_GIRL_key_todaytix_V1_480x720.jpg",
+      "playbill_url": "https://playbill.com/production/girl-interrupted-off-broadway-public-theater-martinson-hall-2026",
+      "todaytix_url": "https://www.todaytix.com/shows/45756",
       "price": {
-        "cheapest": 38,
+        "cheapest": 129,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-06-01"
+        "as_of": "2026-06-02"
       },
       "tags": [
-        "drama",
-        "comedy",
         "rush-available"
-      ]
-    },
-    {
-      "id": "and-then-the-rodeo-burned-down-ars-nova",
-      "title": "And Then The Rodeo Burned Down",
-      "venue": "Ars Nova",
-      "category": "off-broadway",
-      "status": "running",
-      "genre": "play",
-      "opening_date": "2026-05-19",
-      "closing_date": "2026-06-18",
-      "image_url": "https://images.ctfassets.net/6pezt69ih962/2bIyRTAGmzR5UZA2PjtqTM/1d687c2cf1a83d1d9cc213efb6570603/ATTRBD_COVER_ART-480X720.png",
-      "todaytix_url": "https://www.todaytix.com/shows/46852",
-      "price": {
-        "cheapest": 54,
-        "currency": "USD",
-        "source": "todaytix",
-        "as_of": "2026-06-01"
-      },
-      "tags": []
-    },
-    {
-      "id": "building-the-wall-urban-stages",
-      "title": "Building The Wall",
-      "venue": "Urban Stages",
-      "category": "off-broadway",
-      "status": "upcoming",
-      "genre": "play",
-      "opening_date": "2026-06-11",
-      "closing_date": "2026-06-21",
-      "image_url": "https://images.ctfassets.net/6pezt69ih962/6v3K2BVn7PxMHMlSgwgkXE/baa873bd2e130d01c413608056a3d597/TodayTix.png",
-      "todaytix_url": "https://www.todaytix.com/shows/46881",
-      "price": {
-        "cheapest": 47,
-        "currency": "USD",
-        "source": "todaytix",
-        "as_of": "2026-06-01"
-      },
-      "tags": [
-        "contemporary"
       ]
     },
     {
@@ -1704,63 +1558,265 @@
         "cheapest": 87,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-06-01"
+        "as_of": "2026-06-02"
       },
       "lat": 40.7554936,
       "lng": -73.9812059,
       "tags": [
-        "comedy",
-        "satire"
+        "satire",
+        "comedy"
       ]
     },
     {
-      "id": "henry-vi-a-trilogy-in-two-parts-the-public-theater",
-      "title": "Henry VI: A Trilogy in Two Parts",
-      "venue": "The Public Theater",
+      "id": "cats-the-jellicle-ball-broadhurst-theatre",
+      "title": "CATS: The Jellicle Ball",
+      "venue": "Broadhurst Theatre",
+      "category": "broadway",
+      "status": "running",
+      "genre": "musical",
+      "opening_date": "2026-03-18",
+      "image_url": "https://images.ctfassets.net/6pezt69ih962/fDDhklXmDmUruVjCx5LlX/c4262d4acfba7c575174e326d5a03637/CATS_Character_Todaytix_480x720_PosterKeyArt.jpg",
+      "playbill_url": "https://playbill.com/production/cats-the-jellicle-ball-broadway-broadhurst-theatre-2026",
+      "todaytix_url": "https://www.todaytix.com/shows/39754",
+      "price": {
+        "cheapest": 62,
+        "currency": "USD",
+        "source": "todaytix",
+        "as_of": "2026-06-02"
+      },
+      "review": {
+        "score": 93,
+        "review_count": 668,
+        "adjectives": []
+      },
+      "lat": 40.7582686,
+      "lng": -73.9876171,
+      "tags": [
+        "revival",
+        "stars-on-stage"
+      ]
+    },
+    {
+      "id": "music-city-st-lukes-theatre",
+      "title": "Music City",
+      "venue": "St. Luke's Theatre",
       "category": "off-broadway",
       "status": "upcoming",
-      "genre": "play",
-      "opening_date": "2026-06-09",
-      "closing_date": "2026-07-19",
-      "image_url": "https://images.ctfassets.net/6pezt69ih962/7CBw1KI49KpVaXO8b2glWt/9a9480d5998ed0c47ef4ae3343ea5113/2526Public_HENRY_key_todaytix_V1_480x720.png",
-      "playbill_url": "https://playbill.com/production/henry-vi-a-trilogy-in-two-parts-off-broadway-public-theater-newman-theater-2026",
-      "todaytix_url": "https://www.todaytix.com/shows/46480",
+      "genre": "musical",
+      "opening_date": "2026-06-15",
+      "closing_date": "2026-10-31",
+      "description": "*Music City* is a soaring new musical about two singer-songwriters looking to make it big in Nashville.",
+      "image_url": "https://images.ctfassets.net/6pezt69ih962/5fs9hOzX1LWxdDvWVw8J24/f3d180bdf2c5a4ee1dd73f3438730050/840791634-260302_mc_todaytix_480x720_ss.jpg",
+      "playbill_url": "https://playbill.com/production/music-city-off-broadway-st-lukes-theatre-2026",
+      "todaytix_url": "https://www.todaytix.com/shows/46163",
       "price": {
-        "cheapest": 87,
+        "cheapest": 67,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-06-01"
+        "as_of": "2026-06-02"
       },
       "tags": [
-        "classic"
+        "jukebox"
       ]
     },
     {
-      "id": "the-circuit-an-immersive-silent-disco-ballet-superfine-dumbo",
-      "title": "THE CIRCUIT: An Immersive Silent Disco Ballet",
-      "venue": "Superfine, Dumbo",
-      "category": "off-broadway",
+      "id": "ragtime-vivian-beaumont-theater-lincoln-center-theater",
+      "title": "Ragtime",
+      "venue": "Vivian Beaumont Theater - Lincoln Center Theater",
+      "category": "broadway",
       "status": "running",
-      "genre": "immersive experiences",
-      "opening_date": "2026-05-15",
-      "closing_date": "2026-06-29",
-      "image_url": "https://images.ctfassets.net/6pezt69ih962/46boFcH0tHUM646xmLLJBO/cba93087a1b84b73a1e846f82ac4fa7b/Untitled_design__5_.png",
-      "todaytix_url": "https://www.todaytix.com/shows/46772",
+      "genre": "musical",
+      "opening_date": "2025-09-26",
+      "description": "Based on the bestselling novel, *Ragtime* is a musical epic that features three fictional families as they move through a rapidly changing New York in pursuit of the American Dream.",
+      "image_url": "https://images.ctfassets.net/6pezt69ih962/6WOVFvxvqgxOHoRkt2vUzw/b83b6ea7fcc02c9dbf4403fe22bc1977/LCT-Ragtime-113037-025607-TonyUpdate-TodayTix_480x720.jpg",
+      "playbill_url": "https://playbill.com/production/ragtime-broadway-vivian-beaumont-theater-2025",
+      "todaytix_url": "https://www.todaytix.com/shows/41025",
       "price": {
-        "cheapest": 53,
+        "cheapest": 62,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-06-01"
+        "as_of": "2026-06-02"
       },
-      "lat": 40.7023397,
-      "lng": -73.9874667,
+      "review": {
+        "score": 95,
+        "review_count": 1980,
+        "adjectives": [
+          "Great acting",
+          "Great singing",
+          "Relevant",
+          "Entertaining",
+          "Must see"
+        ]
+      },
       "tags": [
-        "comedy",
-        "adventure",
-        "romance",
-        "drama",
+        "revival",
+        "stars-on-stage",
+        "history",
+        "award-winners",
+        "must-see"
+      ]
+    },
+    {
+      "id": "im-almost-there-bam-fisher-fishman-space",
+      "title": "I'm Almost There",
+      "venue": "BAM Fisher (Fishman Space)",
+      "category": "off-broadway",
+      "status": "upcoming",
+      "genre": "musical",
+      "opening_date": "2026-06-09",
+      "closing_date": "2026-06-28",
+      "image_url": "https://images.ctfassets.net/6pezt69ih962/4n1TeEkQqKe90kRxT7qG8c/ed3b5e3cbcea45359772524f802769be/26-1238050-WS-Im-Almost-There-TodayTix-480x720-2.jpg",
+      "todaytix_url": "https://www.todaytix.com/shows/42035",
+      "price": {
+        "cheapest": 63,
+        "currency": "USD",
+        "source": "todaytix",
+        "as_of": "2026-06-02"
+      },
+      "review": {
+        "score": 82,
+        "review_count": 10,
+        "adjectives": [
+          "Entertaining",
+          "Delightful",
+          "Great acting",
+          "Clever",
+          "Absorbing"
+        ]
+      },
+      "tags": [
+        "romance"
+      ]
+    },
+    {
+      "id": "animal-wisdom-pershing-square-signature-center",
+      "title": "Animal Wisdom",
+      "venue": "Pershing Square Signature Center",
+      "category": "off-broadway",
+      "status": "running",
+      "genre": "musical",
+      "opening_date": "2022-03-15",
+      "closing_date": "2026-06-14",
+      "description": "*Animal Wisdom* is a a musical séance like no other, a singular piece from Heather Christian blending storytelling, requiem, and family mythology. ",
+      "image_url": "https://images.ctfassets.net/6pezt69ih962/2NXMbF8ZGgylEVESpiUIlf/f04bf41802ec16f7d3449eec5a57e525/AW_TodayTix_480x720.png",
+      "playbill_url": "https://playbill.com/production/animal-wisdom-off-broadway-the-pershing-square-signature-center-romulus-linney-courtyard-theatre-2026",
+      "todaytix_url": "https://www.todaytix.com/shows/44146",
+      "price": {
+        "cheapest": 48,
+        "currency": "USD",
+        "source": "todaytix",
+        "as_of": "2026-06-02"
+      },
+      "tags": [
+        "revival",
         "contemporary"
       ]
+    },
+    {
+      "id": "small-pershing-square-signature-center",
+      "title": "SMALL",
+      "venue": "Pershing Square Signature Center",
+      "category": "off-broadway",
+      "status": "running",
+      "genre": "play",
+      "opening_date": "2026-05-20",
+      "closing_date": "2026-07-25",
+      "description": "An acclaimed solo show, *Small* is about big dreams — both on the race track and on Broadway.",
+      "image_url": "https://images.ctfassets.net/6pezt69ih962/1IoQHG5Pe0jUxvE23C0Szz/fe0be3d770bf61d74f2f34cd3ea7ed2c/TT_POSTER_480x720.png",
+      "playbill_url": "https://playbill.com/production/small-off-broadway-the-pershing-square-signature-center-alice-griffin-jewel-box-theatre-2026",
+      "todaytix_url": "https://www.todaytix.com/shows/46839",
+      "price": {
+        "cheapest": 77,
+        "currency": "USD",
+        "source": "todaytix",
+        "as_of": "2026-06-02"
+      },
+      "tags": []
+    },
+    {
+      "id": "the-lost-boys-palace-theatre",
+      "title": "The Lost Boys",
+      "venue": "Palace Theatre",
+      "category": "broadway",
+      "status": "running",
+      "genre": "musical",
+      "opening_date": "2024-10-19",
+      "description": "*The Lost Boys* introduces a new generation to the cult classic movie, in which teenagers move to California and uncover their small town’s underground population of bloodthirsty vampires.",
+      "image_url": "https://images.ctfassets.net/6pezt69ih962/5y6V3Nz4GFblLDae1wuiva/a6733d494f13a2e19267b1e985285b0f/TLB_047_PA_480x720.jpg",
+      "playbill_url": "https://playbill.com/production/the-lost-boys-broadway-palace-theatre-2026",
+      "todaytix_url": "https://www.todaytix.com/shows/43812",
+      "price": {
+        "cheapest": 58,
+        "currency": "USD",
+        "source": "todaytix",
+        "as_of": "2026-06-02"
+      },
+      "review": {
+        "score": 89,
+        "review_count": 702,
+        "adjectives": [
+          "Entertaining",
+          "Funny",
+          "Delightful",
+          "Great singing",
+          "Great acting"
+        ]
+      },
+      "lat": 40.7589003,
+      "lng": -73.9846166,
+      "tags": [
+        "film-tv"
+      ]
+    },
+    {
+      "id": "los-soles-truncos-repertorio-español-spanish-theatre-repertory",
+      "title": "LOS SOLES TRUNCOS",
+      "venue": "Repertorio Español / Spanish Theatre Repertory",
+      "category": "off-broadway",
+      "status": "running",
+      "genre": "play",
+      "opening_date": "2025-02-20",
+      "image_url": "https://images.ctfassets.net/6pezt69ih962/PuX3utxwFvYnJfhqoBJF6/ddeb386caf1e939e2bec65c4b0be264d/Los_soles_truncos__480_x_720_px_.png",
+      "todaytix_url": "https://www.todaytix.com/shows/43651",
+      "price": {
+        "cheapest": 80,
+        "currency": "USD",
+        "source": "todaytix",
+        "as_of": "2026-06-02"
+      },
+      "review": {
+        "score": 98,
+        "review_count": 4,
+        "adjectives": [
+          "Enchanting",
+          "Absorbing",
+          "Great acting"
+        ]
+      },
+      "tags": [
+        "drama",
+        "revival",
+        "must-see"
+      ]
+    },
+    {
+      "id": "vida-repertorio-español-spanish-theatre-repertory",
+      "title": "VIDA",
+      "venue": "Repertorio Español / Spanish Theatre Repertory",
+      "category": "off-broadway",
+      "status": "upcoming",
+      "genre": "musical",
+      "opening_date": "2026-06-18",
+      "closing_date": "2026-06-21",
+      "image_url": "https://images.ctfassets.net/6pezt69ih962/1NwHFjDxo9jGmeXp8VTfpH/173a3193dcb649b4e8a9b07ba43b2b29/VIDA_Reperrtorio__480_x_720_px_.png",
+      "todaytix_url": "https://www.todaytix.com/shows/46500",
+      "price": {
+        "cheapest": 108,
+        "currency": "USD",
+        "source": "todaytix",
+        "as_of": "2026-06-02"
+      },
+      "tags": []
     },
     {
       "id": "every-brilliant-thing-hudson-theatre",
@@ -1779,7 +1835,7 @@
         "cheapest": 69,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-06-01"
+        "as_of": "2026-06-02"
       },
       "review": {
         "score": 94,
@@ -1809,7 +1865,7 @@
         "cheapest": 77,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-06-01"
+        "as_of": "2026-06-02"
       },
       "review": {
         "score": 81,
@@ -1823,96 +1879,171 @@
         ]
       },
       "tags": [
-        "history",
-        "comedy",
-        "romance",
         "drama",
+        "history",
+        "romance",
+        "comedy",
         "rush-available"
       ]
     },
     {
-      "id": "los-soles-truncos-repertorio-español-spanish-theatre-repertory",
-      "title": "LOS SOLES TRUNCOS",
-      "venue": "Repertorio Español / Spanish Theatre Repertory",
+      "id": "and-then-the-rodeo-burned-down-ars-nova",
+      "title": "And Then The Rodeo Burned Down",
+      "venue": "Ars Nova",
       "category": "off-broadway",
       "status": "running",
       "genre": "play",
-      "opening_date": "2025-02-20",
-      "image_url": "https://images.ctfassets.net/6pezt69ih962/PuX3utxwFvYnJfhqoBJF6/ddeb386caf1e939e2bec65c4b0be264d/Los_soles_truncos__480_x_720_px_.png",
-      "todaytix_url": "https://www.todaytix.com/shows/43651",
+      "opening_date": "2026-05-19",
+      "closing_date": "2026-07-02",
+      "image_url": "https://images.ctfassets.net/6pezt69ih962/2bIyRTAGmzR5UZA2PjtqTM/1d687c2cf1a83d1d9cc213efb6570603/ATTRBD_COVER_ART-480X720.png",
+      "todaytix_url": "https://www.todaytix.com/shows/46852",
       "price": {
-        "cheapest": 80,
+        "cheapest": 54,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-06-01"
-      },
-      "review": {
-        "score": 98,
-        "review_count": 4,
-        "adjectives": [
-          "Enchanting",
-          "Absorbing",
-          "Great acting"
-        ]
-      },
-      "tags": [
-        "must-see",
-        "drama",
-        "revival"
-      ]
-    },
-    {
-      "id": "vida-repertorio-español-spanish-theatre-repertory",
-      "title": "VIDA",
-      "venue": "Repertorio Español / Spanish Theatre Repertory",
-      "category": "off-broadway",
-      "status": "upcoming",
-      "genre": "musical",
-      "opening_date": "2026-06-18",
-      "closing_date": "2026-06-21",
-      "image_url": "https://images.ctfassets.net/6pezt69ih962/1NwHFjDxo9jGmeXp8VTfpH/173a3193dcb649b4e8a9b07ba43b2b29/VIDA_Reperrtorio__480_x_720_px_.png",
-      "todaytix_url": "https://www.todaytix.com/shows/46500",
-      "price": {
-        "cheapest": 108,
-        "currency": "USD",
-        "source": "todaytix",
-        "as_of": "2026-06-01"
+        "as_of": "2026-06-02"
       },
       "tags": []
     },
     {
-      "id": "the-lost-boys-palace-theatre",
-      "title": "The Lost Boys",
-      "venue": "Palace Theatre",
-      "category": "broadway",
-      "status": "running",
-      "genre": "musical",
-      "opening_date": "2024-10-19",
-      "description": "*The Lost Boys* introduces a new generation to the cult classic movie, in which teenagers move to California and uncover their small town’s underground population of bloodthirsty vampires.",
-      "image_url": "https://images.ctfassets.net/6pezt69ih962/5y6V3Nz4GFblLDae1wuiva/a6733d494f13a2e19267b1e985285b0f/TLB_047_PA_480x720.jpg",
-      "playbill_url": "https://playbill.com/production/the-lost-boys-broadway-palace-theatre-2026",
-      "todaytix_url": "https://www.todaytix.com/shows/43812",
+      "id": "youth-in-flames-59e59-theaters-theater-c",
+      "title": "Youth in Flames",
+      "venue": "59E59 Theaters Theater C",
+      "category": "off-broadway",
+      "status": "upcoming",
+      "genre": "play",
+      "opening_date": "2026-06-10",
+      "closing_date": "2026-06-28",
+      "image_url": "https://images.ctfassets.net/6pezt69ih962/BhuRvnPFAJmVBeflDmOfY/5557340fcb983e04fdd4b6c12f24243b/59E59_YOUTH_IN_FLAMES_TODAYTIX_480x720.jpg",
+      "todaytix_url": "https://www.todaytix.com/shows/46871",
       "price": {
-        "cheapest": 58,
+        "cheapest": 38,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-06-01"
+        "as_of": "2026-06-02"
       },
-      "review": {
-        "score": 89,
-        "review_count": 702,
-        "adjectives": [
-          "Great acting",
-          "Funny",
-          "Delightful",
-          "Entertaining",
-          "Great singing"
-        ]
-      },
-      "lat": 40.7589003,
-      "lng": -73.9846166,
       "tags": [
-        "film-tv"
+        "drama"
+      ]
+    },
+    {
+      "id": "this-is-not-about-me-59e59-theaters-theater-c",
+      "title": "THIS IS NOT ABOUT ME.",
+      "venue": "59E59 Theaters Theater C",
+      "category": "off-broadway",
+      "status": "running",
+      "genre": "play",
+      "opening_date": "2026-05-13",
+      "closing_date": "2026-06-07",
+      "image_url": "https://images.ctfassets.net/6pezt69ih962/Ehc92lFfQUl5pTHtFrQJI/f8966dbb6882880d86207e5fb195c5df/59E59_TINAM_TODAYTIX_480x720.jpg",
+      "todaytix_url": "https://www.todaytix.com/shows/46872",
+      "price": {
+        "cheapest": 38,
+        "currency": "USD",
+        "source": "todaytix",
+        "as_of": "2026-06-02"
+      },
+      "tags": [
+        "drama",
+        "comedy",
+        "rush-available"
+      ]
+    },
+    {
+      "id": "building-the-wall-urban-stages",
+      "title": "Building The Wall",
+      "venue": "Urban Stages",
+      "category": "off-broadway",
+      "status": "upcoming",
+      "genre": "play",
+      "opening_date": "2026-06-11",
+      "closing_date": "2026-06-21",
+      "image_url": "https://images.ctfassets.net/6pezt69ih962/6v3K2BVn7PxMHMlSgwgkXE/baa873bd2e130d01c413608056a3d597/TodayTix.png",
+      "todaytix_url": "https://www.todaytix.com/shows/46881",
+      "price": {
+        "cheapest": 47,
+        "currency": "USD",
+        "source": "todaytix",
+        "as_of": "2026-06-02"
+      },
+      "tags": [
+        "contemporary"
+      ]
+    },
+    {
+      "id": "the-circuit-an-immersive-silent-disco-ballet-superfine-dumbo",
+      "title": "THE CIRCUIT: An Immersive Silent Disco Ballet",
+      "venue": "Superfine, Dumbo",
+      "category": "off-broadway",
+      "status": "running",
+      "genre": "immersive experiences",
+      "opening_date": "2026-05-15",
+      "closing_date": "2026-06-29",
+      "image_url": "https://images.ctfassets.net/6pezt69ih962/46boFcH0tHUM646xmLLJBO/cba93087a1b84b73a1e846f82ac4fa7b/Untitled_design__5_.png",
+      "todaytix_url": "https://www.todaytix.com/shows/46772",
+      "price": {
+        "cheapest": 53,
+        "currency": "USD",
+        "source": "todaytix",
+        "as_of": "2026-06-02"
+      },
+      "lat": 40.7023397,
+      "lng": -73.9874667,
+      "tags": [
+        "drama",
+        "romance",
+        "comedy",
+        "adventure",
+        "contemporary"
+      ]
+    },
+    {
+      "id": "lauder-scotlands-kilted-king-of-broadway-59e59-theaters-theater-b",
+      "title": "Lauder: Scotland's Kilted King of Broadway",
+      "venue": "59E59 Theaters Theater B",
+      "category": "off-broadway",
+      "status": "running",
+      "genre": "play",
+      "opening_date": "2026-05-14",
+      "closing_date": "2026-06-07",
+      "image_url": "https://images.ctfassets.net/6pezt69ih962/7HxFmjBHX7xyNVhgHMpC2F/95b429df657f3bb6c6eb0b474afa9f1d/59E59_LAUDER_TODAYTIX_480x720.jpg",
+      "todaytix_url": "https://www.todaytix.com/shows/46869",
+      "price": {
+        "cheapest": 47,
+        "currency": "USD",
+        "source": "todaytix",
+        "as_of": "2026-06-02"
+      },
+      "tags": [
+        "biography",
+        "jukebox",
+        "comedy",
+        "transfer",
+        "rush-available"
+      ]
+    },
+    {
+      "id": "catch-of-the-day-59e59-theaters-theater-b",
+      "title": "Catch of the Day",
+      "venue": "59E59 Theaters Theater B",
+      "category": "off-broadway",
+      "status": "upcoming",
+      "genre": "play",
+      "opening_date": "2026-06-10",
+      "closing_date": "2026-06-28",
+      "image_url": "https://images.ctfassets.net/6pezt69ih962/5DbxfjKpCQj0H5h9qZlKgR/fc41a805c658525419356dd0b35b7b17/59E59_COTD_TODAYTIX_480x720.jpg",
+      "todaytix_url": "https://www.todaytix.com/shows/46912",
+      "price": {
+        "cheapest": 48,
+        "currency": "USD",
+        "source": "todaytix",
+        "as_of": "2026-06-02"
+      },
+      "tags": [
+        "history",
+        "comedy",
+        "transfer",
+        "contemporary"
       ]
     },
     {
@@ -1930,7 +2061,7 @@
         "cheapest": 27,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-06-01"
+        "as_of": "2026-06-02"
       },
       "lat": 40.7562129,
       "lng": -73.9865339,
@@ -1951,13 +2082,13 @@
         "cheapest": 58,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-06-01"
+        "as_of": "2026-06-02"
       },
       "tags": [
-        "crime-thriller-mystery",
-        "history",
         "drama",
-        "biography"
+        "biography",
+        "crime-thriller-mystery",
+        "history"
       ]
     },
     {
@@ -1975,91 +2106,12 @@
         "cheapest": 58,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-06-01"
+        "as_of": "2026-06-02"
       },
       "tags": [
+        "biography",
         "history",
-        "romance",
-        "biography"
-      ]
-    },
-    {
-      "id": "wicked-gershwin-theatre",
-      "title": "Wicked",
-      "venue": "Gershwin Theatre",
-      "category": "broadway",
-      "status": "running",
-      "genre": "musical",
-      "opening_date": "2003-10-08",
-      "description": "How did the Wicked Witch of the West become wicked? This *Wizard of Oz* prequel musical explores her and Glinda the Good Witch's untold origin stories. Hear now-classic showtunes like \"Defying Gravity\" at Broadway's fourth-longest-running show.",
-      "image_url": "https://images.ctfassets.net/6pezt69ih962/7phmhkjXwnNXKrxKGwuZtr/a011f9c9a0ac9f296cfc72c7f0f46c2c/480x720_Poster_Key_Art.jpg",
-      "playbill_url": "https://playbill.com/production/wicked-broadway-gershwin-theatre-2003",
-      "todaytix_url": "https://www.todaytix.com/shows/1",
-      "price": {
-        "cheapest": 99,
-        "currency": "USD",
-        "source": "todaytix",
-        "as_of": "2026-06-01"
-      },
-      "review": {
-        "score": 94,
-        "review_count": 25122,
-        "adjectives": [
-          "Delightful",
-          "Clever",
-          "Enchanting",
-          "Great singing",
-          "Entertaining"
-        ]
-      },
-      "lat": 40.7623619,
-      "lng": -73.9852044,
-      "tags": [
-        "film-tv",
-        "family-kid-friendly",
-        "award-winners",
-        "must-see",
-        "drama",
-        "classic"
-      ]
-    },
-    {
-      "id": "chicago-ambassador-theatre",
-      "title": "Chicago",
-      "venue": "Ambassador Theatre",
-      "category": "broadway",
-      "status": "running",
-      "genre": "musical",
-      "opening_date": "1996-10-23",
-      "description": "The Kander and Ebb musical about murderesses-turned-overnight-celebrities has razzle-dazzled audiences for decades. With a rotating lineup of stars in the lead roles, you never know who you'll see as starry-eyed housewife Roxie, veteran vaudevillian Velma, and more.",
-      "image_url": "https://images.ctfassets.net/6pezt69ih962/6MNxIBa8KVkNXM0OshQ86p/fbef4c73a12ff59589f4f62c862b51bd/CH_190_PA_TICKETING_ASSET_UPDATE_APR_2026_TodayTix_KeyArt_480x720_v01.jpg",
-      "playbill_url": "https://playbill.com/production/chicago-richard-rodgers-theatre-vault-0000003074",
-      "todaytix_url": "https://www.todaytix.com/shows/22",
-      "price": {
-        "cheapest": 73,
-        "currency": "USD",
-        "source": "todaytix",
-        "as_of": "2026-06-01"
-      },
-      "review": {
-        "score": 84,
-        "review_count": 7391,
-        "adjectives": [
-          "Great singing",
-          "Entertaining",
-          "Delightful",
-          "Funny",
-          "Clever"
-        ]
-      },
-      "lat": 40.7612355,
-      "lng": -73.9849903,
-      "tags": [
-        "comedy",
-        "award-winners",
-        "stars-on-stage",
-        "drama",
-        "classic"
+        "romance"
       ]
     },
     {
@@ -2079,58 +2131,108 @@
         "cheapest": 62,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-06-01"
+        "as_of": "2026-06-02"
       },
       "review": {
         "score": 88,
         "review_count": 4107,
         "adjectives": [
-          "Enchanting",
+          "Great staging",
           "Entertaining",
           "Great singing",
-          "Great staging",
-          "Delightful"
+          "Delightful",
+          "Enchanting"
         ]
       },
       "lat": 40.7592532,
       "lng": -73.9892108,
       "tags": [
+        "drama",
         "jukebox",
-        "film-tv",
-        "award-winners",
         "stars-on-stage",
+        "film-tv",
         "romance",
-        "must-see",
-        "drama"
+        "award-winners",
+        "must-see"
       ]
     },
     {
-      "id": "the-balusters-samuel-j-friedman-theatre",
-      "title": "The Balusters",
-      "venue": "Samuel J. Friedman Theatre",
+      "id": "wicked-gershwin-theatre",
+      "title": "Wicked",
+      "venue": "Gershwin Theatre",
       "category": "broadway",
       "status": "running",
-      "genre": "play",
-      "opening_date": "2025-03-31",
-      "description": "*The Balusters* is a comedy of manners about a small community with big feelings as residents debate adding a stop sign to a beautiful street corner.",
-      "image_url": "https://images.ctfassets.net/6pezt69ih962/4LpacXldTv4MaO7g4qPtoP/75c88e92e0669445769d7fb50dddb393/P00134664_BLST_TodayTis_Assets_TonyNoms_480x720_Poster_Key_Art.jpg",
-      "playbill_url": "https://playbill.com/production/the-balusters-broadway-samuel-j-friedman-theatre-2026",
-      "todaytix_url": "https://www.todaytix.com/shows/44389",
+      "genre": "musical",
+      "opening_date": "2003-10-08",
+      "description": "How did the Wicked Witch of the West become wicked? This *Wizard of Oz* prequel musical explores her and Glinda the Good Witch's untold origin stories. Hear now-classic showtunes like \"Defying Gravity\" at Broadway's fourth-longest-running show.",
+      "image_url": "https://images.ctfassets.net/6pezt69ih962/7phmhkjXwnNXKrxKGwuZtr/a011f9c9a0ac9f296cfc72c7f0f46c2c/480x720_Poster_Key_Art.jpg",
+      "playbill_url": "https://playbill.com/production/wicked-broadway-gershwin-theatre-2003",
+      "todaytix_url": "https://www.todaytix.com/shows/1",
       "price": {
-        "cheapest": 62,
+        "cheapest": 99,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-06-01"
+        "as_of": "2026-06-02"
       },
       "review": {
-        "score": 91,
-        "review_count": 221,
-        "adjectives": []
+        "score": 94,
+        "review_count": 25122,
+        "adjectives": [
+          "Clever",
+          "Delightful",
+          "Entertaining",
+          "Great singing",
+          "Enchanting"
+        ]
       },
-      "lat": 40.7603807,
-      "lng": -73.9867276,
+      "lat": 40.7623619,
+      "lng": -73.9852044,
       "tags": [
-        "rush-available"
+        "family-kid-friendly",
+        "drama",
+        "film-tv",
+        "award-winners",
+        "must-see",
+        "classic"
+      ]
+    },
+    {
+      "id": "chicago-ambassador-theatre",
+      "title": "Chicago",
+      "venue": "Ambassador Theatre",
+      "category": "broadway",
+      "status": "running",
+      "genre": "musical",
+      "opening_date": "1996-10-23",
+      "description": "The Kander and Ebb musical about murderesses-turned-overnight-celebrities has razzle-dazzled audiences for decades. With a rotating lineup of stars in the lead roles, you never know who you'll see as starry-eyed housewife Roxie, veteran vaudevillian Velma, and more.",
+      "image_url": "https://images.ctfassets.net/6pezt69ih962/6MNxIBa8KVkNXM0OshQ86p/fbef4c73a12ff59589f4f62c862b51bd/CH_190_PA_TICKETING_ASSET_UPDATE_APR_2026_TodayTix_KeyArt_480x720_v01.jpg",
+      "playbill_url": "https://playbill.com/production/chicago-richard-rodgers-theatre-vault-0000003074",
+      "todaytix_url": "https://www.todaytix.com/shows/22",
+      "price": {
+        "cheapest": 73,
+        "currency": "USD",
+        "source": "todaytix",
+        "as_of": "2026-06-02"
+      },
+      "review": {
+        "score": 84,
+        "review_count": 7391,
+        "adjectives": [
+          "Entertaining",
+          "Great singing",
+          "Delightful",
+          "Funny",
+          "Clever"
+        ]
+      },
+      "lat": 40.7612355,
+      "lng": -73.9849903,
+      "tags": [
+        "drama",
+        "stars-on-stage",
+        "award-winners",
+        "comedy",
+        "classic"
       ]
     },
     {
@@ -2149,28 +2251,28 @@
         "cheapest": 77,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-06-01"
+        "as_of": "2026-06-02"
       },
       "review": {
         "score": 90,
         "review_count": 2389,
         "adjectives": [
-          "Entertaining",
-          "Delightful",
           "Funny",
           "Hilarious",
-          "Clever"
+          "Delightful",
+          "Clever",
+          "Entertaining"
         ]
       },
       "lat": 40.7578694,
       "lng": -73.9845006,
       "tags": [
-        "history",
-        "transfer",
-        "comedy",
-        "award-winners",
         "stars-on-stage",
-        "must-see"
+        "history",
+        "award-winners",
+        "must-see",
+        "comedy",
+        "transfer"
       ]
     },
     {
@@ -2189,27 +2291,27 @@
         "cheapest": 62,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-06-01"
+        "as_of": "2026-06-02"
       },
       "review": {
         "score": 89,
         "review_count": 2633,
         "adjectives": [
-          "Great singing",
-          "Entertaining",
           "Enchanting",
           "Delightful",
-          "Great acting"
+          "Great acting",
+          "Great singing",
+          "Entertaining"
         ]
       },
       "lat": 40.7633982,
       "lng": -73.983355,
       "tags": [
-        "award-winners",
+        "drama",
         "stars-on-stage",
         "romance",
-        "must-see",
-        "drama"
+        "award-winners",
+        "must-see"
       ]
     },
     {
@@ -2228,17 +2330,17 @@
         "cheapest": 72,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-06-01"
+        "as_of": "2026-06-02"
       },
       "review": {
         "score": 96,
         "review_count": 2104,
         "adjectives": [
-          "Great singing",
-          "Delightful",
-          "Great acting",
           "Entertaining",
-          "Great staging"
+          "Great acting",
+          "Great singing",
+          "Great staging",
+          "Delightful"
         ]
       },
       "lat": 40.7584859,
@@ -2265,11 +2367,40 @@
         "cheapest": 42,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-06-01"
+        "as_of": "2026-06-02"
       },
       "tags": [
         "drama",
         "contemporary"
+      ]
+    },
+    {
+      "id": "the-balusters-samuel-j-friedman-theatre",
+      "title": "The Balusters",
+      "venue": "Samuel J. Friedman Theatre",
+      "category": "broadway",
+      "status": "running",
+      "genre": "play",
+      "opening_date": "2025-03-31",
+      "description": "*The Balusters* is a comedy of manners about a small community with big feelings as residents debate adding a stop sign to a beautiful street corner.",
+      "image_url": "https://images.ctfassets.net/6pezt69ih962/4LpacXldTv4MaO7g4qPtoP/75c88e92e0669445769d7fb50dddb393/P00134664_BLST_TodayTis_Assets_TonyNoms_480x720_Poster_Key_Art.jpg",
+      "playbill_url": "https://playbill.com/production/the-balusters-broadway-samuel-j-friedman-theatre-2026",
+      "todaytix_url": "https://www.todaytix.com/shows/44389",
+      "price": {
+        "cheapest": 62,
+        "currency": "USD",
+        "source": "todaytix",
+        "as_of": "2026-06-02"
+      },
+      "review": {
+        "score": 91,
+        "review_count": 221,
+        "adjectives": []
+      },
+      "lat": 40.7603807,
+      "lng": -73.9867276,
+      "tags": [
+        "rush-available"
       ]
     },
     {
@@ -2288,7 +2419,7 @@
         "cheapest": 57,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-06-01"
+        "as_of": "2026-06-02"
       },
       "review": {
         "score": 89,
@@ -2321,7 +2452,7 @@
         "cheapest": 57,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-06-01"
+        "as_of": "2026-06-02"
       },
       "lat": 40.706153,
       "lng": -73.9235511,
@@ -2330,6 +2461,48 @@
         "contemporary",
         "rush-available"
       ]
+    },
+    {
+      "id": "new-born-audibles-minetta-lane-theatre",
+      "title": "New Born",
+      "venue": "Audible’s Minetta Lane Theatre",
+      "category": "off-broadway",
+      "status": "running",
+      "genre": "play",
+      "opening_date": "2026-05-08",
+      "closing_date": "2026-06-08",
+      "description": "New Born is a play bridging interconnected monologues that bring three lost souls together.",
+      "image_url": "https://images.ctfassets.net/6pezt69ih962/6GqL4bZ10RAFfnKE2fTiSR/3c0fe88031084a99e635fed267d423e9/857018189-swt0029-w-nb-todaytix-poster-480x720.jpg",
+      "playbill_url": "https://playbill.com/production/new-born-off-broadway-minetta-lane-theatre-2026",
+      "todaytix_url": "https://www.todaytix.com/shows/46489",
+      "price": {
+        "cheapest": 120,
+        "currency": "USD",
+        "source": "todaytix",
+        "as_of": "2026-06-02"
+      },
+      "tags": []
+    },
+    {
+      "id": "what-happened-was-audibles-minetta-lane-theatre",
+      "title": "What Happened Was",
+      "venue": "Audible’s Minetta Lane Theatre",
+      "category": "off-broadway",
+      "status": "running",
+      "genre": "play",
+      "opening_date": "2026-04-14",
+      "closing_date": "2026-06-14",
+      "description": "*What Happened Was* is a tender drama about two co-workers who meet for a first date.",
+      "image_url": "https://images.ctfassets.net/6pezt69ih962/5qxvTnYzHx3eoJNKZ6OVfh/7a44ef3f8ef4d69d95e9b0ffbd77e726/855446073-swt0029-w-whw-todaytix-v1-poster-480x720.jpg",
+      "playbill_url": "https://playbill.com/production/what-happened-was-off-broadway-minetta-lane-theatre-2026",
+      "todaytix_url": "https://www.todaytix.com/shows/46488",
+      "price": {
+        "cheapest": 140,
+        "currency": "USD",
+        "source": "todaytix",
+        "as_of": "2026-06-02"
+      },
+      "tags": []
     },
     {
       "id": "magic-mike-live-new-york-magic-mike-live",
@@ -2347,64 +2520,12 @@
         "cheapest": 69,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-06-01"
+        "as_of": "2026-06-02"
       },
       "tags": [
-        "comedy",
         "romance",
+        "comedy",
         "contemporary"
-      ]
-    },
-    {
-      "id": "much-ado-about-nothing-winter-garden-theatre",
-      "title": "Much Ado About Nothing",
-      "venue": "Winter Garden Theatre",
-      "category": "broadway",
-      "status": "upcoming",
-      "genre": "play",
-      "opening_date": "2026-10-31",
-      "description": "*Much Ado About Nothing* is Shakespeare's classic comedy about two pairs of lovers that form during a group of soldiers' visit to Italy.",
-      "image_url": "https://images.ctfassets.net/6pezt69ih962/54fGz3aG5CpQ7PFTyiEm9v/f9481fc6db7eac3c451c48fdee845fae/MAAN-ThirdPartyAssets-ThirdPartyAssets-TodayTix-480x720.jpg",
-      "todaytix_url": "https://www.todaytix.com/shows/46347",
-      "price": {
-        "cheapest": 72,
-        "currency": "USD",
-        "source": "todaytix",
-        "as_of": "2026-06-01"
-      },
-      "lat": 40.7616856,
-      "lng": -73.9835045,
-      "tags": [
-        "stars-on-stage"
-      ]
-    },
-    {
-      "id": "death-of-a-salesman-winter-garden-theatre",
-      "title": "Death of a Salesman",
-      "venue": "Winter Garden Theatre",
-      "category": "broadway",
-      "status": "running",
-      "genre": "play",
-      "opening_date": "2026-03-06",
-      "description": "*Death of a Salesman* is a classic family drama about a father who works on the road, juggling his career, personal life, and the American Dream.",
-      "image_url": "https://images.ctfassets.net/6pezt69ih962/6iTvRawlwgZ4S8uVdp5WOj/5f3e7e96dd00429059fe6cfd133928fa/DOAS_TodayTix-480x720v2.png",
-      "playbill_url": "https://playbill.com/production/death-of-a-salesman-broadway-winter-garden-theatre-2026",
-      "todaytix_url": "https://www.todaytix.com/shows/45916",
-      "price": {
-        "cheapest": 97,
-        "currency": "USD",
-        "source": "todaytix",
-        "as_of": "2026-06-01"
-      },
-      "review": {
-        "score": 94,
-        "review_count": 826,
-        "adjectives": []
-      },
-      "lat": 40.7616856,
-      "lng": -73.9835045,
-      "tags": [
-        "stars-on-stage"
       ]
     },
     {
@@ -2422,80 +2543,10 @@
         "cheapest": 52,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-06-01"
+        "as_of": "2026-06-02"
       },
       "tags": [
         "comedy"
-      ]
-    },
-    {
-      "id": "the-met-orchestra-yannick-nézet-séguin-stern-auditorium-perelman-stage-at-carnegie-hall",
-      "title": "The Met Orchestra - Yannick Nézet-Séguin",
-      "venue": "Stern Auditorium / Perelman Stage at Carnegie Hall",
-      "category": "off-broadway",
-      "status": "upcoming",
-      "genre": "concert",
-      "opening_date": "2026-06-11",
-      "closing_date": "2026-06-11",
-      "image_url": "https://images.ctfassets.net/6pezt69ih962/6FgZr8oX9w3Gw8tvKvZno2/df07fa4c333c420a6ce828d773a5dae4/20260611-Met-Orchestra-todaytix-poster-480x720-.jpg",
-      "todaytix_url": "https://www.todaytix.com/shows/46986",
-      "price": {
-        "cheapest": 57,
-        "currency": "USD",
-        "source": "todaytix",
-        "as_of": "2026-06-01"
-      },
-      "tags": []
-    },
-    {
-      "id": "camping-here-arts-center",
-      "title": "Camping",
-      "venue": "HERE Arts Center",
-      "category": "off-broadway",
-      "status": "upcoming",
-      "genre": "play",
-      "opening_date": "2026-06-13",
-      "closing_date": "2026-07-11",
-      "image_url": "https://images.ctfassets.net/6pezt69ih962/6RQdRI8VNEm8PNF8TrWNfG/f474d264dbad9fc8fed0aa995f431d30/Camping-480x720-TodayTix-v2.jpg",
-      "todaytix_url": "https://www.todaytix.com/shows/46942",
-      "price": {
-        "cheapest": 68,
-        "currency": "USD",
-        "source": "todaytix",
-        "as_of": "2026-06-01"
-      },
-      "lat": 40.7250601,
-      "lng": -74.0050764,
-      "tags": [
-        "comedy",
-        "romance",
-        "drama"
-      ]
-    },
-    {
-      "id": "ectoplasm-spitvigors-tiny-baby-blackbox-theatre",
-      "title": "Ectoplasm",
-      "venue": "spit&vigor's Tiny Baby Blackbox Theatre",
-      "category": "off-broadway",
-      "status": "upcoming",
-      "genre": "play",
-      "opening_date": "2026-09-24",
-      "closing_date": "2026-10-31",
-      "image_url": "https://images.ctfassets.net/6pezt69ih962/2KTYlzc7Aghlw47VzgPHJA/eeb7acb96be73412cde3756ed7ef3270/TT_POSTER_480x720.png",
-      "todaytix_url": "https://www.todaytix.com/shows/46710",
-      "price": {
-        "cheapest": 38,
-        "currency": "USD",
-        "source": "todaytix",
-        "as_of": "2026-06-01"
-      },
-      "tags": [
-        "crime-thriller-mystery",
-        "history",
-        "comedy",
-        "adventure",
-        "drama",
-        "contemporary"
       ]
     },
     {
@@ -2513,9 +2564,137 @@
         "cheapest": 53,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-06-01"
+        "as_of": "2026-06-02"
       },
       "tags": []
+    },
+    {
+      "id": "ectoplasm-spitvigors-tiny-baby-blackbox-theatre",
+      "title": "Ectoplasm",
+      "venue": "spit&vigor's Tiny Baby Blackbox Theatre",
+      "category": "off-broadway",
+      "status": "upcoming",
+      "genre": "play",
+      "opening_date": "2026-09-24",
+      "closing_date": "2026-10-31",
+      "image_url": "https://images.ctfassets.net/6pezt69ih962/2KTYlzc7Aghlw47VzgPHJA/eeb7acb96be73412cde3756ed7ef3270/TT_POSTER_480x720.png",
+      "todaytix_url": "https://www.todaytix.com/shows/46710",
+      "price": {
+        "cheapest": 38,
+        "currency": "USD",
+        "source": "todaytix",
+        "as_of": "2026-06-02"
+      },
+      "tags": [
+        "drama",
+        "crime-thriller-mystery",
+        "history",
+        "comedy",
+        "adventure",
+        "contemporary"
+      ]
+    },
+    {
+      "id": "camping-here-arts-center",
+      "title": "Camping",
+      "venue": "HERE Arts Center",
+      "category": "off-broadway",
+      "status": "upcoming",
+      "genre": "play",
+      "opening_date": "2026-06-13",
+      "closing_date": "2026-07-11",
+      "image_url": "https://images.ctfassets.net/6pezt69ih962/6RQdRI8VNEm8PNF8TrWNfG/f474d264dbad9fc8fed0aa995f431d30/Camping-480x720-TodayTix-v2.jpg",
+      "todaytix_url": "https://www.todaytix.com/shows/46942",
+      "price": {
+        "cheapest": 68,
+        "currency": "USD",
+        "source": "todaytix",
+        "as_of": "2026-06-02"
+      },
+      "lat": 40.7250601,
+      "lng": -74.0050764,
+      "tags": [
+        "drama",
+        "romance",
+        "comedy"
+      ]
+    },
+    {
+      "id": "the-met-orchestra-yannick-nézet-séguin-stern-auditorium-perelman-stage-at-carnegie-hall",
+      "title": "The Met Orchestra - Yannick Nézet-Séguin",
+      "venue": "Stern Auditorium / Perelman Stage at Carnegie Hall",
+      "category": "off-broadway",
+      "status": "upcoming",
+      "genre": "concert",
+      "opening_date": "2026-06-11",
+      "closing_date": "2026-06-18",
+      "image_url": "https://images.ctfassets.net/6pezt69ih962/5g1GXn7461tfRjnNNRxvGY/91495dba466444728aa5363d7387719c/20260618-Met-Orchestra-todaytix-poster-480x720-.jpg",
+      "todaytix_url": "https://www.todaytix.com/shows/46985",
+      "price": {
+        "cheapest": 57,
+        "currency": "USD",
+        "source": "todaytix",
+        "as_of": "2026-06-02"
+      },
+      "tags": []
+    },
+    {
+      "id": "lise-davidsen-soprano-james-baillieu-piano-stern-auditorium-perelman-stage-at-carnegie-hall",
+      "title": "Lise Davidsen, Soprano / James Baillieu, Piano",
+      "venue": "Stern Auditorium / Perelman Stage at Carnegie Hall",
+      "category": "off-broadway",
+      "status": "upcoming",
+      "genre": "concert",
+      "opening_date": "2026-06-05",
+      "closing_date": "2026-06-05",
+      "image_url": "https://images.ctfassets.net/6pezt69ih962/2kvw6jfeGBirDj5c3f2dru/169cb1f34d4cda0e112eaec9f8a9bf1b/20260605-Davidsen-todaytix-poster-480x720-.jpg",
+      "todaytix_url": "https://www.todaytix.com/shows/46988",
+      "price": {
+        "cheapest": 67,
+        "currency": "USD",
+        "source": "todaytix",
+        "as_of": "2026-06-02"
+      },
+      "tags": []
+    },
+    {
+      "id": "aladdin-new-amsterdam-theatre",
+      "title": "Aladdin",
+      "venue": "New Amsterdam Theatre",
+      "category": "broadway",
+      "status": "running",
+      "genre": "musical",
+      "opening_date": "2014-02-26",
+      "description": "Your wish for spectacular, magical, all-ages entertainment is granted at this musical adaptation of the Disney film. Hear timeless songs like \"A Whole New World\" at this story of a ruffian who, with a little help from a genie, transforms into a prince to win over a princess.",
+      "image_url": "https://images.ctfassets.net/6pezt69ih962/4Yvf58vYGYuy14v9iGgqrF/f91e0d0a19948b2001ce17b811c1ca4b/ALD_TodayTix_Poster_480x720.jpg",
+      "playbill_url": "https://playbill.com/production/aladdin-new-amsterdam-theatre-vault-0000014037",
+      "todaytix_url": "https://www.todaytix.com/shows/105",
+      "price": {
+        "cheapest": 96,
+        "currency": "USD",
+        "source": "todaytix",
+        "as_of": "2026-06-02"
+      },
+      "review": {
+        "score": 87,
+        "review_count": 8076,
+        "adjectives": [
+          "Delightful",
+          "Funny",
+          "Great staging",
+          "Enchanting",
+          "Entertaining"
+        ]
+      },
+      "lat": 40.756,
+      "lng": -73.9880631,
+      "tags": [
+        "family-kid-friendly",
+        "film-tv",
+        "award-winners",
+        "comedy",
+        "adventure"
+      ]
     },
     {
       "id": "harry-potter-and-the-cursed-child-lyric-theatre",
@@ -2533,70 +2712,28 @@
         "cheapest": 71,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-06-01"
+        "as_of": "2026-06-02"
       },
       "review": {
         "score": 90,
         "review_count": 6390,
         "adjectives": [
-          "Clever",
           "Enchanting",
           "Entertaining",
           "Absorbing",
-          "Great staging"
+          "Great staging",
+          "Clever"
         ]
       },
       "lat": 40.7567924,
       "lng": -73.9874615,
       "tags": [
         "family-kid-friendly",
-        "award-winners",
-        "stars-on-stage",
-        "adventure",
-        "must-see",
-        "drama"
-      ]
-    },
-    {
-      "id": "juliet-stephen-sondheim-theatre",
-      "title": "& Juliet",
-      "venue": "Stephen Sondheim Theatre",
-      "category": "broadway",
-      "status": "running",
-      "genre": "musical",
-      "opening_date": "2022-10-28",
-      "description": "What would happen after *Romeo & Juliet* if Juliet didn't die? That's the question this pop-fueled musical, from songwriting icon Max Martin and a writer on *Schitt’s Creek*, asks. Jam out to tunes made famous by Britney Spears, the Backstreet Boys, Pink, and more.",
-      "image_url": "https://images.ctfassets.net/6pezt69ih962/WPJrqheYFVWFD2kA0sDuJ/be06ca6f24c542418557616196f97e49/_J-Nov2025Update-TodayTix-480x720.jpg",
-      "playbill_url": "https://playbill.com/production/juliet-broadway-stephen-sondheim-theatre-2022",
-      "todaytix_url": "https://www.todaytix.com/shows/25598",
-      "price": {
-        "cheapest": 59,
-        "currency": "USD",
-        "source": "todaytix",
-        "as_of": "2026-06-01"
-      },
-      "review": {
-        "score": 91,
-        "review_count": 5761,
-        "adjectives": [
-          "Entertaining",
-          "Clever",
-          "Delightful",
-          "Enchanting",
-          "Great singing"
-        ]
-      },
-      "lat": 40.7558962,
-      "lng": -73.9849328,
-      "tags": [
-        "jukebox",
-        "family-kid-friendly",
-        "comedy",
-        "stars-on-stage",
-        "romance",
-        "must-see",
         "drama",
-        "rush-available"
+        "stars-on-stage",
+        "award-winners",
+        "must-see",
+        "adventure"
       ]
     },
     {
@@ -2615,26 +2752,26 @@
         "cheapest": 63,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-06-01"
+        "as_of": "2026-06-02"
       },
       "review": {
         "score": 89,
         "review_count": 1024,
         "adjectives": [
           "Funny",
-          "Clever",
+          "Entertaining",
           "Delightful",
-          "Great acting",
-          "Entertaining"
+          "Clever",
+          "Great acting"
         ]
       },
       "lat": 40.7587046,
       "lng": -73.9879846,
       "tags": [
-        "history",
         "family-kid-friendly",
-        "comedy",
-        "award-winners"
+        "history",
+        "award-winners",
+        "comedy"
       ]
     },
     {
@@ -2653,26 +2790,68 @@
         "cheapest": 77,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-06-01"
+        "as_of": "2026-06-02"
       },
       "review": {
         "score": 95,
         "review_count": 3213,
         "adjectives": [
           "Moving",
-          "Absorbing",
           "Delightful",
+          "Great acting",
           "Funny",
-          "Great acting"
+          "Absorbing"
         ]
       },
       "lat": 40.756644,
       "lng": -73.9838007,
       "tags": [
+        "stars-on-stage",
         "award-winners",
         "comedy",
-        "contemporary",
-        "stars-on-stage"
+        "contemporary"
+      ]
+    },
+    {
+      "id": "juliet-stephen-sondheim-theatre",
+      "title": "& Juliet",
+      "venue": "Stephen Sondheim Theatre",
+      "category": "broadway",
+      "status": "running",
+      "genre": "musical",
+      "opening_date": "2022-10-28",
+      "description": "What would happen after *Romeo & Juliet* if Juliet didn't die? That's the question this pop-fueled musical, from songwriting icon Max Martin and a writer on *Schitt’s Creek*, asks. Jam out to tunes made famous by Britney Spears, the Backstreet Boys, Pink, and more.",
+      "image_url": "https://images.ctfassets.net/6pezt69ih962/WPJrqheYFVWFD2kA0sDuJ/be06ca6f24c542418557616196f97e49/_J-Nov2025Update-TodayTix-480x720.jpg",
+      "playbill_url": "https://playbill.com/production/juliet-broadway-stephen-sondheim-theatre-2022",
+      "todaytix_url": "https://www.todaytix.com/shows/25598",
+      "price": {
+        "cheapest": 59,
+        "currency": "USD",
+        "source": "todaytix",
+        "as_of": "2026-06-02"
+      },
+      "review": {
+        "score": 91,
+        "review_count": 5761,
+        "adjectives": [
+          "Delightful",
+          "Enchanting",
+          "Entertaining",
+          "Clever",
+          "Great singing"
+        ]
+      },
+      "lat": 40.7558962,
+      "lng": -73.9849328,
+      "tags": [
+        "family-kid-friendly",
+        "drama",
+        "jukebox",
+        "stars-on-stage",
+        "romance",
+        "must-see",
+        "comedy",
+        "rush-available"
       ]
     },
     {
@@ -2692,27 +2871,60 @@
         "cheapest": 66,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-06-01"
+        "as_of": "2026-06-02"
       },
       "review": {
         "score": 92,
         "review_count": 1169,
         "adjectives": [
-          "Great acting",
-          "Funny",
           "Great singing",
-          "Entertaining"
+          "Entertaining",
+          "Funny",
+          "Great acting"
         ]
       },
       "lat": 40.7579845,
       "lng": -73.9881584,
       "tags": [
         "jukebox",
-        "comedy",
         "romance",
         "must-see",
+        "comedy",
         "rush-available"
       ]
+    },
+    {
+      "id": "chess-on-broadway-imperial-theatre",
+      "title": "Chess on Broadway",
+      "venue": "Imperial Theatre",
+      "category": "broadway",
+      "status": "running",
+      "genre": "musical",
+      "opening_date": "2025-10-15",
+      "closing_date": "2026-06-21",
+      "description": "Chess is a musical about a World Chess Championship, an American facing off against a Russian, and the woman torn between the two of them.",
+      "image_url": "https://images.ctfassets.net/6pezt69ih962/4uWe4xxuDU1jj4bXYRCokp/3a31159bc40f2cc2b1abdff5d97df171/CHC0075-W-May-TodayTix-Graphics-v1-480x720-Poster__1_.jpg",
+      "todaytix_url": "https://www.todaytix.com/shows/44447",
+      "price": {
+        "cheapest": 62,
+        "currency": "USD",
+        "source": "todaytix",
+        "as_of": "2026-06-02"
+      },
+      "review": {
+        "score": 86,
+        "review_count": 1516,
+        "adjectives": [
+          "Entertaining",
+          "Great acting",
+          "Must see",
+          "Great singing",
+          "Clever"
+        ]
+      },
+      "lat": 40.7591227,
+      "lng": -73.9871216,
+      "tags": []
     },
     {
       "id": "masquerade-masquerade",
@@ -2729,7 +2941,7 @@
         "cheapest": 175,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-06-01"
+        "as_of": "2026-06-02"
       },
       "review": {
         "score": 92,
@@ -2745,10 +2957,10 @@
       "lat": 40.7656726,
       "lng": -73.9812564,
       "tags": [
+        "drama",
+        "romance",
         "immersive",
         "adventure",
-        "romance",
-        "drama",
         "rush-available"
       ]
     },
@@ -2769,7 +2981,7 @@
         "cheapest": 67,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-06-01"
+        "as_of": "2026-06-02"
       },
       "review": {
         "score": 87,
@@ -2780,6 +2992,40 @@
       "lng": -73.9861351,
       "tags": [
         "stars-on-stage"
+      ]
+    },
+    {
+      "id": "drunk-romeo-juliet-the-ruby-theatre",
+      "title": "Drunk Romeo & Juliet",
+      "venue": "The Ruby Theatre",
+      "category": "off-broadway",
+      "status": "running",
+      "genre": "play",
+      "opening_date": "2025-05-29",
+      "image_url": "https://images.ctfassets.net/6pezt69ih962/6j5UpacdIhwyjCtVzcR8GO/d1cb9e4e3f4431757f9e20cae7b6d2c6/DrunkRJ_Poster.png",
+      "playbill_url": "https://playbill.com/production/romeo-and-juliet-off-broadway-public-theater-delacorte-theater-2026",
+      "todaytix_url": "https://www.todaytix.com/shows/44354",
+      "price": {
+        "cheapest": 63,
+        "currency": "USD",
+        "source": "todaytix",
+        "as_of": "2026-06-02"
+      },
+      "review": {
+        "score": 86,
+        "review_count": 1230,
+        "adjectives": [
+          "Hilarious",
+          "Entertaining",
+          "Funny",
+          "Delightful",
+          "Clever"
+        ]
+      },
+      "tags": [
+        "satire",
+        "romance",
+        "comedy"
       ]
     },
     {
@@ -2799,7 +3045,7 @@
         "cheapest": 54,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-06-01"
+        "as_of": "2026-06-02"
       },
       "lat": 40.7327227,
       "lng": -73.9882473,
@@ -2809,45 +3055,6 @@
         "comedy",
         "classic",
         "rush-available"
-      ]
-    },
-    {
-      "id": "aladdin-new-amsterdam-theatre",
-      "title": "Aladdin",
-      "venue": "New Amsterdam Theatre",
-      "category": "broadway",
-      "status": "running",
-      "genre": "musical",
-      "opening_date": "2014-02-26",
-      "description": "Your wish for spectacular, magical, all-ages entertainment is granted at this musical adaptation of the Disney film. Hear timeless songs like \"A Whole New World\" at this story of a ruffian who, with a little help from a genie, transforms into a prince to win over a princess.",
-      "image_url": "https://images.ctfassets.net/6pezt69ih962/4Yvf58vYGYuy14v9iGgqrF/f91e0d0a19948b2001ce17b811c1ca4b/ALD_TodayTix_Poster_480x720.jpg",
-      "playbill_url": "https://playbill.com/production/aladdin-new-amsterdam-theatre-vault-0000014037",
-      "todaytix_url": "https://www.todaytix.com/shows/105",
-      "price": {
-        "cheapest": 96,
-        "currency": "USD",
-        "source": "todaytix",
-        "as_of": "2026-06-01"
-      },
-      "review": {
-        "score": 87,
-        "review_count": 8076,
-        "adjectives": [
-          "Enchanting",
-          "Delightful",
-          "Entertaining",
-          "Great staging",
-          "Funny"
-        ]
-      },
-      "lat": 40.756,
-      "lng": -73.9880631,
-      "tags": [
-        "film-tv",
-        "family-kid-friendly",
-        "comedy",
-        "award-winners",
-        "adventure"
       ]
     },
     {
@@ -2867,7 +3074,7 @@
         "cheapest": 53,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-06-01"
+        "as_of": "2026-06-02"
       },
       "lat": 40.7036434,
       "lng": -73.992813,
@@ -2890,12 +3097,36 @@
         "cheapest": 67,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-06-01"
+        "as_of": "2026-06-02"
       },
       "lat": 40.7718357,
       "lng": -73.9894755,
       "tags": [
         "family-kid-friendly"
+      ]
+    },
+    {
+      "id": "forest-high-and-the-glitch-in-the-system-a-new-sci-fi-musical-the-players-theatre",
+      "title": "Forest High and the Glitch in the System - a new Sci-Fi Musical",
+      "venue": "The Players Theatre",
+      "category": "off-broadway",
+      "status": "running",
+      "genre": "musical",
+      "opening_date": "2026-05-08",
+      "closing_date": "2026-06-07",
+      "image_url": "https://images.ctfassets.net/6pezt69ih962/6Yzaly7V2SieSo17M7mu2I/60b009bb62283d313ccda1cd34798e6a/foresthigh_480x720.jpg",
+      "todaytix_url": "https://www.todaytix.com/shows/47005",
+      "price": {
+        "cheapest": 60,
+        "currency": "USD",
+        "source": "todaytix",
+        "as_of": "2026-06-02"
+      },
+      "lat": 40.6671417,
+      "lng": -73.9905171,
+      "tags": [
+        "comedy",
+        "sci-fi-fantasy"
       ]
     },
     {
@@ -2914,103 +3145,136 @@
         "cheapest": 112,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-06-01"
+        "as_of": "2026-06-02"
       },
       "review": {
         "score": 92,
         "review_count": 13615,
         "adjectives": [
-          "Entertaining",
           "Great staging",
-          "Delightful",
           "Enchanting",
+          "Delightful",
+          "Entertaining",
           "Must see"
         ]
       },
       "lat": 40.758063,
       "lng": -73.9862053,
       "tags": [
-        "film-tv",
         "family-kid-friendly",
+        "film-tv",
         "award-winners",
         "must-see",
         "classic"
       ]
     },
     {
-      "id": "six-lena-horne-theatre",
-      "title": "SIX",
-      "venue": "Lena Horne Theatre",
+      "id": "stranger-things-the-first-shadow-marquis-theatre",
+      "title": "Stranger Things: The First Shadow",
+      "venue": "Marquis Theatre",
       "category": "broadway",
       "status": "running",
-      "genre": "musical",
-      "opening_date": "2020-02-13",
-      "description": "This Tony Award-winning pop musical gives 16th-century drama a 21st-century feminist twist. The six wives of Henry VIII become a fierce girl group who take back their crowns and rewrite their histories in the style of a rousing arena concert.",
-      "image_url": "https://images.ctfassets.net/6pezt69ih962/7o6dlt54Z03M44qt25bZGo/a079669b6782911fd7d7368ef32602a9/260326_SIX_TodayTixKeyArt_480x720_SS.jpg",
-      "todaytix_url": "https://www.todaytix.com/shows/20737",
+      "genre": "play",
+      "opening_date": "2025-03-28",
+      "description": "Get *Stranger Things: The First Shadow* tickets and see the world before it turns upside down. The origin story of the hit Netflix series follows younger versions of fan-favorite characters as they deal with unusual happenings in Hawkins. Now nominated for five Tony Awards.",
+      "image_url": "https://images.ctfassets.net/6pezt69ih962/Bj84yc5jYAarR8Aqs7kSS/45873b31a4ed9a27988bbc56aaac0c4b/STTFS-NewKeyArt-ThirdPartyAssets_TodayTix-480x720.jpg",
+      "playbill_url": "https://playbill.com/production/stranger-things-the-first-shadow-broadway-marquis-theatre-2025",
+      "todaytix_url": "https://www.todaytix.com/shows/41967",
       "price": {
         "cheapest": 62,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-06-01"
+        "as_of": "2026-06-02"
       },
       "review": {
-        "score": 88,
-        "review_count": 3721,
+        "score": 91,
+        "review_count": 1149,
         "adjectives": [
-          "Clever",
-          "Funny",
           "Entertaining",
-          "Delightful",
-          "Great singing"
+          "Clever",
+          "Exciting",
+          "Absorbing",
+          "Great acting"
         ]
       },
-      "lat": 40.7599753,
-      "lng": -73.9869664,
+      "lat": 40.7589043,
+      "lng": -73.9861848,
       "tags": [
-        "history",
+        "drama",
+        "film-tv",
         "award-winners",
-        "must-see"
+        "sci-fi-fantasy"
       ]
     },
     {
-      "id": "mj-the-musical-neil-simon-theatre",
-      "title": "MJ The Musical",
-      "venue": "Neil Simon Theatre",
+      "id": "just-in-time-circle-in-the-square-theatre",
+      "title": "Just in Time",
+      "venue": "Circle in the Square Theatre",
       "category": "broadway",
       "status": "running",
       "genre": "musical",
-      "opening_date": "2021-12-06",
-      "description": "Experience the story behind the King of Pop's singular career and greatest hits. The Tony-winning musical offers a deep look into his creative process and all the energy of a Michael Jackson concert, complete with more than 20 of his classic songs and signature dance moves.",
-      "image_url": "https://images.ctfassets.net/6pezt69ih962/61fYsknBp6zurFfZpBA0RN/a95c0c7c40176b7a2515dced4f8979cf/TodayTix_Poster_480x720_14601_MJ_Updated_Partner_assets_FR.jpg",
-      "playbill_url": "https://playbill.com/production/mj-the-musicalneil-simon-theatre-2021-2022",
-      "todaytix_url": "https://www.todaytix.com/shows/23379",
+      "opening_date": "2025-03-31",
+      "description": "*Just in Time* is a new, six-time Tony Award-nominated bio-musical about Grammy Hall of Fame Award winner Bobby Darin. This jukebox show traces the singer’s rise to stardom, marriage to Sandra Dee, and the personal surprises that upended his life.",
+      "image_url": "https://images.ctfassets.net/6pezt69ih962/7ckKQ711qmSYiB8qDyYnf9/348bf0ccf9c168d6162f529b3d31b60d/JIT0143-W-TodayTix-JJ-KeyArt-480x720_v1.jpg",
+      "playbill_url": "https://playbill.com/production/just-in-time-broadway-circle-in-the-square-theatre-2025",
+      "todaytix_url": "https://www.todaytix.com/shows/42905",
       "price": {
-        "cheapest": 71,
+        "cheapest": 87,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-06-01"
+        "as_of": "2026-06-02"
       },
       "review": {
-        "score": 92,
-        "review_count": 2970,
+        "score": 88,
+        "review_count": 185,
         "adjectives": [
-          "Great staging",
-          "Entertaining",
           "Great acting",
+          "Entertaining",
+          "Delightful",
           "Great singing",
-          "Delightful"
+          "Charming"
         ]
       },
-      "lat": 40.7630257,
-      "lng": -73.9845198,
+      "lat": 40.7622484,
+      "lng": -73.9853553,
       "tags": [
         "jukebox",
-        "family-kid-friendly",
-        "award-winners",
-        "must-see",
+        "stars-on-stage",
+        "rush-available"
+      ]
+    },
+    {
+      "id": "well-ill-let-you-go-studio-seaview",
+      "title": "Well, I'll Let You Go",
+      "venue": "Studio Seaview",
+      "category": "off-broadway",
+      "status": "running",
+      "genre": "play",
+      "opening_date": "2026-04-30",
+      "closing_date": "2026-06-20",
+      "image_url": "https://images.ctfassets.net/6pezt69ih962/1Wd7c6Pyv5Bl8rV8Ayxc9L/47b2063896cac6978a69ee6d4be6d6ae/Poster__1_.jpg",
+      "playbill_url": "https://playbill.com/production/well-ill-let-you-go-off-broadway-studio-seaview-2026",
+      "todaytix_url": "https://www.todaytix.com/shows/44748",
+      "price": {
+        "cheapest": 52,
+        "currency": "USD",
+        "source": "todaytix",
+        "as_of": "2026-06-02"
+      },
+      "review": {
+        "score": 86,
+        "review_count": 22,
+        "adjectives": [
+          "Great acting",
+          "Clever",
+          "Emotional",
+          "Entertaining",
+          "Great writing"
+        ]
+      },
+      "tags": [
         "drama",
-        "biography"
+        "rush-available"
       ]
     },
     {
@@ -3029,17 +3293,17 @@
         "cheapest": 67,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-06-01"
+        "as_of": "2026-06-02"
       },
       "review": {
         "score": 91,
         "review_count": 1124,
         "adjectives": [
-          "Funny",
-          "Delightful",
-          "Great acting",
           "Entertaining",
-          "Great singing"
+          "Funny",
+          "Great acting",
+          "Great singing",
+          "Delightful"
         ]
       },
       "lat": 40.7603178,
@@ -3060,10 +3324,10 @@
       "playbill_url": "https://playbill.com/production/proof-broadway-booth-theatre-2026",
       "todaytix_url": "https://www.todaytix.com/shows/45003",
       "price": {
-        "cheapest": 92,
+        "cheapest": 72,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-06-01"
+        "as_of": "2026-06-02"
       },
       "review": {
         "score": 94,
@@ -3093,7 +3357,38 @@
         "cheapest": 67,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-06-01"
+        "as_of": "2026-06-02"
+      },
+      "tags": []
+    },
+    {
+      "id": "a-woman-among-women-lct3-at-the-claire-tow-theater",
+      "title": "A Woman Among Women",
+      "venue": "LCT3 at the Claire Tow Theater",
+      "category": "off-broadway",
+      "status": "running",
+      "genre": "play",
+      "opening_date": "2026-05-16",
+      "closing_date": "2026-06-28",
+      "description": "*A Woman Among Women* centers on Cleo, founder of the local women’s wellness group, as she tries to hold her fragile community together.",
+      "image_url": "https://images.ctfassets.net/6pezt69ih962/3RezaLGlVwQs8h9w8Z5r5F/71f6a09a4cf00a5985c15f0748c26c43/TT_Poster_480x720_AWAW.jpg",
+      "playbill_url": "https://playbill.com/production/a-woman-among-women-off-broadway-claire-tow-theater-2026",
+      "todaytix_url": "https://www.todaytix.com/shows/44496",
+      "price": {
+        "cheapest": 43,
+        "currency": "USD",
+        "source": "todaytix",
+        "as_of": "2026-06-02"
+      },
+      "review": {
+        "score": 85,
+        "review_count": 2,
+        "adjectives": [
+          "Great acting",
+          "Entertaining",
+          "Clever",
+          "Absorbing"
+        ]
       },
       "tags": []
     },
@@ -3113,7 +3408,7 @@
         "cheapest": 37,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-06-01"
+        "as_of": "2026-06-02"
       },
       "review": {
         "score": 89,
@@ -3134,144 +3429,80 @@
       ]
     },
     {
-      "id": "well-ill-let-you-go-studio-seaview",
-      "title": "Well, I'll Let You Go",
-      "venue": "Studio Seaview",
-      "category": "off-broadway",
-      "status": "running",
-      "genre": "play",
-      "opening_date": "2026-04-30",
-      "closing_date": "2026-06-20",
-      "image_url": "https://images.ctfassets.net/6pezt69ih962/1Wd7c6Pyv5Bl8rV8Ayxc9L/47b2063896cac6978a69ee6d4be6d6ae/Poster__1_.jpg",
-      "playbill_url": "https://playbill.com/production/well-ill-let-you-go-off-broadway-studio-seaview-2026",
-      "todaytix_url": "https://www.todaytix.com/shows/44748",
-      "price": {
-        "cheapest": 52,
-        "currency": "USD",
-        "source": "todaytix",
-        "as_of": "2026-06-01"
-      },
-      "review": {
-        "score": 86,
-        "review_count": 22,
-        "adjectives": [
-          "Great acting",
-          "Clever",
-          "Emotional",
-          "Entertaining",
-          "Great writing"
-        ]
-      },
-      "tags": [
-        "drama",
-        "rush-available"
-      ]
-    },
-    {
-      "id": "just-in-time-circle-in-the-square-theatre",
-      "title": "Just in Time",
-      "venue": "Circle in the Square Theatre",
+      "id": "six-lena-horne-theatre",
+      "title": "SIX",
+      "venue": "Lena Horne Theatre",
       "category": "broadway",
       "status": "running",
       "genre": "musical",
-      "opening_date": "2025-03-31",
-      "description": "*Just in Time* is a new, six-time Tony Award-nominated bio-musical about Grammy Hall of Fame Award winner Bobby Darin. This jukebox show traces the singer’s rise to stardom, marriage to Sandra Dee, and the personal surprises that upended his life.",
-      "image_url": "https://images.ctfassets.net/6pezt69ih962/7ckKQ711qmSYiB8qDyYnf9/348bf0ccf9c168d6162f529b3d31b60d/JIT0143-W-TodayTix-JJ-KeyArt-480x720_v1.jpg",
-      "playbill_url": "https://playbill.com/production/just-in-time-broadway-circle-in-the-square-theatre-2025",
-      "todaytix_url": "https://www.todaytix.com/shows/42905",
-      "price": {
-        "cheapest": 107,
-        "currency": "USD",
-        "source": "todaytix",
-        "as_of": "2026-06-01"
-      },
-      "review": {
-        "score": 88,
-        "review_count": 185,
-        "adjectives": [
-          "Delightful",
-          "Entertaining",
-          "Great acting",
-          "Charming",
-          "Great singing"
-        ]
-      },
-      "lat": 40.7622484,
-      "lng": -73.9853553,
-      "tags": [
-        "jukebox",
-        "stars-on-stage",
-        "rush-available"
-      ]
-    },
-    {
-      "id": "stranger-things-the-first-shadow-marquis-theatre",
-      "title": "Stranger Things: The First Shadow",
-      "venue": "Marquis Theatre",
-      "category": "broadway",
-      "status": "running",
-      "genre": "play",
-      "opening_date": "2025-03-28",
-      "description": "Get *Stranger Things: The First Shadow* tickets and see the world before it turns upside down. The origin story of the hit Netflix series follows younger versions of fan-favorite characters as they deal with unusual happenings in Hawkins. Now nominated for five Tony Awards.",
-      "image_url": "https://images.ctfassets.net/6pezt69ih962/Bj84yc5jYAarR8Aqs7kSS/45873b31a4ed9a27988bbc56aaac0c4b/STTFS-NewKeyArt-ThirdPartyAssets_TodayTix-480x720.jpg",
-      "playbill_url": "https://playbill.com/production/stranger-things-the-first-shadow-broadway-marquis-theatre-2025",
-      "todaytix_url": "https://www.todaytix.com/shows/41967",
+      "opening_date": "2020-02-13",
+      "description": "This Tony Award-winning pop musical gives 16th-century drama a 21st-century feminist twist. The six wives of Henry VIII become a fierce girl group who take back their crowns and rewrite their histories in the style of a rousing arena concert.",
+      "image_url": "https://images.ctfassets.net/6pezt69ih962/7o6dlt54Z03M44qt25bZGo/a079669b6782911fd7d7368ef32602a9/260326_SIX_TodayTixKeyArt_480x720_SS.jpg",
+      "todaytix_url": "https://www.todaytix.com/shows/20737",
       "price": {
         "cheapest": 62,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-06-01"
+        "as_of": "2026-06-02"
       },
       "review": {
-        "score": 91,
-        "review_count": 1149,
+        "score": 88,
+        "review_count": 3721,
         "adjectives": [
+          "Great singing",
+          "Delightful",
           "Clever",
-          "Absorbing",
-          "Exciting",
-          "Great acting",
-          "Entertaining"
+          "Entertaining",
+          "Funny"
         ]
       },
-      "lat": 40.7589043,
-      "lng": -73.9861848,
+      "lat": 40.7599753,
+      "lng": -73.9869664,
       "tags": [
-        "film-tv",
+        "history",
         "award-winners",
-        "sci-fi-fantasy",
-        "drama"
+        "must-see"
       ]
     },
     {
-      "id": "a-woman-among-women-lct3-at-the-claire-tow-theater",
-      "title": "A Woman Among Women",
-      "venue": "LCT3 at the Claire Tow Theater",
-      "category": "off-broadway",
+      "id": "mj-the-musical-neil-simon-theatre",
+      "title": "MJ The Musical",
+      "venue": "Neil Simon Theatre",
+      "category": "broadway",
       "status": "running",
-      "genre": "play",
-      "opening_date": "2026-05-16",
-      "closing_date": "2026-06-28",
-      "description": "*A Woman Among Women* centers on Cleo, founder of the local women’s wellness group, as she tries to hold her fragile community together.",
-      "image_url": "https://images.ctfassets.net/6pezt69ih962/3RezaLGlVwQs8h9w8Z5r5F/71f6a09a4cf00a5985c15f0748c26c43/TT_Poster_480x720_AWAW.jpg",
-      "playbill_url": "https://playbill.com/production/a-woman-among-women-off-broadway-claire-tow-theater-2026",
-      "todaytix_url": "https://www.todaytix.com/shows/44496",
+      "genre": "musical",
+      "opening_date": "2021-12-06",
+      "description": "Experience the story behind the King of Pop's singular career and greatest hits. The Tony-winning musical offers a deep look into his creative process and all the energy of a Michael Jackson concert, complete with more than 20 of his classic songs and signature dance moves.",
+      "image_url": "https://images.ctfassets.net/6pezt69ih962/61fYsknBp6zurFfZpBA0RN/a95c0c7c40176b7a2515dced4f8979cf/TodayTix_Poster_480x720_14601_MJ_Updated_Partner_assets_FR.jpg",
+      "playbill_url": "https://playbill.com/production/mj-the-musicalneil-simon-theatre-2021-2022",
+      "todaytix_url": "https://www.todaytix.com/shows/23379",
       "price": {
-        "cheapest": 43,
+        "cheapest": 71,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-06-01"
+        "as_of": "2026-06-02"
       },
       "review": {
-        "score": 85,
-        "review_count": 2,
+        "score": 92,
+        "review_count": 2970,
         "adjectives": [
-          "Great acting",
+          "Great singing",
           "Entertaining",
-          "Clever",
-          "Absorbing"
+          "Great staging",
+          "Delightful",
+          "Great acting"
         ]
       },
-      "tags": []
+      "lat": 40.7630257,
+      "lng": -73.9845198,
+      "tags": [
+        "family-kid-friendly",
+        "drama",
+        "biography",
+        "jukebox",
+        "award-winners",
+        "must-see"
+      ]
     },
     {
       "id": "death-becomes-her-lunt-fontanne-theatre",
@@ -3290,49 +3521,28 @@
         "cheapest": 62,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-06-01"
+        "as_of": "2026-06-02"
       },
       "review": {
         "score": 94,
         "review_count": 4202,
         "adjectives": [
-          "Great acting",
-          "Clever",
-          "Funny",
+          "Delightful",
           "Entertaining",
-          "Delightful"
+          "Funny",
+          "Clever",
+          "Great acting"
         ]
       },
       "lat": 40.7591662,
       "lng": -73.9859015,
       "tags": [
-        "film-tv",
-        "comedy",
-        "award-winners",
         "stars-on-stage",
-        "must-see"
+        "film-tv",
+        "award-winners",
+        "must-see",
+        "comedy"
       ]
-    },
-    {
-      "id": "what-happened-was-audibles-minetta-lane-theatre",
-      "title": "What Happened Was",
-      "venue": "Audible’s Minetta Lane Theatre",
-      "category": "off-broadway",
-      "status": "running",
-      "genre": "play",
-      "opening_date": "2026-04-14",
-      "closing_date": "2026-06-14",
-      "description": "*What Happened Was* is a tender drama about two co-workers who meet for a first date.",
-      "image_url": "https://images.ctfassets.net/6pezt69ih962/5qxvTnYzHx3eoJNKZ6OVfh/7a44ef3f8ef4d69d95e9b0ffbd77e726/855446073-swt0029-w-whw-todaytix-v1-poster-480x720.jpg",
-      "playbill_url": "https://playbill.com/production/what-happened-was-off-broadway-minetta-lane-theatre-2026",
-      "todaytix_url": "https://www.todaytix.com/shows/46488",
-      "price": {
-        "cheapest": 140,
-        "currency": "USD",
-        "source": "todaytix",
-        "as_of": "2026-06-01"
-      },
-      "tags": []
     },
     {
       "id": "labelless-the-duke-on-42nd-street",
@@ -3351,10 +3561,29 @@
         "cheapest": 45,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-06-01"
+        "as_of": "2026-06-02"
       },
       "lat": 40.7567679,
       "lng": -73.9882358,
+      "tags": []
+    },
+    {
+      "id": "sounds-of-brazil-with-hamilton-de-holanda-the-jlco-with-wynton-marsalis-rose-theater-jazz-at-lincoln-center",
+      "title": "Sounds of Brazil with Hamilton de Holanda The JLCO with Wynton Marsalis",
+      "venue": "Rose Theater, Jazz at Lincoln Center",
+      "category": "off-broadway",
+      "status": "upcoming",
+      "genre": "concert",
+      "opening_date": "2026-06-12",
+      "closing_date": "2026-06-13",
+      "image_url": "https://images.ctfassets.net/6pezt69ih962/1H8Ej0YYQ4Yq55V9wqHq1e/0c3455dde159dc5b275519201763c7e3/25-26-HamiltondeHolanda_todaytix_480x720.jpg",
+      "todaytix_url": "https://www.todaytix.com/shows/46941",
+      "price": {
+        "cheapest": 38,
+        "currency": "USD",
+        "source": "todaytix",
+        "as_of": "2026-06-02"
+      },
       "tags": []
     },
     {
@@ -3372,15 +3601,15 @@
         "cheapest": 42,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-06-01"
+        "as_of": "2026-06-02"
       },
       "lat": 40.7633055,
       "lng": -73.9704554,
       "tags": [
-        "transfer",
-        "comedy",
-        "romance",
         "drama",
+        "romance",
+        "comedy",
+        "transfer",
         "rush-available"
       ]
     },
@@ -3394,37 +3623,19 @@
       "opening_date": "2026-05-30",
       "closing_date": "2026-06-21",
       "image_url": "https://images.ctfassets.net/6pezt69ih962/6PwDQ25Tp5CsCf0PqAgr7S/3f9ef8af7d62df037d62ee390eacdd64/SM-TodayTix-480x720.png",
+      "playbill_url": "https://playbill.com/production/silverback-mountain-off-broadway-amt-theater-2026",
       "todaytix_url": "https://www.todaytix.com/shows/46427",
       "price": {
         "cheapest": 93,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-06-01"
+        "as_of": "2026-06-02"
       },
       "tags": [
-        "comedy",
         "romance",
+        "comedy",
         "rush-available"
       ]
-    },
-    {
-      "id": "sounds-of-brazil-with-hamilton-de-holanda-the-jlco-with-wynton-marsalis-rose-theater-jazz-at-lincoln-center",
-      "title": "Sounds of Brazil with Hamilton de Holanda The JLCO with Wynton Marsalis",
-      "venue": "Rose Theater, Jazz at Lincoln Center",
-      "category": "off-broadway",
-      "status": "upcoming",
-      "genre": "concert",
-      "opening_date": "2026-06-12",
-      "closing_date": "2026-06-13",
-      "image_url": "https://images.ctfassets.net/6pezt69ih962/1H8Ej0YYQ4Yq55V9wqHq1e/0c3455dde159dc5b275519201763c7e3/25-26-HamiltondeHolanda_todaytix_480x720.jpg",
-      "todaytix_url": "https://www.todaytix.com/shows/46941",
-      "price": {
-        "cheapest": 38,
-        "currency": "USD",
-        "source": "todaytix",
-        "as_of": "2026-06-01"
-      },
-      "tags": []
     },
     {
       "id": "an-american-daughter-the-irene-diamond-stage-at-the-pershing-square-signature-center",
@@ -3442,7 +3653,7 @@
         "cheapest": 97,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-06-01"
+        "as_of": "2026-06-02"
       },
       "tags": [
         "drama",
