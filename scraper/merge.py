@@ -102,7 +102,7 @@ def merge_sources(
             image_url = pb.image_url
 
         playbill_url = pb.production_url if pb else None
-        todaytix_url = f"https://www.todaytix.com/shows/{tt.id}"
+        todaytix_url = f"https://www.todaytix.com/nyc/shows/{tt.id}"
 
         review = None
         if tt.review_score is not None and tt.review_count:
