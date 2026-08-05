@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "last_updated": "2026-08-04T12:05:00.353556Z",
-    "show_count": 123,
+    "last_updated": "2026-08-05T12:03:06.556022Z",
+    "show_count": 120,
     "sources": [
       "todaytix",
       "playbill"
@@ -24,28 +24,28 @@
         "cheapest": 99,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-08-04"
+        "as_of": "2026-08-05"
       },
       "review": {
         "score": 93,
-        "review_count": 28322,
+        "review_count": 28369,
         "adjectives": [
-          "Clever",
-          "Delightful",
           "Entertaining",
+          "Enchanting",
+          "Clever",
           "Great singing",
-          "Enchanting"
+          "Delightful"
         ]
       },
       "lat": 40.7623619,
       "lng": -73.9852044,
       "tags": [
-        "film-tv",
-        "family-kid-friendly",
         "drama",
         "award-winners",
+        "film-tv",
         "classic",
-        "must-see"
+        "must-see",
+        "family-kid-friendly"
       ]
     },
     {
@@ -64,17 +64,17 @@
         "cheapest": 73,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-08-04"
+        "as_of": "2026-08-05"
       },
       "review": {
         "score": 85,
-        "review_count": 10035,
+        "review_count": 10066,
         "adjectives": [
-          "Delightful",
-          "Funny",
-          "Entertaining",
           "Great singing",
-          "Clever"
+          "Delightful",
+          "Clever",
+          "Funny",
+          "Entertaining"
         ]
       },
       "lat": 40.7612355,
@@ -82,9 +82,9 @@
       "tags": [
         "drama",
         "award-winners",
+        "revival",
         "stars-on-stage",
-        "classic",
-        "revival"
+        "classic"
       ]
     },
     {
@@ -103,27 +103,27 @@
         "cheapest": 102,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-08-04"
+        "as_of": "2026-08-05"
       },
       "review": {
         "score": 92,
-        "review_count": 16186,
+        "review_count": 16222,
         "adjectives": [
           "Enchanting",
-          "Great staging",
+          "Must see",
           "Entertaining",
           "Delightful",
-          "Must see"
+          "Great staging"
         ]
       },
       "lat": 40.758063,
       "lng": -73.9862053,
       "tags": [
-        "film-tv",
-        "family-kid-friendly",
         "award-winners",
+        "film-tv",
         "classic",
-        "must-see"
+        "must-see",
+        "family-kid-friendly"
       ]
     },
     {
@@ -142,26 +142,26 @@
         "cheapest": 99,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-08-04"
+        "as_of": "2026-08-05"
       },
       "review": {
         "score": 87,
-        "review_count": 9836,
+        "review_count": 9863,
         "adjectives": [
-          "Entertaining",
-          "Great staging",
-          "Delightful",
           "Funny",
-          "Enchanting"
+          "Enchanting",
+          "Delightful",
+          "Entertaining",
+          "Great staging"
         ]
       },
       "lat": 40.756,
       "lng": -73.9880631,
       "tags": [
-        "adventure",
+        "award-winners",
         "film-tv",
-        "family-kid-friendly",
-        "award-winners"
+        "adventure",
+        "family-kid-friendly"
       ]
     },
     {
@@ -180,26 +180,26 @@
         "cheapest": 72,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-08-04"
+        "as_of": "2026-08-05"
       },
       "review": {
         "score": 90,
-        "review_count": 17548,
+        "review_count": 17589,
         "adjectives": [
           "Entertaining",
           "Raunchy",
-          "Hilarious",
           "Clever",
-          "Funny"
+          "Funny",
+          "Hilarious"
         ]
       },
       "lat": 40.7611047,
       "lng": -73.9857404,
       "tags": [
-        "comedy",
-        "satire",
         "award-winners",
+        "satire",
         "must-see",
+        "comedy",
         "rush-available"
       ]
     },
@@ -219,28 +219,28 @@
         "cheapest": 134,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-08-04"
+        "as_of": "2026-08-05"
       },
       "review": {
         "score": 96,
-        "review_count": 17165,
+        "review_count": 17208,
         "adjectives": [
           "Ambitious",
-          "Absorbing",
-          "Must see",
           "Entertaining",
-          "Clever"
+          "Absorbing",
+          "Clever",
+          "Must see"
         ]
       },
       "lat": 40.7590309,
       "lng": -73.9867479,
       "tags": [
-        "history",
-        "romance",
-        "family-kid-friendly",
         "drama",
         "award-winners",
-        "must-see"
+        "history",
+        "must-see",
+        "romance",
+        "family-kid-friendly"
       ]
     },
     {
@@ -259,13 +259,13 @@
         "cheapest": 60,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-08-04"
+        "as_of": "2026-08-05"
       },
       "lat": 40.7160935,
       "lng": -74.0058928,
       "tags": [
-        "crime-thriller-mystery",
         "drama",
+        "crime-thriller-mystery",
         "rush-available"
       ]
     },
@@ -285,17 +285,17 @@
         "cheapest": 58,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-08-04"
+        "as_of": "2026-08-05"
       },
       "review": {
         "score": 84,
-        "review_count": 524,
+        "review_count": 526,
         "adjectives": [
-          "Great acting",
-          "Delightful",
-          "Entertaining",
           "Clever",
-          "Funny"
+          "Funny",
+          "Entertaining",
+          "Delightful",
+          "Great acting"
         ]
       },
       "lat": 40.7160935,
@@ -319,7 +319,7 @@
         "cheapest": 190,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-08-04"
+        "as_of": "2026-08-05"
       },
       "lat": 40.7579803,
       "lng": -73.974769,
@@ -341,7 +341,7 @@
         "cheapest": 45,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-08-04"
+        "as_of": "2026-08-05"
       },
       "lat": 40.7728705,
       "lng": -73.9847923,
@@ -366,7 +366,7 @@
         "cheapest": 45,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-08-04"
+        "as_of": "2026-08-05"
       },
       "lat": 40.7728705,
       "lng": -73.9847923,
@@ -391,14 +391,14 @@
         "cheapest": 45,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-08-04"
+        "as_of": "2026-08-05"
       },
       "lat": 40.7728705,
       "lng": -73.9847923,
       "tags": [
-        "comedy",
+        "classic",
         "romance",
-        "classic"
+        "comedy"
       ]
     },
     {
@@ -417,14 +417,14 @@
         "cheapest": 45,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-08-04"
+        "as_of": "2026-08-05"
       },
       "lat": 40.7728705,
       "lng": -73.9847923,
       "tags": [
-        "history",
         "biography",
         "drama",
+        "history",
         "classic"
       ]
     },
@@ -443,7 +443,7 @@
         "cheapest": 55,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-08-04"
+        "as_of": "2026-08-05"
       },
       "lat": 40.7728705,
       "lng": -73.9847923,
@@ -467,24 +467,24 @@
         "cheapest": 55,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-08-04"
+        "as_of": "2026-08-05"
       },
       "review": {
         "score": 91,
         "review_count": 180,
         "adjectives": [
-          "Great singing",
+          "Enchanting",
           "Entertaining",
           "Absorbing",
-          "Enchanting",
-          "Delightful"
+          "Delightful",
+          "Great singing"
         ]
       },
       "lat": 40.7728705,
       "lng": -73.9847923,
       "tags": [
-        "romance",
-        "classic"
+        "classic",
+        "romance"
       ]
     },
     {
@@ -502,27 +502,27 @@
         "cheapest": 45,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-08-04"
+        "as_of": "2026-08-05"
       },
       "review": {
         "score": 85,
         "review_count": 153,
         "adjectives": [
-          "Enchanting",
-          "Entertaining",
-          "Great singing",
           "Great staging",
+          "Entertaining",
+          "Enchanting",
+          "Great singing",
           "Delightful"
         ]
       },
       "lat": 40.7728705,
       "lng": -73.9847923,
       "tags": [
-        "adventure",
-        "comedy",
-        "family-kid-friendly",
         "holiday",
-        "classical"
+        "adventure",
+        "classical",
+        "comedy",
+        "family-kid-friendly"
       ]
     },
     {
@@ -542,17 +542,17 @@
         "cheapest": 58,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-08-04"
+        "as_of": "2026-08-05"
       },
       "review": {
         "score": 82,
         "review_count": 756,
         "adjectives": [
           "Absorbing",
-          "Clever",
+          "Enchanting",
           "Delightful",
-          "Entertaining",
-          "Enchanting"
+          "Clever",
+          "Entertaining"
         ]
       },
       "lat": 40.7627588,
@@ -577,16 +577,16 @@
         "cheapest": 138,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-08-04"
+        "as_of": "2026-08-05"
       },
       "review": {
         "score": 86,
-        "review_count": 4856,
+        "review_count": 4871,
         "adjectives": [
-          "Delightful",
-          "Funny",
           "Entertaining",
           "Clever",
+          "Funny",
+          "Delightful",
           "Hilarious"
         ]
       },
@@ -614,17 +614,17 @@
         "cheapest": 60,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-08-04"
+        "as_of": "2026-08-05"
       },
       "review": {
         "score": 93,
-        "review_count": 2186,
+        "review_count": 2196,
         "adjectives": [
+          "Entertaining",
           "Great acting",
           "Great singing",
-          "Funny",
-          "Entertaining",
-          "Delightful"
+          "Delightful",
+          "Funny"
         ]
       },
       "lat": 40.7627588,
@@ -650,24 +650,24 @@
         "cheapest": 60,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-08-04"
+        "as_of": "2026-08-05"
       },
       "review": {
         "score": 91,
-        "review_count": 2181,
+        "review_count": 2197,
         "adjectives": [
           "Great acting",
+          "Great singing",
           "Delightful",
-          "Entertaining",
           "Funny",
-          "Great singing"
+          "Entertaining"
         ]
       },
       "lat": 40.7627588,
       "lng": -73.9875605,
       "tags": [
-        "comedy",
-        "revival"
+        "revival",
+        "comedy"
       ]
     },
     {
@@ -684,24 +684,24 @@
         "cheapest": 58,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-08-04"
+        "as_of": "2026-08-05"
       },
       "review": {
         "score": 93,
         "review_count": 510,
         "adjectives": [
           "Great acting",
-          "Entertaining",
-          "Funny",
           "Delightful",
-          "Clever"
+          "Clever",
+          "Entertaining",
+          "Funny"
         ]
       },
       "lat": 40.7627588,
       "lng": -73.9875605,
       "tags": [
-        "family-kid-friendly",
-        "immersive"
+        "immersive",
+        "family-kid-friendly"
       ]
     },
     {
@@ -720,28 +720,28 @@
         "cheapest": 71,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-08-04"
+        "as_of": "2026-08-05"
       },
       "review": {
         "score": 91,
-        "review_count": 10824,
+        "review_count": 10855,
         "adjectives": [
+          "Absorbing",
           "Enchanting",
           "Great staging",
-          "Clever",
-          "Absorbing",
-          "Entertaining"
+          "Entertaining",
+          "Clever"
         ]
       },
       "lat": 40.7567924,
       "lng": -73.9874615,
       "tags": [
-        "adventure",
-        "family-kid-friendly",
         "drama",
         "award-winners",
         "stars-on-stage",
-        "must-see"
+        "adventure",
+        "must-see",
+        "family-kid-friendly"
       ]
     },
     {
@@ -760,28 +760,28 @@
         "cheapest": 62,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-08-04"
+        "as_of": "2026-08-05"
       },
       "review": {
         "score": 91,
-        "review_count": 8202,
+        "review_count": 8232,
         "adjectives": [
-          "Great singing",
-          "Great staging",
-          "Absorbing",
           "Enchanting",
+          "Great singing",
+          "Absorbing",
+          "Great staging",
           "Entertaining"
         ]
       },
       "lat": 40.760681,
       "lng": -73.9855847,
       "tags": [
-        "sci-fi-fantasy",
-        "family-kid-friendly",
         "drama",
         "award-winners",
         "stars-on-stage",
-        "must-see"
+        "sci-fi-fantasy",
+        "must-see",
+        "family-kid-friendly"
       ]
     },
     {
@@ -801,15 +801,15 @@
         "cheapest": 62,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-08-04"
+        "as_of": "2026-08-05"
       },
       "review": {
         "score": 88,
-        "review_count": 7535,
+        "review_count": 7561,
         "adjectives": [
-          "Delightful",
           "Enchanting",
           "Great singing",
+          "Delightful",
           "Entertaining",
           "Great staging"
         ]
@@ -817,13 +817,13 @@
       "lat": 40.7592532,
       "lng": -73.9892108,
       "tags": [
-        "film-tv",
-        "jukebox",
-        "romance",
         "drama",
         "award-winners",
+        "film-tv",
         "stars-on-stage",
-        "must-see"
+        "must-see",
+        "romance",
+        "jukebox"
       ]
     },
     {
@@ -841,7 +841,7 @@
         "cheapest": 75,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-08-04"
+        "as_of": "2026-08-05"
       },
       "lat": 40.7592532,
       "lng": -73.9892108,
@@ -862,23 +862,23 @@
         "cheapest": 80,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-08-04"
+        "as_of": "2026-08-05"
       },
       "review": {
         "score": 95,
         "review_count": 351,
         "adjectives": [
-          "Absorbing",
-          "Entertaining",
           "Funny",
+          "Delightful",
+          "Absorbing",
           "Great acting",
-          "Delightful"
+          "Entertaining"
         ]
       },
       "tags": [
+        "drama",
         "adventure",
-        "comedy",
-        "drama"
+        "comedy"
       ]
     },
     {
@@ -895,7 +895,7 @@
         "cheapest": 80,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-08-04"
+        "as_of": "2026-08-05"
       },
       "review": {
         "score": 84,
@@ -926,7 +926,7 @@
         "cheapest": 80,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-08-04"
+        "as_of": "2026-08-05"
       },
       "review": {
         "score": 98,
@@ -939,8 +939,8 @@
       },
       "tags": [
         "drama",
-        "must-see",
-        "revival"
+        "revival",
+        "must-see"
       ]
     },
     {
@@ -958,7 +958,7 @@
         "cheapest": 72,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-08-04"
+        "as_of": "2026-08-05"
       },
       "lat": 40.7616856,
       "lng": -73.9835045,
@@ -983,24 +983,24 @@
         "cheapest": 477,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-08-04"
+        "as_of": "2026-08-05"
       },
       "review": {
         "score": 94,
-        "review_count": 3489,
+        "review_count": 3516,
         "adjectives": [
           "Ambitious",
-          "Relevant",
+          "Moving",
           "Great acting",
-          "Thought provoking",
-          "Moving"
+          "Relevant",
+          "Thought provoking"
         ]
       },
       "lat": 40.7616856,
       "lng": -73.9835045,
       "tags": [
-        "stars-on-stage",
-        "revival"
+        "revival",
+        "stars-on-stage"
       ]
     },
     {
@@ -1018,7 +1018,7 @@
         "cheapest": 72,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-08-04"
+        "as_of": "2026-08-05"
       },
       "lat": 40.7616856,
       "lng": -73.9835045,
@@ -1041,24 +1041,24 @@
         "cheapest": 62,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-08-04"
+        "as_of": "2026-08-05"
       },
       "review": {
         "score": 88,
-        "review_count": 5850,
+        "review_count": 5874,
         "adjectives": [
           "Delightful",
           "Entertaining",
-          "Great singing",
+          "Funny",
           "Clever",
-          "Funny"
+          "Great singing"
         ]
       },
       "lat": 40.7599753,
       "lng": -73.9869664,
       "tags": [
-        "history",
         "award-winners",
+        "history",
         "must-see"
       ]
     },
@@ -1078,28 +1078,28 @@
         "cheapest": 67,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-08-04"
+        "as_of": "2026-08-05"
       },
       "review": {
         "score": 91,
-        "review_count": 4921,
+        "review_count": 4946,
         "adjectives": [
-          "Great singing",
-          "Great acting",
           "Entertaining",
           "Delightful",
-          "Great staging"
+          "Great singing",
+          "Great staging",
+          "Great acting"
         ]
       },
       "lat": 40.7630257,
       "lng": -73.9845198,
       "tags": [
-        "jukebox",
         "biography",
-        "family-kid-friendly",
         "drama",
         "award-winners",
-        "must-see"
+        "must-see",
+        "family-kid-friendly",
+        "jukebox"
       ]
     },
     {
@@ -1118,7 +1118,7 @@
         "cheapest": 240,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-08-04"
+        "as_of": "2026-08-05"
       },
       "tags": []
     },
@@ -1138,28 +1138,28 @@
         "cheapest": 82,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-08-04"
+        "as_of": "2026-08-05"
       },
       "review": {
         "score": 91,
-        "review_count": 3801,
+        "review_count": 3820,
         "adjectives": [
-          "Clever",
-          "Funny",
           "Entertaining",
+          "Clever",
+          "Delightful",
           "Great singing",
-          "Delightful"
+          "Funny"
         ]
       },
       "lat": 40.759448,
       "lng": -73.9926202,
       "tags": [
-        "comedy",
-        "family-kid-friendly",
         "award-winners",
+        "revival",
         "stars-on-stage",
         "must-see",
-        "revival"
+        "comedy",
+        "family-kid-friendly"
       ]
     },
     {
@@ -1179,26 +1179,26 @@
         "cheapest": 75,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-08-04"
+        "as_of": "2026-08-05"
       },
       "review": {
         "score": 91,
-        "review_count": 5084,
+        "review_count": 5110,
         "adjectives": [
-          "Great singing",
           "Entertaining",
           "Clever",
-          "Great acting",
-          "Funny"
+          "Great singing",
+          "Funny",
+          "Great acting"
         ]
       },
       "lat": 40.7579845,
       "lng": -73.9881584,
       "tags": [
-        "jukebox",
-        "comedy",
-        "romance",
         "must-see",
+        "romance",
+        "comedy",
+        "jukebox",
         "rush-available"
       ]
     },
@@ -1218,28 +1218,28 @@
         "cheapest": 59,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-08-04"
+        "as_of": "2026-08-05"
       },
       "review": {
         "score": 91,
-        "review_count": 10627,
+        "review_count": 10664,
         "adjectives": [
+          "Entertaining",
           "Clever",
           "Great singing",
           "Enchanting",
-          "Entertaining",
           "Delightful"
         ]
       },
       "lat": 40.7558962,
       "lng": -73.9849328,
       "tags": [
-        "jukebox",
-        "romance",
-        "family-kid-friendly",
         "drama",
         "stars-on-stage",
         "must-see",
+        "romance",
+        "family-kid-friendly",
+        "jukebox",
         "rush-available"
       ]
     },
@@ -1259,7 +1259,7 @@
         "cheapest": 58,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-08-04"
+        "as_of": "2026-08-05"
       },
       "tags": [
         "comedy",
@@ -1282,24 +1282,24 @@
         "cheapest": 62,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-08-04"
+        "as_of": "2026-08-05"
       },
       "review": {
         "score": 95,
-        "review_count": 5236,
+        "review_count": 5254,
         "adjectives": [
-          "Great singing",
-          "Delightful",
-          "Great staging",
           "Entertaining",
-          "Great acting"
+          "Delightful",
+          "Great acting",
+          "Great staging",
+          "Great singing"
         ]
       },
       "lat": 40.7584859,
       "lng": -73.9874377,
       "tags": [
-        "jukebox",
-        "award-winners"
+        "award-winners",
+        "jukebox"
       ]
     },
     {
@@ -1315,20 +1315,20 @@
       "playbill_url": "https://playbill.com/production/the-outsiders-broadway-bernard-b-jacobs-theatre-2024",
       "todaytix_url": "https://www.todaytix.com/nyc/shows/34093",
       "price": {
-        "cheapest": 147,
+        "cheapest": 135,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-08-04"
+        "as_of": "2026-08-05"
       },
       "review": {
         "score": 92,
-        "review_count": 4676,
+        "review_count": 4699,
         "adjectives": [
-          "Great acting",
-          "Great staging",
-          "Absorbing",
           "Entertaining",
-          "Great singing"
+          "Great singing",
+          "Absorbing",
+          "Great acting",
+          "Great staging"
         ]
       },
       "lat": 40.7586082,
@@ -1355,28 +1355,28 @@
         "cheapest": 77,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-08-04"
+        "as_of": "2026-08-05"
       },
       "review": {
         "score": 91,
-        "review_count": 5156,
+        "review_count": 5183,
         "adjectives": [
-          "Delightful",
-          "Funny",
-          "Clever",
           "Entertaining",
-          "Hilarious"
+          "Clever",
+          "Delightful",
+          "Hilarious",
+          "Funny"
         ]
       },
       "lat": 40.7578694,
       "lng": -73.9845006,
       "tags": [
-        "history",
-        "comedy",
-        "transfer",
         "award-winners",
+        "transfer",
         "stars-on-stage",
-        "must-see"
+        "history",
+        "must-see",
+        "comedy"
       ]
     },
     {
@@ -1395,27 +1395,27 @@
         "cheapest": 62,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-08-04"
+        "as_of": "2026-08-05"
       },
       "review": {
-        "score": 89,
-        "review_count": 5335,
+        "score": 88,
+        "review_count": 5360,
         "adjectives": [
-          "Delightful",
           "Entertaining",
-          "Enchanting",
           "Great acting",
+          "Enchanting",
+          "Delightful",
           "Great singing"
         ]
       },
       "lat": 40.7633982,
       "lng": -73.983355,
       "tags": [
-        "romance",
         "drama",
         "award-winners",
         "stars-on-stage",
-        "must-see"
+        "must-see",
+        "romance"
       ]
     },
     {
@@ -1431,27 +1431,27 @@
       "playbill_url": "https://playbill.com/production/cats-the-jellicle-ball-broadway-broadhurst-theatre-2026",
       "todaytix_url": "https://www.todaytix.com/nyc/shows/39754",
       "price": {
-        "cheapest": 279,
+        "cheapest": 447,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-08-04"
+        "as_of": "2026-08-05"
       },
       "review": {
         "score": 91,
-        "review_count": 3343,
+        "review_count": 3380,
         "adjectives": [
-          "Delightful",
           "Great staging",
-          "Great acting",
           "Clever",
-          "Entertaining"
+          "Entertaining",
+          "Delightful",
+          "Great acting"
         ]
       },
       "lat": 40.7582686,
       "lng": -73.9876171,
       "tags": [
-        "stars-on-stage",
-        "revival"
+        "revival",
+        "stars-on-stage"
       ]
     },
     {
@@ -1470,26 +1470,26 @@
         "cheapest": 67,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-08-04"
+        "as_of": "2026-08-05"
       },
       "review": {
         "score": 94,
-        "review_count": 5574,
+        "review_count": 5596,
         "adjectives": [
-          "Funny",
-          "Delightful",
           "Great acting",
-          "Absorbing",
-          "Moving"
+          "Delightful",
+          "Funny",
+          "Moving",
+          "Absorbing"
         ]
       },
       "lat": 40.756644,
       "lng": -73.9838007,
       "tags": [
-        "comedy",
-        "contemporary",
         "award-winners",
-        "stars-on-stage"
+        "stars-on-stage",
+        "contemporary",
+        "comedy"
       ]
     },
     {
@@ -1509,25 +1509,25 @@
         "cheapest": 144,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-08-04"
+        "as_of": "2026-08-05"
       },
       "review": {
         "score": 95,
-        "review_count": 4821,
+        "review_count": 4843,
         "adjectives": [
           "Great singing",
-          "Entertaining",
-          "Must see",
           "Relevant",
+          "Must see",
+          "Entertaining",
           "Great acting"
         ]
       },
       "tags": [
-        "history",
         "award-winners",
+        "revival",
         "stars-on-stage",
-        "must-see",
-        "revival"
+        "history",
+        "must-see"
       ]
     },
     {
@@ -1545,24 +1545,24 @@
         "cheapest": 65,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-08-04"
+        "as_of": "2026-08-05"
       },
       "review": {
         "score": 86,
         "review_count": 213,
         "adjectives": [
           "Entertaining",
-          "Delightful",
-          "Great acting",
+          "Great singing",
           "Enchanting",
-          "Great singing"
+          "Delightful",
+          "Great acting"
         ]
       },
       "lat": 40.6671417,
       "lng": -73.9905171,
       "tags": [
-        "family-kid-friendly",
-        "classic"
+        "classic",
+        "family-kid-friendly"
       ]
     },
     {
@@ -1582,26 +1582,26 @@
         "cheapest": 62,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-08-04"
+        "as_of": "2026-08-05"
       },
       "review": {
         "score": 92,
-        "review_count": 3207,
+        "review_count": 3229,
         "adjectives": [
-          "Exciting",
-          "Absorbing",
           "Entertaining",
+          "Great acting",
+          "Absorbing",
           "Clever",
-          "Great acting"
+          "Exciting"
         ]
       },
       "lat": 40.7589043,
       "lng": -73.9861848,
       "tags": [
-        "film-tv",
-        "sci-fi-fantasy",
         "drama",
-        "award-winners"
+        "award-winners",
+        "film-tv",
+        "sci-fi-fantasy"
       ]
     },
     {
@@ -1620,26 +1620,26 @@
         "cheapest": 63,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-08-04"
+        "as_of": "2026-08-05"
       },
       "review": {
         "score": 90,
-        "review_count": 3375,
+        "review_count": 3391,
         "adjectives": [
-          "Entertaining",
-          "Clever",
           "Funny",
+          "Entertaining",
           "Delightful",
-          "Great acting"
+          "Great acting",
+          "Clever"
         ]
       },
       "lat": 40.7587046,
       "lng": -73.9879846,
       "tags": [
+        "award-winners",
         "history",
         "comedy",
-        "family-kid-friendly",
-        "award-winners"
+        "family-kid-friendly"
       ]
     },
     {
@@ -1655,27 +1655,27 @@
       "playbill_url": "https://playbill.com/production/just-in-time-broadway-circle-in-the-square-theatre-2025",
       "todaytix_url": "https://www.todaytix.com/nyc/shows/42905",
       "price": {
-        "cheapest": 77,
+        "cheapest": 182,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-08-04"
+        "as_of": "2026-08-05"
       },
       "review": {
         "score": 94,
-        "review_count": 2104,
+        "review_count": 2127,
         "adjectives": [
-          "Entertaining",
           "Charming",
+          "Delightful",
           "Great singing",
           "Great acting",
-          "Delightful"
+          "Entertaining"
         ]
       },
       "lat": 40.7622484,
       "lng": -73.9853553,
       "tags": [
-        "jukebox",
         "stars-on-stage",
+        "jukebox",
         "rush-available"
       ]
     },
@@ -1695,17 +1695,17 @@
         "cheapest": 58,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-08-04"
+        "as_of": "2026-08-05"
       },
       "review": {
         "score": 91,
-        "review_count": 4524,
+        "review_count": 4554,
         "adjectives": [
           "Great staging",
           "Great singing",
+          "Great acting",
           "Must see",
-          "Entertaining",
-          "Great acting"
+          "Entertaining"
         ]
       },
       "lat": 40.7589003,
@@ -1727,30 +1727,30 @@
       "playbill_url": "https://playbill.com/production/the-rocky-horror-show-broadway-studio-54-2026",
       "todaytix_url": "https://www.todaytix.com/nyc/shows/43905",
       "price": {
-        "cheapest": 79,
+        "cheapest": 82,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-08-04"
+        "as_of": "2026-08-05"
       },
       "review": {
         "score": 91,
-        "review_count": 2812,
+        "review_count": 2843,
         "adjectives": [
-          "Entertaining",
-          "Delightful",
-          "Great acting",
           "Great singing",
-          "Funny"
+          "Delightful",
+          "Entertaining",
+          "Funny",
+          "Great acting"
         ]
       },
       "lat": 40.7643461,
       "lng": -73.9837786,
       "tags": [
-        "sci-fi-fantasy",
-        "comedy",
         "horror",
+        "revival",
         "stars-on-stage",
-        "revival"
+        "sci-fi-fantasy",
+        "comedy"
       ]
     },
     {
@@ -1767,23 +1767,23 @@
         "cheapest": 63,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-08-04"
+        "as_of": "2026-08-05"
       },
       "review": {
         "score": 86,
-        "review_count": 1701,
+        "review_count": 1706,
         "adjectives": [
-          "Hilarious",
-          "Funny",
           "Clever",
+          "Funny",
           "Delightful",
-          "Entertaining"
+          "Entertaining",
+          "Hilarious"
         ]
       },
       "tags": [
-        "comedy",
+        "satire",
         "romance",
-        "satire"
+        "comedy"
       ]
     },
     {
@@ -1801,7 +1801,7 @@
         "cheapest": 53,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-08-04"
+        "as_of": "2026-08-05"
       },
       "lat": 40.7591035,
       "lng": -73.9830898,
@@ -1825,15 +1825,15 @@
         "cheapest": 72,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-08-04"
+        "as_of": "2026-08-05"
       },
       "lat": 40.7571557,
       "lng": -73.9881192,
       "tags": [
         "history",
-        "comedy",
         "satire",
-        "classic"
+        "classic",
+        "comedy"
       ]
     },
     {
@@ -1851,26 +1851,26 @@
         "cheapest": 195,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-08-04"
+        "as_of": "2026-08-05"
       },
       "review": {
         "score": 95,
-        "review_count": 805,
+        "review_count": 811,
         "adjectives": [
           "Great staging",
-          "Entertaining",
-          "Enchanting",
           "Clever",
-          "Must see"
+          "Entertaining",
+          "Must see",
+          "Enchanting"
         ]
       },
       "lat": 40.7656726,
       "lng": -73.9812564,
       "tags": [
-        "adventure",
-        "romance",
         "drama",
+        "adventure",
         "immersive",
+        "romance",
         "rush-available"
       ]
     },
@@ -1890,17 +1890,17 @@
         "cheapest": 107,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-08-04"
+        "as_of": "2026-08-05"
       },
       "review": {
         "score": 91,
-        "review_count": 3149,
+        "review_count": 3170,
         "adjectives": [
-          "Entertaining",
-          "Funny",
           "Great singing",
-          "Delightful",
-          "Great acting"
+          "Great acting",
+          "Funny",
+          "Entertaining",
+          "Delightful"
         ]
       },
       "lat": 40.7603178,
@@ -1922,7 +1922,7 @@
         "cheapest": 48,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-08-04"
+        "as_of": "2026-08-05"
       },
       "tags": [
         "family-kid-friendly"
@@ -1943,7 +1943,7 @@
         "cheapest": 48,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-08-04"
+        "as_of": "2026-08-05"
       },
       "tags": [
         "family-kid-friendly"
@@ -1963,25 +1963,25 @@
       "playbill_url": "https://playbill.com/production/birthright-off-broadway-the-robert-w-wilson-mcc-theater-space-2026",
       "todaytix_url": "https://www.todaytix.com/nyc/shows/45341",
       "price": {
-        "cheapest": 209,
+        "cheapest": 260,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-08-04"
+        "as_of": "2026-08-05"
       },
       "review": {
         "score": 91,
-        "review_count": 216,
+        "review_count": 218,
         "adjectives": [
+          "Great acting",
           "Funny",
           "Thought provoking",
           "Entertaining",
-          "Clever",
-          "Great acting"
+          "Clever"
         ]
       },
       "tags": [
-        "contemporary",
         "drama",
+        "contemporary",
         "rush-available"
       ]
     },
@@ -2002,17 +2002,17 @@
         "cheapest": 61,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-08-04"
+        "as_of": "2026-08-05"
       },
       "review": {
         "score": 90,
-        "review_count": 2465,
+        "review_count": 2485,
         "adjectives": [
           "Funny",
           "Great staging",
-          "Delightful",
           "Great singing",
-          "Entertaining"
+          "Entertaining",
+          "Delightful"
         ]
       },
       "lat": 40.7554837,
@@ -2039,16 +2039,16 @@
         "cheapest": 59,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-08-04"
+        "as_of": "2026-08-05"
       },
       "review": {
         "score": 94,
-        "review_count": 4478,
+        "review_count": 4511,
         "adjectives": [
-          "Entertaining",
-          "Funny",
           "Clever",
+          "Funny",
           "Great acting",
+          "Entertaining",
           "Delightful"
         ]
       },
@@ -2074,7 +2074,7 @@
         "cheapest": 57,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-08-04"
+        "as_of": "2026-08-05"
       },
       "lat": 40.706153,
       "lng": -73.9235511,
@@ -2100,12 +2100,12 @@
         "cheapest": 69,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-08-04"
+        "as_of": "2026-08-05"
       },
       "tags": [
-        "comedy",
         "contemporary",
-        "romance"
+        "romance",
+        "comedy"
       ]
     },
     {
@@ -2125,7 +2125,7 @@
         "cheapest": 67,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-08-04"
+        "as_of": "2026-08-05"
       },
       "tags": [
         "jukebox"
@@ -2148,11 +2148,11 @@
         "cheapest": 33,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-08-04"
+        "as_of": "2026-08-05"
       },
       "review": {
         "score": 82,
-        "review_count": 148,
+        "review_count": 152,
         "adjectives": []
       },
       "tags": [
@@ -2174,7 +2174,7 @@
         "cheapest": 62,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-08-04"
+        "as_of": "2026-08-05"
       },
       "lat": 40.7581448,
       "lng": -73.9872564,
@@ -2198,11 +2198,11 @@
         "cheapest": 119,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-08-04"
+        "as_of": "2026-08-05"
       },
       "tags": [
-        "stars-on-stage",
-        "revival"
+        "revival",
+        "stars-on-stage"
       ]
     },
     {
@@ -2221,7 +2221,7 @@
         "cheapest": 82,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-08-04"
+        "as_of": "2026-08-05"
       },
       "lat": 40.7603807,
       "lng": -73.9867276,
@@ -2244,24 +2244,24 @@
         "cheapest": 107,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-08-04"
+        "as_of": "2026-08-05"
       },
       "review": {
         "score": 94,
-        "review_count": 394,
+        "review_count": 406,
         "adjectives": [
-          "Funny",
           "Entertaining",
-          "Great acting",
           "Delightful",
-          "Great singing"
+          "Funny",
+          "Great singing",
+          "Great acting"
         ]
       },
       "lat": 40.7554936,
       "lng": -73.9812059,
       "tags": [
-        "comedy",
         "satire",
+        "comedy",
         "rush-available"
       ]
     },
@@ -2282,17 +2282,17 @@
         "cheapest": 45,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-08-04"
+        "as_of": "2026-08-05"
       },
       "review": {
         "score": 89,
         "review_count": 204,
         "adjectives": [
-          "Absorbing",
-          "Delightful",
           "Great singing",
-          "Great music",
-          "Entertaining"
+          "Absorbing",
+          "Entertaining",
+          "Delightful",
+          "Great music"
         ]
       },
       "lat": 40.7567679,
@@ -2316,15 +2316,15 @@
         "cheapest": 38,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-08-04"
+        "as_of": "2026-08-05"
       },
       "tags": [
+        "drama",
         "adventure",
-        "history",
-        "comedy",
         "contemporary",
+        "history",
         "crime-thriller-mystery",
-        "drama"
+        "comedy"
       ]
     },
     {
@@ -2342,7 +2342,7 @@
         "cheapest": 82,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-08-04"
+        "as_of": "2026-08-05"
       },
       "lat": 40.7588721,
       "lng": -73.9871508,
@@ -2364,16 +2364,16 @@
         "cheapest": 73,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-08-04"
+        "as_of": "2026-08-05"
       },
       "lat": 40.7023397,
       "lng": -73.9874667,
       "tags": [
+        "drama",
         "adventure",
-        "comedy",
         "contemporary",
         "romance",
-        "drama"
+        "comedy"
       ]
     },
     {
@@ -2392,7 +2392,7 @@
         "cheapest": 97,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-08-04"
+        "as_of": "2026-08-05"
       },
       "lat": 40.7591227,
       "lng": -73.9871216,
@@ -2417,17 +2417,17 @@
         "cheapest": 55,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-08-04"
+        "as_of": "2026-08-05"
       },
       "review": {
         "score": 84,
-        "review_count": 291,
+        "review_count": 296,
         "adjectives": [
-          "Entertaining",
-          "Funny",
           "Relevant",
+          "Entertaining",
           "Wistful",
-          "Great acting"
+          "Great acting",
+          "Funny"
         ]
       },
       "tags": [
@@ -2443,17 +2443,18 @@
       "genre": "musical",
       "opening_date": "2026-10-08",
       "closing_date": "2026-12-06",
+      "description": "*The Heart* is an aching and thrilling new musical about how one tragic loss leads to one hopeful life, each connected by a donated heart.",
       "image_url": "https://images.ctfassets.net/6pezt69ih962/3TTg5e2jsM4yZ3XdnfTWR6/065179c82bd095be103ed32738dfa244/480x720_Poster_Key_Art.jpg",
       "todaytix_url": "https://www.todaytix.com/nyc/shows/46809",
       "price": {
         "cheapest": 48,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-08-04"
+        "as_of": "2026-08-05"
       },
       "tags": [
-        "contemporary",
-        "drama"
+        "drama",
+        "contemporary"
       ]
     },
     {
@@ -2471,52 +2472,12 @@
         "cheapest": 48,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-08-04"
+        "as_of": "2026-08-05"
       },
       "lat": 40.7111665,
       "lng": -74.0072679,
       "tags": [
         "family-kid-friendly"
-      ]
-    },
-    {
-      "id": "louis-cato-the-harlem-renaissance-the-amph-at-little-island",
-      "title": "Louis Cato: The Harlem Renaissance",
-      "venue": "The Amph at Little Island",
-      "category": "off-broadway",
-      "status": "upcoming",
-      "genre": "events",
-      "opening_date": "2026-08-19",
-      "closing_date": "2026-08-23",
-      "image_url": "https://images.ctfassets.net/6pezt69ih962/3Dy7ruMqIA4QiOpEBBqPks/25dc78af2989ff1ebc63790aea556561/LI26_LouisCato_480x720.jpg",
-      "todaytix_url": "https://www.todaytix.com/nyc/shows/46919",
-      "price": {
-        "cheapest": 15,
-        "currency": "USD",
-        "source": "todaytix",
-        "as_of": "2026-08-04"
-      },
-      "tags": []
-    },
-    {
-      "id": "anthony-roth-costanzo-minimalism-the-amph-at-little-island",
-      "title": "Anthony Roth Costanzo: Minimalism",
-      "venue": "The Amph at Little Island",
-      "category": "off-broadway",
-      "status": "upcoming",
-      "genre": "events",
-      "opening_date": "2026-08-05",
-      "closing_date": "2026-08-09",
-      "image_url": "https://images.ctfassets.net/6pezt69ih962/yziXJQIAlV9C3lH9EgKAP/7b5e3c71232f004c6dd20580b565de5d/LI26_AnthonyRothCostanzo_480x720.jpg",
-      "todaytix_url": "https://www.todaytix.com/nyc/shows/46923",
-      "price": {
-        "cheapest": 25,
-        "currency": "USD",
-        "source": "todaytix",
-        "as_of": "2026-08-04"
-      },
-      "tags": [
-        "rush-available"
       ]
     },
     {
@@ -2534,7 +2495,7 @@
         "cheapest": 15,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-08-04"
+        "as_of": "2026-08-05"
       },
       "tags": []
     },
@@ -2553,7 +2514,7 @@
         "cheapest": 56,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-08-04"
+        "as_of": "2026-08-05"
       },
       "lat": 40.763373,
       "lng": -73.9841934,
@@ -2575,7 +2536,7 @@
         "cheapest": 27,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-08-04"
+        "as_of": "2026-08-05"
       },
       "lat": 40.7562129,
       "lng": -73.9865339,
@@ -2598,15 +2559,15 @@
         "cheapest": 117,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-08-04"
+        "as_of": "2026-08-05"
       },
       "lat": 40.7312452,
       "lng": -74.0052802,
       "tags": [
-        "contemporary",
-        "romance",
+        "drama",
         "transfer",
-        "drama"
+        "contemporary",
+        "romance"
       ]
     },
     {
@@ -2625,7 +2586,7 @@
         "cheapest": 97,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-08-04"
+        "as_of": "2026-08-05"
       },
       "tags": [
         "drama",
@@ -2648,7 +2609,7 @@
         "cheapest": 33,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-08-04"
+        "as_of": "2026-08-05"
       },
       "lat": 40.7672334,
       "lng": -73.9655036,
@@ -2671,18 +2632,18 @@
         "cheapest": 69,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-08-04"
+        "as_of": "2026-08-05"
       },
       "review": {
         "score": 89,
-        "review_count": 143,
+        "review_count": 146,
         "adjectives": []
       },
       "tags": [
-        "contemporary",
-        "crime-thriller-mystery",
         "drama",
         "stars-on-stage",
+        "contemporary",
+        "crime-thriller-mystery",
         "rush-available"
       ]
     },
@@ -2701,7 +2662,7 @@
         "cheapest": 43,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-08-04"
+        "as_of": "2026-08-05"
       },
       "tags": []
     },
@@ -2720,12 +2681,12 @@
         "cheapest": 58,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-08-04"
+        "as_of": "2026-08-05"
       },
       "tags": [
+        "biography",
         "history",
-        "romance",
-        "biography"
+        "romance"
       ]
     },
     {
@@ -2743,13 +2704,13 @@
         "cheapest": 58,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-08-04"
+        "as_of": "2026-08-05"
       },
       "tags": [
-        "history",
         "biography",
-        "crime-thriller-mystery",
-        "drama"
+        "drama",
+        "history",
+        "crime-thriller-mystery"
       ]
     },
     {
@@ -2768,15 +2729,15 @@
         "cheapest": 92,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-08-04"
+        "as_of": "2026-08-05"
       },
       "lat": 40.7578513,
       "lng": -73.9878417,
       "tags": [
-        "romance",
         "award-winners",
+        "revival",
         "classic",
-        "revival"
+        "romance"
       ]
     },
     {
@@ -2794,7 +2755,7 @@
         "cheapest": 68,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-08-04"
+        "as_of": "2026-08-05"
       },
       "lat": 40.7579801,
       "lng": -73.9855452,
@@ -2819,7 +2780,7 @@
         "cheapest": 57,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-08-04"
+        "as_of": "2026-08-05"
       },
       "lat": 40.7583595,
       "lng": -74.0021206,
@@ -2841,13 +2802,13 @@
         "cheapest": 55,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-08-04"
+        "as_of": "2026-08-05"
       },
       "lat": 40.7333618,
       "lng": -74.0057425,
       "tags": [
-        "crime-thriller-mystery",
-        "transfer"
+        "transfer",
+        "crime-thriller-mystery"
       ]
     },
     {
@@ -2866,12 +2827,12 @@
         "cheapest": 53,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-08-04"
+        "as_of": "2026-08-05"
       },
       "tags": [
-        "comedy",
-        "contemporary",
         "drama",
+        "contemporary",
+        "comedy",
         "rush-available"
       ]
     },
@@ -2890,13 +2851,13 @@
         "cheapest": 53,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-08-04"
+        "as_of": "2026-08-05"
       },
       "lat": 40.7036434,
       "lng": -73.992813,
       "tags": [
-        "history",
-        "drama"
+        "drama",
+        "history"
       ]
     },
     {
@@ -2914,13 +2875,13 @@
         "cheapest": 53,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-08-04"
+        "as_of": "2026-08-05"
       },
       "lat": 40.7036434,
       "lng": -73.992813,
       "tags": [
-        "history",
-        "drama"
+        "drama",
+        "history"
       ]
     },
     {
@@ -2938,14 +2899,14 @@
         "cheapest": 53,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-08-04"
+        "as_of": "2026-08-05"
       },
       "lat": 40.7036434,
       "lng": -73.992813,
       "tags": [
-        "comedy",
         "drama",
-        "revival"
+        "revival",
+        "comedy"
       ]
     },
     {
@@ -2964,7 +2925,7 @@
         "cheapest": 78,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-08-04"
+        "as_of": "2026-08-05"
       },
       "lat": 40.7633055,
       "lng": -73.9704554,
@@ -2988,7 +2949,7 @@
         "cheapest": 38,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-08-04"
+        "as_of": "2026-08-05"
       },
       "tags": [
         "comedy"
@@ -3009,11 +2970,11 @@
         "cheapest": 62,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-08-04"
+        "as_of": "2026-08-05"
       },
       "tags": [
-        "comedy",
-        "satire"
+        "satire",
+        "comedy"
       ]
     },
     {
@@ -3032,7 +2993,7 @@
         "cheapest": 57,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-08-04"
+        "as_of": "2026-08-05"
       },
       "tags": [
         "comedy"
@@ -3054,7 +3015,7 @@
         "cheapest": 40,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-08-04"
+        "as_of": "2026-08-05"
       },
       "lat": 40.7405316,
       "lng": -73.9847625,
@@ -3077,7 +3038,7 @@
         "cheapest": 57,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-08-04"
+        "as_of": "2026-08-05"
       },
       "tags": []
     },
@@ -3086,7 +3047,7 @@
       "title": "it’s like an amazing time to be alive right now (!) or, The Crypto Play",
       "venue": "Greenwich House Theater ",
       "category": "off-broadway",
-      "status": "upcoming",
+      "status": "running",
       "genre": "play",
       "opening_date": "2026-08-05",
       "closing_date": "2026-08-05",
@@ -3096,7 +3057,7 @@
         "cheapest": 40,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-08-04"
+        "as_of": "2026-08-05"
       },
       "tags": []
     },
@@ -3115,7 +3076,7 @@
         "cheapest": 40,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-08-04"
+        "as_of": "2026-08-05"
       },
       "tags": []
     },
@@ -3134,7 +3095,7 @@
         "cheapest": 40,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-08-04"
+        "as_of": "2026-08-05"
       },
       "tags": []
     },
@@ -3153,7 +3114,7 @@
         "cheapest": 68,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-08-04"
+        "as_of": "2026-08-05"
       },
       "tags": [
         "rush-available"
@@ -3174,31 +3135,11 @@
         "cheapest": 68,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-08-04"
+        "as_of": "2026-08-05"
       },
       "tags": [
         "rush-available"
       ]
-    },
-    {
-      "id": "rosie-the-musical-greenwich-house-theater",
-      "title": "Rosie: The Musical",
-      "venue": "Greenwich House Theater ",
-      "category": "broadway",
-      "status": "running",
-      "genre": "musical",
-      "opening_date": "2026-08-04",
-      "closing_date": "2026-08-04",
-      "image_url": "https://images.ctfassets.net/6pezt69ih962/2o0PXyePnIJ9WPJnsiUyEg/59a4a43c4f0e28a520f820e818022fb3/MF26_POSTER_Rosie.jpg",
-      "playbill_url": "https://playbill.com/production/six-the-musicallena-horne-theatre-2021-2022",
-      "todaytix_url": "https://www.todaytix.com/nyc/shows/47374",
-      "price": {
-        "cheapest": 53,
-        "currency": "USD",
-        "source": "todaytix",
-        "as_of": "2026-08-04"
-      },
-      "tags": []
     },
     {
       "id": "matchbook-spark-vol-5-next-year-in-connecticut-x-song-society-greenwich-house-theater",
@@ -3215,7 +3156,7 @@
         "cheapest": 40,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-08-04"
+        "as_of": "2026-08-05"
       },
       "tags": []
     },
@@ -3234,7 +3175,7 @@
         "cheapest": 63,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-08-04"
+        "as_of": "2026-08-05"
       },
       "tags": []
     },
@@ -3253,7 +3194,7 @@
         "cheapest": 40,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-08-04"
+        "as_of": "2026-08-05"
       },
       "tags": []
     },
@@ -3272,7 +3213,7 @@
         "cheapest": 40,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-08-04"
+        "as_of": "2026-08-05"
       },
       "tags": []
     },
@@ -3291,7 +3232,7 @@
         "cheapest": 40,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-08-04"
+        "as_of": "2026-08-05"
       },
       "tags": []
     },
@@ -3310,7 +3251,7 @@
         "cheapest": 40,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-08-04"
+        "as_of": "2026-08-05"
       },
       "tags": []
     },
@@ -3329,7 +3270,7 @@
         "cheapest": 67,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-08-04"
+        "as_of": "2026-08-05"
       },
       "tags": []
     },
@@ -3349,7 +3290,7 @@
         "cheapest": 43,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-08-04"
+        "as_of": "2026-08-05"
       },
       "tags": []
     },
@@ -3368,7 +3309,7 @@
         "cheapest": 62,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-08-04"
+        "as_of": "2026-08-05"
       },
       "tags": []
     },
@@ -3387,7 +3328,7 @@
         "cheapest": 69,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-08-04"
+        "as_of": "2026-08-05"
       },
       "tags": []
     },
@@ -3406,7 +3347,7 @@
         "cheapest": 62,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-08-04"
+        "as_of": "2026-08-05"
       },
       "tags": []
     },
@@ -3425,7 +3366,7 @@
         "cheapest": 48,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-08-04"
+        "as_of": "2026-08-05"
       },
       "tags": [
         "contemporary",
@@ -3448,12 +3389,12 @@
         "cheapest": 48,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-08-04"
+        "as_of": "2026-08-05"
       },
       "tags": [
-        "comedy",
-        "contemporary",
         "drama",
+        "contemporary",
+        "comedy",
         "rush-available"
       ]
     },
@@ -3473,7 +3414,7 @@
         "cheapest": 73,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-08-04"
+        "as_of": "2026-08-05"
       },
       "tags": []
     }
