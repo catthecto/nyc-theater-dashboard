@@ -7,6 +7,7 @@ from datetime import date, datetime, timezone
 
 from scraper.schema import Category, DataFile, Metadata, Price, Review, Show, Status
 from scraper.sources.playbill import PlaybillShow
+from scraper.sources.theatermania import TheaterManiaShow
 from scraper.sources.todaytix import TodayTixShow
 from scraper.utils import fuzzy_match_title, make_show_id
 
@@ -38,6 +39,7 @@ EXCLUDED_GENRES = {
 def merge_sources(
     todaytix_shows: list[TodayTixShow],
     playbill_shows: list[PlaybillShow],
+    theatermania_shows: list[TheaterManiaShow] | None = None,
     venue_coords: dict[str, tuple[float, float]] | None = None,
 ) -> DataFile:
     venue_coords = venue_coords or {}
@@ -165,13 +167,56 @@ def merge_sources(
             )
         )
 
+    for tm in (theatermania_shows or []):
+        already_matched = any(fuzzy_match_title(tm.title, s.title) for s in shows)
+        if already_matched:
+            continue
+
+        test_id = make_show_id(tm.title, tm.venue)
+        if test_id in seen_ids:
+            continue
+        seen_ids.add(test_id)
+
+        cat_map = {
+            "broadway": Category.BROADWAY,
+            "off-broadway": Category.OFF_BROADWAY,
+            "off-off-broadway": Category.OFF_OFF_BROADWAY,
+        }
+        category = cat_map.get(tm.category, Category.OFF_BROADWAY)
+        status = _determine_status(tm.opening_date)
+
+        coords = venue_coords.get(tm.venue)
+        lat, lng = (coords[0], coords[1]) if coords else (None, None)
+        shows.append(
+            Show(
+                id=test_id,
+                title=tm.title,
+                venue=tm.venue,
+                category=category,
+                status=status,
+                genre=tm.genre or None,
+                opening_date=tm.opening_date,
+                closing_date=tm.closing_date,
+                description=tm.description or None,
+                image_url=tm.image_url,
+                ticket_url=tm.ticket_url,
+                lat=lat,
+                lng=lng,
+            )
+        )
+    tm_added = len([s for s in shows if s.ticket_url and not s.todaytix_url and not s.price and not s.review])
+    if theatermania_shows:
+        logger.info(f"Added {tm_added} new shows from TheaterMania")
+
     before = len(shows)
-    shows = [s for s in shows if s.price or s.review]
-    logger.info(f"Dropped {before - len(shows)} shows with no price or reviews")
+    shows = [s for s in shows if s.price or s.review or s.ticket_url]
+    logger.info(f"Dropped {before - len(shows)} shows with no price, reviews, or ticket link")
 
     sources = ["todaytix"]
     if playbill_shows:
         sources.append("playbill")
+    if theatermania_shows:
+        sources.append("theatermania")
 
     logger.info(f"Merged {len(shows)} total shows")
 

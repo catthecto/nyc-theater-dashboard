@@ -7,7 +7,7 @@ import sys
 from pathlib import Path
 
 from scraper.merge import merge_sources
-from scraper.sources import geocode, playbill, todaytix
+from scraper.sources import geocode, playbill, theatermania, todaytix
 
 OUTPUT_PATH = Path(__file__).resolve().parent.parent / "docs" / "data" / "shows.json"
 
@@ -22,15 +22,20 @@ logger = logging.getLogger(__name__)
 async def run() -> None:
     logger.info("Starting data pipeline")
 
-    todaytix_shows, playbill_shows = await asyncio.gather(
+    todaytix_shows, playbill_shows, tm_shows = await asyncio.gather(
         todaytix.fetch_all_shows(),
         playbill.fetch_all_shows(),
+        theatermania.fetch_all_shows(),
     )
 
-    all_venues = [s.venue for s in todaytix_shows] + [s.venue for s in playbill_shows]
+    all_venues = (
+        [s.venue for s in todaytix_shows]
+        + [s.venue for s in playbill_shows]
+        + [s.venue for s in tm_shows]
+    )
     venue_coords = await geocode.geocode_venues(all_venues)
 
-    data_file = merge_sources(todaytix_shows, playbill_shows, venue_coords)
+    data_file = merge_sources(todaytix_shows, playbill_shows, tm_shows, venue_coords)
 
     assert data_file.metadata.show_count >= 20, (
         f"Only {data_file.metadata.show_count} shows found — something is wrong"

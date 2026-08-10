@@ -10,6 +10,7 @@ from pydantic import BaseModel, Field
 class Category(str, Enum):
     BROADWAY = "broadway"
     OFF_BROADWAY = "off-broadway"
+    OFF_OFF_BROADWAY = "off-off-broadway"
 
 
 class Status(str, Enum):
@@ -44,6 +45,7 @@ class Show(BaseModel):
     image_url: Optional[str] = None
     playbill_url: Optional[str] = None
     todaytix_url: Optional[str] = None
+    ticket_url: Optional[str] = None
     price: Optional[Price] = None
     review: Optional[Review] = None
     lat: Optional[float] = None

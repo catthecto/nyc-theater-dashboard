@@ -106,7 +106,8 @@
   function applyFilters() {
     return allShows.filter((show) => {
       if (filters.genre === "core" && !CORE_GENRES.has(show.genre)) return false;
-      if (filters.category !== "all" && show.category !== filters.category) return false;
+      if (filters.category === "off-broadway" && show.category !== "off-broadway" && show.category !== "off-off-broadway") return false;
+      else if (filters.category !== "all" && filters.category !== "off-broadway" && show.category !== filters.category) return false;
       if (filters.status === "closing-soon") {
         if (!show.closing_date) return false;
         const close = new Date(show.closing_date);
@@ -268,7 +269,7 @@
   function renderCard(show, index) {
     const badges = [];
 
-    const catLabel = show.category === "broadway" ? "Broadway" : "Off-Bway";
+    const catLabel = show.category === "broadway" ? "Broadway" : show.category === "off-off-broadway" ? "Off-Off-Bway" : "Off-Bway";
     const catClass = show.category === "broadway" ? "badge-broadway" : "badge-off-broadway";
     badges.push(`<span class="badge ${catClass}">${catLabel}</span>`);
 
@@ -327,7 +328,7 @@
     closeModal();
 
     const badges = [];
-    const catLabel = show.category === "broadway" ? "Broadway" : "Off-Broadway";
+    const catLabel = show.category === "broadway" ? "Broadway" : show.category === "off-off-broadway" ? "Off-Off-Broadway" : "Off-Broadway";
     const catClass = show.category === "broadway" ? "badge-broadway" : "badge-off-broadway";
     badges.push(`<span class="badge ${catClass}">${catLabel}</span>`);
     if (show.genre) badges.push(`<span class="badge badge-genre">${escapeHtml(show.genre)}</span>`);
@@ -369,8 +370,9 @@
       : `<p class="modal-desc modal-desc-none">No description available.</p>`;
 
     const links = [];
-    if (show.todaytix_url) {
-      links.push(`<a href="${escapeAttr(show.todaytix_url)}" target="_blank" rel="noopener" class="modal-btn modal-btn-primary">Buy Tickets</a>`);
+    const buyUrl = show.todaytix_url || show.ticket_url;
+    if (buyUrl) {
+      links.push(`<a href="${escapeAttr(buyUrl)}" target="_blank" rel="noopener" class="modal-btn modal-btn-primary">Buy Tickets</a>`);
     }
     if (show.playbill_url) {
       links.push(`<a href="${escapeAttr(show.playbill_url)}" target="_blank" rel="noopener" class="modal-btn modal-btn-secondary">View on Playbill</a>`);
