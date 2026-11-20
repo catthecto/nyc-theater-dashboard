@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "last_updated": "2026-11-19T19:05:03.900161Z",
-    "show_count": 217,
+    "last_updated": "2026-11-20T18:33:55.159438Z",
+    "show_count": 221,
     "sources": [
       "todaytix",
       "playbill",
@@ -25,29 +25,29 @@
         "cheapest": 89,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-11-19"
+        "as_of": "2026-11-20"
       },
       "review": {
         "score": 94,
-        "review_count": 27391,
+        "review_count": 27395,
         "adjectives": [
-          "Enchanting",
-          "Clever",
-          "Great singing",
           "Delightful",
-          "Entertaining"
+          "Clever",
+          "Entertaining",
+          "Enchanting",
+          "Great singing"
         ]
       },
       "lat": 40.7623619,
       "lng": -73.9852044,
       "tags": [
-        "drama",
-        "halloween",
+        "family-kid-friendly",
         "classic",
-        "film-tv",
         "must-see",
+        "film-tv",
+        "halloween",
         "award-winners",
-        "family-kid-friendly"
+        "drama"
       ]
     },
     {
@@ -66,27 +66,27 @@
         "cheapest": 73,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-11-19"
+        "as_of": "2026-11-20"
       },
       "review": {
         "score": 86,
-        "review_count": 9487,
+        "review_count": 9489,
         "adjectives": [
-          "Great singing",
-          "Delightful",
+          "Clever",
           "Funny",
           "Entertaining",
-          "Clever"
+          "Great singing",
+          "Delightful"
         ]
       },
       "lat": 40.7612355,
       "lng": -73.9849903,
       "tags": [
-        "drama",
-        "stars-on-stage",
         "classic",
         "revival",
-        "award-winners"
+        "stars-on-stage",
+        "award-winners",
+        "drama"
       ]
     },
     {
@@ -102,30 +102,30 @@
       "playbill_url": "https://playbill.com/production/the-lion-king-new-amsterdam-theatre-vault-0000008729",
       "todaytix_url": "https://www.todaytix.com/nyc/shows/42",
       "price": {
-        "cheapest": 100,
+        "cheapest": 112,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-11-19"
+        "as_of": "2026-11-20"
       },
       "review": {
         "score": 92,
-        "review_count": 15243,
+        "review_count": 15252,
         "adjectives": [
-          "Great staging",
           "Must see",
           "Delightful",
+          "Enchanting",
           "Entertaining",
-          "Enchanting"
+          "Great staging"
         ]
       },
       "lat": 40.758063,
       "lng": -73.9862053,
       "tags": [
+        "family-kid-friendly",
         "classic",
-        "film-tv",
         "must-see",
-        "award-winners",
-        "family-kid-friendly"
+        "film-tv",
+        "award-winners"
       ]
     },
     {
@@ -144,26 +144,26 @@
         "cheapest": 101,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-11-19"
+        "as_of": "2026-11-20"
       },
       "review": {
         "score": 88,
-        "review_count": 9169,
+        "review_count": 9170,
         "adjectives": [
           "Great staging",
-          "Entertaining",
-          "Funny",
           "Delightful",
+          "Funny",
+          "Entertaining",
           "Enchanting"
         ]
       },
       "lat": 40.756,
       "lng": -73.9880631,
       "tags": [
-        "film-tv",
-        "award-winners",
         "family-kid-friendly",
-        "adventure"
+        "adventure",
+        "film-tv",
+        "award-winners"
       ]
     },
     {
@@ -182,17 +182,17 @@
         "cheapest": 89,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-11-19"
+        "as_of": "2026-11-20"
       },
       "review": {
         "score": 91,
-        "review_count": 17556,
+        "review_count": 17566,
         "adjectives": [
           "Clever",
-          "Funny",
-          "Entertaining",
+          "Hilarious",
           "Raunchy",
-          "Hilarious"
+          "Funny",
+          "Entertaining"
         ]
       },
       "lat": 40.7611047,
@@ -200,8 +200,8 @@
       "tags": [
         "must-see",
         "satire",
-        "award-winners",
         "comedy",
+        "award-winners",
         "rush-available"
       ]
     },
@@ -221,28 +221,28 @@
         "cheapest": 112,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-11-19"
+        "as_of": "2026-11-20"
       },
       "review": {
         "score": 96,
-        "review_count": 16330,
+        "review_count": 16332,
         "adjectives": [
-          "Absorbing",
-          "Clever",
+          "Must see",
           "Ambitious",
+          "Absorbing",
           "Entertaining",
-          "Must see"
+          "Clever"
         ]
       },
       "lat": 40.7590309,
       "lng": -73.9867479,
       "tags": [
-        "drama",
+        "romance",
+        "family-kid-friendly",
         "must-see",
         "award-winners",
-        "family-kid-friendly",
-        "history",
-        "romance"
+        "drama",
+        "history"
       ]
     },
     {
@@ -261,7 +261,7 @@
         "cheapest": 97,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-11-19"
+        "as_of": "2026-11-20"
       },
       "tags": [
         "classic",
@@ -284,13 +284,13 @@
         "cheapest": 61,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-11-19"
+        "as_of": "2026-11-20"
       },
       "lat": 40.7160935,
       "lng": -74.0058928,
       "tags": [
-        "drama",
         "crime-thriller-mystery",
+        "drama",
         "rush-available"
       ]
     },
@@ -310,17 +310,17 @@
         "cheapest": 58,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-11-19"
+        "as_of": "2026-11-20"
       },
       "review": {
         "score": 86,
         "review_count": 495,
         "adjectives": [
-          "Entertaining",
-          "Clever",
-          "Funny",
           "Great acting",
-          "Delightful"
+          "Funny",
+          "Delightful",
+          "Entertaining",
+          "Clever"
         ]
       },
       "lat": 40.7160935,
@@ -344,7 +344,7 @@
         "cheapest": 190,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-11-19"
+        "as_of": "2026-11-20"
       },
       "lat": 40.7579803,
       "lng": -73.974769,
@@ -366,13 +366,13 @@
         "cheapest": 45,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-11-19"
+        "as_of": "2026-11-20"
       },
       "lat": 40.7728705,
       "lng": -73.9847923,
       "tags": [
-        "drama",
-        "classic"
+        "classic",
+        "drama"
       ]
     },
     {
@@ -386,18 +386,19 @@
       "closing_date": "2027-05-01",
       "description": "Gustavo Dudamel makes his Met debut leading Verdi’s towering Shakespearean masterpiece, in the first revival of Bartlett Sher’s production.",
       "image_url": "https://images.ctfassets.net/6pezt69ih962/7ARhptqxn10Ts8iag3dZiF/a5d8737eeca4e023549b8d80de66a922/TodayTix_Jun26_2627Assets_Otello_480x720.jpg",
+      "playbill_url": "https://playbill.com/production/othello-off-broadway-the-west-end-theatre-2026-2",
       "todaytix_url": "https://www.todaytix.com/nyc/shows/13427",
       "price": {
         "cheapest": 45,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-11-19"
+        "as_of": "2026-11-20"
       },
       "lat": 40.7728705,
       "lng": -73.9847923,
       "tags": [
-        "drama",
-        "classic"
+        "classic",
+        "drama"
       ]
     },
     {
@@ -416,15 +417,15 @@
         "cheapest": 45,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-11-19"
+        "as_of": "2026-11-20"
       },
       "lat": 40.7728705,
       "lng": -73.9847923,
       "tags": [
-        "drama",
+        "biography",
         "classic",
-        "history",
-        "biography"
+        "drama",
+        "history"
       ]
     },
     {
@@ -442,24 +443,24 @@
         "cheapest": 55,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-11-19"
+        "as_of": "2026-11-20"
       },
       "review": {
         "score": 94,
-        "review_count": 144,
+        "review_count": 145,
         "adjectives": [
-          "Great acting",
-          "Great singing",
           "Great staging",
+          "Entertaining",
+          "Great singing",
           "Absorbing",
-          "Entertaining"
+          "Great acting"
         ]
       },
       "lat": 40.7728705,
       "lng": -73.9847923,
       "tags": [
-        "drama",
-        "classic"
+        "classic",
+        "drama"
       ]
     },
     {
@@ -477,24 +478,24 @@
         "cheapest": 55,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-11-19"
+        "as_of": "2026-11-20"
       },
       "review": {
         "score": 91,
         "review_count": 230,
         "adjectives": [
           "Enchanting",
-          "Great singing",
+          "Absorbing",
           "Delightful",
           "Entertaining",
-          "Absorbing"
+          "Great singing"
         ]
       },
       "lat": 40.7728705,
       "lng": -73.9847923,
       "tags": [
-        "classic",
-        "romance"
+        "romance",
+        "classic"
       ]
     },
     {
@@ -512,27 +513,27 @@
         "cheapest": 45,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-11-19"
+        "as_of": "2026-11-20"
       },
       "review": {
         "score": 85,
         "review_count": 153,
         "adjectives": [
-          "Delightful",
-          "Great staging",
           "Entertaining",
+          "Delightful",
           "Great singing",
+          "Great staging",
           "Enchanting"
         ]
       },
       "lat": 40.7728705,
       "lng": -73.9847923,
       "tags": [
-        "holiday",
-        "classical",
         "family-kid-friendly",
+        "classical",
+        "adventure",
         "comedy",
-        "adventure"
+        "holiday"
       ]
     },
     {
@@ -547,16 +548,16 @@
       "image_url": "https://images.ctfassets.net/6pezt69ih962/1PXEoUnqyATYAQWRgdWX9N/92a5319366a920610416b23c7157b751/TodayTix_Jun26_2627Assets_Medea_480x720.jpg",
       "todaytix_url": "https://www.todaytix.com/nyc/shows/47787",
       "price": {
-        "cheapest": 45,
+        "cheapest": 55,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-11-19"
+        "as_of": "2026-11-20"
       },
       "lat": 40.7728705,
       "lng": -73.9847923,
       "tags": [
-        "drama",
-        "classic"
+        "classic",
+        "drama"
       ]
     },
     {
@@ -574,7 +575,7 @@
         "cheapest": 45,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-11-19"
+        "as_of": "2026-11-20"
       },
       "lat": 40.7728705,
       "lng": -73.9847923,
@@ -599,17 +600,17 @@
         "cheapest": 58,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-11-19"
+        "as_of": "2026-11-20"
       },
       "review": {
         "score": 82,
         "review_count": 791,
         "adjectives": [
-          "Delightful",
-          "Entertaining",
-          "Absorbing",
+          "Enchanting",
           "Clever",
-          "Enchanting"
+          "Entertaining",
+          "Delightful",
+          "Absorbing"
         ]
       },
       "lat": 40.7627588,
@@ -634,17 +635,17 @@
         "cheapest": 138,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-11-19"
+        "as_of": "2026-11-20"
       },
       "review": {
         "score": 87,
         "review_count": 4467,
         "adjectives": [
-          "Delightful",
-          "Entertaining",
-          "Funny",
           "Hilarious",
-          "Clever"
+          "Funny",
+          "Entertaining",
+          "Clever",
+          "Delightful"
         ]
       },
       "lat": 40.7627588,
@@ -668,24 +669,24 @@
         "cheapest": 58,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-11-19"
+        "as_of": "2026-11-20"
       },
       "review": {
         "score": 93,
-        "review_count": 660,
+        "review_count": 661,
         "adjectives": [
-          "Great acting",
-          "Entertaining",
           "Funny",
+          "Great acting",
           "Delightful",
-          "Clever"
+          "Clever",
+          "Entertaining"
         ]
       },
       "lat": 40.7627588,
       "lng": -73.9875605,
       "tags": [
-        "family-kid-friendly",
-        "immersive"
+        "immersive",
+        "family-kid-friendly"
       ]
     },
     {
@@ -705,7 +706,7 @@
         "cheapest": 49,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-11-19"
+        "as_of": "2026-11-20"
       },
       "lat": 40.7627588,
       "lng": -73.9875605,
@@ -729,29 +730,29 @@
         "cheapest": 71,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-11-19"
+        "as_of": "2026-11-20"
       },
       "review": {
         "score": 93,
-        "review_count": 12801,
+        "review_count": 12843,
         "adjectives": [
-          "Enchanting",
+          "Absorbing",
           "Great staging",
-          "Clever",
           "Entertaining",
-          "Absorbing"
+          "Clever",
+          "Enchanting"
         ]
       },
       "lat": 40.7567924,
       "lng": -73.9874615,
       "tags": [
-        "drama",
+        "family-kid-friendly",
+        "adventure",
+        "must-see",
         "halloween",
         "stars-on-stage",
-        "must-see",
         "award-winners",
-        "family-kid-friendly",
-        "adventure"
+        "drama"
       ]
     },
     {
@@ -771,7 +772,7 @@
         "cheapest": 104,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-11-19"
+        "as_of": "2026-11-20"
       },
       "tags": [
         "revival"
@@ -793,30 +794,30 @@
         "cheapest": 62,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-11-19"
+        "as_of": "2026-11-20"
       },
       "review": {
         "score": 92,
-        "review_count": 8036,
+        "review_count": 8044,
         "adjectives": [
-          "Entertaining",
-          "Great singing",
           "Great staging",
+          "Great singing",
           "Enchanting",
-          "Absorbing"
+          "Absorbing",
+          "Entertaining"
         ]
       },
       "lat": 40.760681,
       "lng": -73.9855847,
       "tags": [
-        "drama",
+        "romance",
+        "family-kid-friendly",
+        "sci-fi-fantasy",
+        "must-see",
         "halloween",
         "stars-on-stage",
-        "must-see",
         "award-winners",
-        "family-kid-friendly",
-        "romance",
-        "sci-fi-fantasy"
+        "drama"
       ]
     },
     {
@@ -824,34 +825,35 @@
       "title": "A Christmas Carol",
       "venue": "Perelman Performing Arts Center (PAC NYC)",
       "category": "off-broadway",
-      "status": "upcoming",
+      "status": "running",
       "genre": "play",
       "opening_date": "2026-11-20",
       "closing_date": "2027-01-03",
       "description": "This New York Times Critic’s Pick is bringing joy to Broadway through January 5 only.",
       "image_url": "https://images.ctfassets.net/6pezt69ih962/1ohxb8XbahDPdVzK1F1vLQ/36671e81169c79600e81b1d8771be5d0/PACNYC_ACC_TODAYTIX_480x720.jpg",
+      "playbill_url": "https://playbill.com/production/a-christmas-carol-off-broadway-perelman-performing-arts-center-2026",
       "todaytix_url": "https://www.todaytix.com/nyc/shows/18743",
       "price": {
         "cheapest": 56,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-11-19"
+        "as_of": "2026-11-20"
       },
       "review": {
         "score": 94,
         "review_count": 110,
         "adjectives": [
-          "Entertaining",
           "Must see",
-          "Enchanting",
+          "Entertaining",
           "Delightful",
-          "Great acting"
+          "Great acting",
+          "Enchanting"
         ]
       },
       "tags": [
+        "family-kid-friendly",
         "classic",
-        "holiday",
-        "family-kid-friendly"
+        "holiday"
       ]
     },
     {
@@ -869,23 +871,23 @@
         "cheapest": 80,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-11-19"
+        "as_of": "2026-11-20"
       },
       "review": {
         "score": 95,
         "review_count": 352,
         "adjectives": [
-          "Funny",
           "Delightful",
-          "Great acting",
+          "Funny",
           "Entertaining",
+          "Great acting",
           "Absorbing"
         ]
       },
       "tags": [
-        "drama",
+        "adventure",
         "comedy",
-        "adventure"
+        "drama"
       ]
     },
     {
@@ -902,7 +904,7 @@
         "cheapest": 80,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-11-19"
+        "as_of": "2026-11-20"
       },
       "review": {
         "score": 84,
@@ -933,7 +935,7 @@
         "cheapest": 80,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-11-19"
+        "as_of": "2026-11-20"
       },
       "review": {
         "score": 98,
@@ -945,9 +947,9 @@
         ]
       },
       "tags": [
-        "drama",
+        "must-see",
         "revival",
-        "must-see"
+        "drama"
       ]
     },
     {
@@ -965,7 +967,7 @@
         "cheapest": 80,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-11-19"
+        "as_of": "2026-11-20"
       },
       "review": {
         "score": 95,
@@ -997,7 +999,7 @@
         "cheapest": 72,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-11-19"
+        "as_of": "2026-11-20"
       },
       "lat": 40.7616856,
       "lng": -73.9835045,
@@ -1021,11 +1023,11 @@
         "cheapest": 92,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-11-19"
+        "as_of": "2026-11-20"
       },
       "review": {
         "score": 90,
-        "review_count": 316,
+        "review_count": 351,
         "adjectives": []
       },
       "lat": 40.7616856,
@@ -1050,17 +1052,17 @@
         "cheapest": 72,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-11-19"
+        "as_of": "2026-11-20"
       },
       "review": {
         "score": 89,
-        "review_count": 5286,
+        "review_count": 5289,
         "adjectives": [
-          "Great singing",
-          "Funny",
           "Clever",
-          "Delightful",
-          "Entertaining"
+          "Funny",
+          "Entertaining",
+          "Great singing",
+          "Delightful"
         ]
       },
       "lat": 40.7599753,
@@ -1087,28 +1089,28 @@
         "cheapest": 67,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-11-19"
+        "as_of": "2026-11-20"
       },
       "review": {
         "score": 93,
-        "review_count": 4849,
+        "review_count": 4857,
         "adjectives": [
           "Great acting",
-          "Great singing",
-          "Delightful",
           "Entertaining",
+          "Delightful",
+          "Great singing",
           "Great staging"
         ]
       },
       "lat": 40.7630257,
       "lng": -73.9845198,
       "tags": [
-        "drama",
+        "biography",
+        "family-kid-friendly",
         "must-see",
         "jukebox",
         "award-winners",
-        "family-kid-friendly",
-        "biography"
+        "drama"
       ]
     },
     {
@@ -1127,7 +1129,7 @@
         "cheapest": 240,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-11-19"
+        "as_of": "2026-11-20"
       },
       "tags": []
     },
@@ -1147,28 +1149,28 @@
         "cheapest": 112,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-11-19"
+        "as_of": "2026-11-20"
       },
       "review": {
         "score": 93,
-        "review_count": 3676,
+        "review_count": 3681,
         "adjectives": [
-          "Great singing",
-          "Funny",
           "Clever",
           "Entertaining",
-          "Delightful"
+          "Delightful",
+          "Funny",
+          "Great singing"
         ]
       },
       "lat": 40.759448,
       "lng": -73.9926202,
       "tags": [
-        "stars-on-stage",
-        "revival",
-        "must-see",
-        "award-winners",
         "family-kid-friendly",
-        "comedy"
+        "must-see",
+        "revival",
+        "stars-on-stage",
+        "comedy",
+        "award-winners"
       ]
     },
     {
@@ -1188,28 +1190,28 @@
         "cheapest": 79,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-11-19"
+        "as_of": "2026-11-20"
       },
       "review": {
         "score": 92,
-        "review_count": 12229,
+        "review_count": 12244,
         "adjectives": [
-          "Clever",
-          "Great singing",
           "Delightful",
+          "Entertaining",
+          "Great singing",
           "Enchanting",
-          "Entertaining"
+          "Clever"
         ]
       },
       "lat": 40.7558962,
       "lng": -73.9849328,
       "tags": [
-        "drama",
-        "stars-on-stage",
+        "romance",
+        "family-kid-friendly",
         "must-see",
         "jukebox",
-        "family-kid-friendly",
-        "romance",
+        "stars-on-stage",
+        "drama",
         "rush-available"
       ]
     },
@@ -1229,7 +1231,7 @@
         "cheapest": 161,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-11-19"
+        "as_of": "2026-11-20"
       },
       "lat": 40.7558962,
       "lng": -73.9849328,
@@ -1253,17 +1255,17 @@
         "cheapest": 57,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-11-19"
+        "as_of": "2026-11-20"
       },
       "review": {
         "score": 90,
-        "review_count": 448,
+        "review_count": 450,
         "adjectives": [
-          "Raunchy",
-          "Enchanting",
-          "Entertaining",
           "Delightful",
-          "Absorbing"
+          "Absorbing",
+          "Raunchy",
+          "Entertaining",
+          "Enchanting"
         ]
       },
       "lat": 40.706153,
@@ -1288,7 +1290,7 @@
         "cheapest": 58,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-11-19"
+        "as_of": "2026-11-20"
       },
       "tags": [
         "comedy",
@@ -1312,17 +1314,17 @@
         "cheapest": 62,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-11-19"
+        "as_of": "2026-11-20"
       },
       "review": {
         "score": 96,
-        "review_count": 6233,
+        "review_count": 6242,
         "adjectives": [
           "Great acting",
-          "Delightful",
           "Great singing",
+          "Great staging",
           "Entertaining",
-          "Great staging"
+          "Delightful"
         ]
       },
       "lat": 40.7584859,
@@ -1348,25 +1350,25 @@
         "cheapest": 87,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-11-19"
+        "as_of": "2026-11-20"
       },
       "review": {
         "score": 93,
-        "review_count": 4865,
+        "review_count": 4869,
         "adjectives": [
-          "Great acting",
+          "Absorbing",
           "Entertaining",
           "Great singing",
           "Great staging",
-          "Absorbing"
+          "Great acting"
         ]
       },
       "lat": 40.7586082,
       "lng": -73.9877405,
       "tags": [
-        "drama",
         "must-see",
-        "award-winners"
+        "award-winners",
+        "drama"
       ]
     },
     {
@@ -1385,28 +1387,28 @@
         "cheapest": 77,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-11-19"
+        "as_of": "2026-11-20"
       },
       "review": {
         "score": 91,
-        "review_count": 5470,
+        "review_count": 5473,
         "adjectives": [
+          "Delightful",
           "Hilarious",
           "Entertaining",
-          "Delightful",
-          "Clever",
-          "Funny"
+          "Funny",
+          "Clever"
         ]
       },
       "lat": 40.7578694,
       "lng": -73.9845006,
       "tags": [
-        "stars-on-stage",
         "must-see",
-        "award-winners",
-        "history",
+        "stars-on-stage",
+        "transfer",
         "comedy",
-        "transfer"
+        "award-winners",
+        "history"
       ]
     },
     {
@@ -1422,17 +1424,17 @@
       "playbill_url": "https://playbill.com/production/the-great-gatsby-broadway-broadway-theatre-2024",
       "todaytix_url": "https://www.todaytix.com/nyc/shows/38749",
       "price": {
-        "cheapest": 62,
+        "cheapest": 92,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-11-19"
+        "as_of": "2026-11-20"
       },
       "review": {
         "score": 90,
-        "review_count": 5668,
+        "review_count": 5677,
         "adjectives": [
-          "Enchanting",
           "Delightful",
+          "Enchanting",
           "Great singing",
           "Entertaining",
           "Great acting"
@@ -1441,11 +1443,11 @@
       "lat": 40.7633982,
       "lng": -73.983355,
       "tags": [
-        "drama",
-        "stars-on-stage",
+        "romance",
         "must-see",
+        "stars-on-stage",
         "award-winners",
-        "romance"
+        "drama"
       ]
     },
     {
@@ -1456,7 +1458,7 @@
       "status": "running",
       "genre": "musical",
       "opening_date": "2024-10-16",
-      "description": "A unique, contemporary rom-com that won the 2025 Tony Award for Best Musical, *Maybe Happy Ending* follows two robots who meet, connect, and maybe fall in love, getting a second shot at life after the world has deemed them obsolete.",
+      "description": "A unique, contemporary rom-com that won the 2025 Tony Award for Best Musical, *Maybe Happy Ending* is a heartwarming story about getting a second shot at life after being deemed obsolete by the world.",
       "image_url": "https://images.ctfassets.net/6pezt69ih962/344dRnNCX5m2nrBrsfh0cA/afb69d67c1234927a93e0f608b8d0f1f/MHE-June26Update-TodayTix-480x720-noborder.jpg",
       "playbill_url": "https://playbill.com/production/maybe-happy-ending-broadway-belasco-theatre-2024",
       "todaytix_url": "https://www.todaytix.com/nyc/shows/41018",
@@ -1464,27 +1466,27 @@
         "cheapest": 77,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-11-19"
+        "as_of": "2026-11-20"
       },
       "review": {
         "score": 95,
-        "review_count": 5893,
+        "review_count": 5897,
         "adjectives": [
           "Great acting",
-          "Moving",
           "Funny",
           "Absorbing",
-          "Delightful"
+          "Delightful",
+          "Moving"
         ]
       },
       "lat": 40.756644,
       "lng": -73.9838007,
       "tags": [
-        "stars-on-stage",
-        "award-winners",
-        "contemporary",
         "romance",
-        "comedy"
+        "contemporary",
+        "stars-on-stage",
+        "comedy",
+        "award-winners"
       ]
     },
     {
@@ -1502,14 +1504,14 @@
         "cheapest": 78,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-11-19"
+        "as_of": "2026-11-20"
       },
       "lat": 40.7579845,
       "lng": -73.9881584,
       "tags": [
+        "biography",
         "stars-on-stage",
-        "history",
-        "biography"
+        "history"
       ]
     },
     {
@@ -1527,7 +1529,7 @@
         "cheapest": 122,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-11-19"
+        "as_of": "2026-11-20"
       },
       "tags": []
     },
@@ -1546,24 +1548,24 @@
         "cheapest": 65,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-11-19"
+        "as_of": "2026-11-20"
       },
       "review": {
         "score": 86,
         "review_count": 213,
         "adjectives": [
           "Great singing",
-          "Delightful",
-          "Great acting",
           "Entertaining",
-          "Enchanting"
+          "Enchanting",
+          "Great acting",
+          "Delightful"
         ]
       },
       "lat": 40.6671417,
       "lng": -73.9905171,
       "tags": [
-        "classic",
-        "family-kid-friendly"
+        "family-kid-friendly",
+        "classic"
       ]
     },
     {
@@ -1581,7 +1583,7 @@
         "cheapest": 45,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-11-19"
+        "as_of": "2026-11-20"
       },
       "lat": 40.6671417,
       "lng": -73.9905171,
@@ -1604,30 +1606,30 @@
       "playbill_url": "https://playbill.com/production/stranger-things-the-first-shadow-broadway-marquis-theatre-2025",
       "todaytix_url": "https://www.todaytix.com/nyc/shows/41967",
       "price": {
-        "cheapest": 62,
+        "cheapest": 72,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-11-19"
+        "as_of": "2026-11-20"
       },
       "review": {
         "score": 93,
-        "review_count": 3577,
+        "review_count": 3584,
         "adjectives": [
-          "Clever",
+          "Absorbing",
           "Exciting",
+          "Clever",
           "Great acting",
-          "Entertaining",
-          "Absorbing"
+          "Entertaining"
         ]
       },
       "lat": 40.7589043,
       "lng": -73.9861848,
       "tags": [
-        "drama",
-        "halloween",
+        "sci-fi-fantasy",
         "film-tv",
+        "halloween",
         "award-winners",
-        "sci-fi-fantasy"
+        "drama"
       ]
     },
     {
@@ -1645,7 +1647,7 @@
         "cheapest": 82,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-11-19"
+        "as_of": "2026-11-20"
       },
       "lat": 40.7589043,
       "lng": -73.9861848,
@@ -1667,15 +1669,15 @@
         "cheapest": 63,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-11-19"
+        "as_of": "2026-11-20"
       },
       "review": {
         "score": 90,
-        "review_count": 3867,
+        "review_count": 3876,
         "adjectives": [
+          "Entertaining",
           "Funny",
           "Great acting",
-          "Entertaining",
           "Clever",
           "Delightful"
         ]
@@ -1683,10 +1685,10 @@
       "lat": 40.7587046,
       "lng": -73.9879846,
       "tags": [
-        "award-winners",
         "family-kid-friendly",
-        "history",
-        "comedy"
+        "comedy",
+        "award-winners",
+        "history"
       ]
     },
     {
@@ -1702,25 +1704,25 @@
       "playbill_url": "https://playbill.com/production/just-in-time-broadway-circle-in-the-square-theatre-2025",
       "todaytix_url": "https://www.todaytix.com/nyc/shows/42905",
       "price": {
-        "cheapest": 77,
+        "cheapest": 97,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-11-19"
+        "as_of": "2026-11-20"
       },
       "review": {
         "score": 95,
-        "review_count": 3045,
+        "review_count": 3053,
         "adjectives": [
-          "Charming",
-          "Delightful",
-          "Great acting",
           "Great singing",
-          "Entertaining"
+          "Charming",
+          "Great acting",
+          "Entertaining",
+          "Delightful"
         ]
       },
       "tags": [
-        "stars-on-stage",
         "jukebox",
+        "stars-on-stage",
         "rush-available"
       ]
     },
@@ -1740,24 +1742,134 @@
         "cheapest": 58,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-11-19"
+        "as_of": "2026-11-20"
       },
       "review": {
         "score": 92,
-        "review_count": 6518,
+        "review_count": 6535,
         "adjectives": [
-          "Great staging",
-          "Great acting",
           "Entertaining",
           "Must see",
+          "Great staging",
+          "Great acting",
           "Great singing"
         ]
       },
       "lat": 40.7589003,
       "lng": -73.9846166,
       "tags": [
-        "halloween",
-        "film-tv"
+        "film-tv",
+        "halloween"
+      ]
+    },
+    {
+      "id": "messy-millie-92ny-buttenwieser-hall",
+      "title": "Messy Millie",
+      "venue": "92NY Buttenwieser Hall",
+      "category": "off-broadway",
+      "status": "upcoming",
+      "genre": "musical",
+      "opening_date": "2027-03-13",
+      "closing_date": "2027-03-20",
+      "image_url": "https://images.ctfassets.net/6pezt69ih962/7uePklVvUorGDZhkWnqg4Q/84ec49c7fb7c447db6bbb7f1ee1a1ef6/Messy_Millie_Poster_Key_Art.png",
+      "todaytix_url": "https://www.todaytix.com/nyc/shows/43817",
+      "price": {
+        "cheapest": 48,
+        "currency": "USD",
+        "source": "todaytix",
+        "as_of": "2026-11-20"
+      },
+      "tags": [
+        "family-kid-friendly",
+        "comedy"
+      ]
+    },
+    {
+      "id": "alice-in-wonderland-92ny-buttenwieser-hall",
+      "title": "Alice in Wonderland",
+      "venue": "92NY Buttenwieser Hall",
+      "category": "off-broadway",
+      "status": "upcoming",
+      "genre": "musical",
+      "opening_date": "2027-02-13",
+      "closing_date": "2027-03-07",
+      "image_url": "https://images.ctfassets.net/6pezt69ih962/1nJn5grl5ob9moC5KD00YW/d88f878d3301873c40999c150e63913c/alice_poster.png",
+      "todaytix_url": "https://www.todaytix.com/nyc/shows/45229",
+      "price": {
+        "cheapest": 48,
+        "currency": "USD",
+        "source": "todaytix",
+        "as_of": "2026-11-20"
+      },
+      "tags": [
+        "family-kid-friendly",
+        "classic"
+      ]
+    },
+    {
+      "id": "violets-magic-glasses-92ny-buttenwieser-hall",
+      "title": "Violet’s Magic Glasses",
+      "venue": "92NY Buttenwieser Hall",
+      "category": "off-broadway",
+      "status": "running",
+      "genre": "musical",
+      "opening_date": "2026-11-01",
+      "closing_date": "2026-11-22",
+      "image_url": "https://images.ctfassets.net/6pezt69ih962/2FzBvugvDWCyw2DY3JgX5O/060cff3577edc36137364182323a7310/Untitled_design__6_.png",
+      "todaytix_url": "https://www.todaytix.com/nyc/shows/47496",
+      "price": {
+        "cheapest": 48,
+        "currency": "USD",
+        "source": "todaytix",
+        "as_of": "2026-11-20"
+      },
+      "tags": [
+        "family-kid-friendly"
+      ]
+    },
+    {
+      "id": "annie-92ny-buttenwieser-hall",
+      "title": "Annie",
+      "venue": "92NY Buttenwieser Hall",
+      "category": "off-broadway",
+      "status": "upcoming",
+      "genre": "musical",
+      "opening_date": "2026-11-29",
+      "closing_date": "2026-12-20",
+      "image_url": "https://images.ctfassets.net/6pezt69ih962/2SgYTc9GQfT4Qd61vymBdX/ea6342b726347efd1c768c178adc1a38/Annie_TTG_Poster.png",
+      "todaytix_url": "https://www.todaytix.com/nyc/shows/47602",
+      "price": {
+        "cheapest": 63,
+        "currency": "USD",
+        "source": "todaytix",
+        "as_of": "2026-11-20"
+      },
+      "tags": [
+        "family-kid-friendly",
+        "classic",
+        "history"
+      ]
+    },
+    {
+      "id": "joseph-92ny-buttenwieser-hall",
+      "title": "Joseph",
+      "venue": "92NY Buttenwieser Hall",
+      "category": "off-broadway",
+      "status": "upcoming",
+      "genre": "musical",
+      "opening_date": "2027-04-11",
+      "closing_date": "2027-05-16",
+      "image_url": "https://images.ctfassets.net/6pezt69ih962/3wtF2CuXS3UAN2ixBMoFQ2/8409ffc326e9cbc99215a2dac0791366/Joseph_Poster.png",
+      "todaytix_url": "https://www.todaytix.com/nyc/shows/48630",
+      "price": {
+        "cheapest": 63,
+        "currency": "USD",
+        "source": "todaytix",
+        "as_of": "2026-11-20"
+      },
+      "tags": [
+        "family-kid-friendly",
+        "classic"
       ]
     },
     {
@@ -1776,29 +1888,29 @@
         "cheapest": 66,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-11-19"
+        "as_of": "2026-11-20"
       },
       "review": {
         "score": 93,
-        "review_count": 4718,
+        "review_count": 4727,
         "adjectives": [
           "Funny",
-          "Great acting",
           "Entertaining",
           "Delightful",
+          "Great acting",
           "Great singing"
         ]
       },
       "lat": 40.7643461,
       "lng": -73.9837786,
       "tags": [
-        "halloween",
-        "stars-on-stage",
+        "sci-fi-fantasy",
         "film-tv",
-        "revival",
         "horror",
-        "comedy",
-        "sci-fi-fantasy"
+        "halloween",
+        "revival",
+        "stars-on-stage",
+        "comedy"
       ]
     },
     {
@@ -1815,22 +1927,22 @@
         "cheapest": 63,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-11-19"
+        "as_of": "2026-11-20"
       },
       "review": {
         "score": 88,
         "review_count": 1531,
         "adjectives": [
-          "Delightful",
+          "Clever",
           "Hilarious",
+          "Delightful",
           "Entertaining",
-          "Funny",
-          "Clever"
+          "Funny"
         ]
       },
       "tags": [
-        "satire",
         "romance",
+        "satire",
         "comedy"
       ]
     },
@@ -1847,21 +1959,21 @@
       "playbill_url": "https://playbill.com/production/wanted-broadway-james-earl-jones-theatre-2026",
       "todaytix_url": "https://www.todaytix.com/nyc/shows/44366",
       "price": {
-        "cheapest": 63,
+        "cheapest": 53,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-11-19"
+        "as_of": "2026-11-20"
       },
       "review": {
         "score": 90,
-        "review_count": 726,
+        "review_count": 741,
         "adjectives": []
       },
       "lat": 40.7591035,
       "lng": -73.9830898,
       "tags": [
-        "stars-on-stage",
-        "family-kid-friendly"
+        "family-kid-friendly",
+        "stars-on-stage"
       ]
     },
     {
@@ -1878,14 +1990,14 @@
       "playbill_url": "https://playbill.com/production/the-imaginary-invalid-broadway-todd-haimes-theatre-2026",
       "todaytix_url": "https://www.todaytix.com/nyc/shows/44369",
       "price": {
-        "cheapest": 118,
+        "cheapest": 179,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-11-19"
+        "as_of": "2026-11-20"
       },
       "review": {
         "score": 84,
-        "review_count": 834,
+        "review_count": 851,
         "adjectives": []
       },
       "lat": 40.7571557,
@@ -1893,8 +2005,8 @@
       "tags": [
         "classic",
         "satire",
-        "history",
         "comedy",
+        "history",
         "rush-available"
       ]
     },
@@ -1914,7 +2026,7 @@
         "cheapest": 53,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-11-19"
+        "as_of": "2026-11-20"
       },
       "lat": 40.7571557,
       "lng": -73.9881192,
@@ -1937,26 +2049,26 @@
         "cheapest": 199,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-11-19"
+        "as_of": "2026-11-20"
       },
       "review": {
         "score": 95,
-        "review_count": 946,
+        "review_count": 950,
         "adjectives": [
           "Clever",
-          "Enchanting",
-          "Entertaining",
+          "Great staging",
           "Must see",
-          "Great staging"
+          "Entertaining",
+          "Enchanting"
         ]
       },
       "lat": 40.7656726,
       "lng": -73.9812564,
       "tags": [
-        "drama",
         "romance",
         "immersive",
         "adventure",
+        "drama",
         "rush-available"
       ]
     },
@@ -1974,20 +2086,20 @@
       "playbill_url": "https://playbill.com/production/two-strangers-carry-a-cake-across-new-york-broadway-longacre-theatre-2025",
       "todaytix_url": "https://www.todaytix.com/nyc/shows/45002",
       "price": {
-        "cheapest": 67,
+        "cheapest": 107,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-11-19"
+        "as_of": "2026-11-20"
       },
       "review": {
         "score": 93,
-        "review_count": 4134,
+        "review_count": 4150,
         "adjectives": [
-          "Funny",
-          "Delightful",
-          "Great singing",
           "Great acting",
-          "Entertaining"
+          "Delightful",
+          "Entertaining",
+          "Great singing",
+          "Funny"
         ]
       },
       "lat": 40.7603178,
@@ -2011,7 +2123,7 @@
         "cheapest": 97,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-11-19"
+        "as_of": "2026-11-20"
       },
       "lat": 40.7603178,
       "lng": -73.9859687,
@@ -2035,17 +2147,17 @@
         "cheapest": 62,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-11-19"
+        "as_of": "2026-11-20"
       },
       "review": {
         "score": 92,
-        "review_count": 3605,
+        "review_count": 3614,
         "adjectives": [
-          "Funny",
           "Delightful",
-          "Entertaining",
           "Great staging",
-          "Great singing"
+          "Great singing",
+          "Funny",
+          "Entertaining"
         ]
       },
       "lat": 40.7554837,
@@ -2070,7 +2182,7 @@
         "cheapest": 82,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-11-19"
+        "as_of": "2026-11-20"
       },
       "review": {
         "score": 86,
@@ -2086,9 +2198,9 @@
       "lat": 40.7603807,
       "lng": -73.9867276,
       "tags": [
-        "drama",
+        "classic",
         "stars-on-stage",
-        "classic"
+        "drama"
       ]
     },
     {
@@ -2106,12 +2218,12 @@
         "cheapest": 107,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-11-19"
+        "as_of": "2026-11-20"
       },
       "tags": [
-        "revival",
+        "biography",
         "jukebox",
-        "biography"
+        "revival"
       ]
     },
     {
@@ -2129,11 +2241,11 @@
         "cheapest": 107,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-11-19"
+        "as_of": "2026-11-20"
       },
       "tags": [
-        "jukebox",
-        "biography"
+        "biography",
+        "jukebox"
       ]
     },
     {
@@ -2152,11 +2264,11 @@
         "cheapest": 69,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-11-19"
+        "as_of": "2026-11-20"
       },
       "tags": [
-        "contemporary",
         "romance",
+        "contemporary",
         "comedy"
       ]
     },
@@ -2176,7 +2288,7 @@
         "cheapest": 62,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-11-19"
+        "as_of": "2026-11-20"
       },
       "review": {
         "score": 80,
@@ -2203,10 +2315,10 @@
       "playbill_url": "https://playbill.com/production/imitation-of-life-off-broadway-the-shed-2026",
       "todaytix_url": "https://www.todaytix.com/nyc/shows/46309",
       "price": {
-        "cheapest": 81,
+        "cheapest": 84,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-11-19"
+        "as_of": "2026-11-20"
       },
       "lat": 40.7532813,
       "lng": -74.0026711,
@@ -2229,11 +2341,11 @@
         "cheapest": 129,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-11-19"
+        "as_of": "2026-11-20"
       },
       "tags": [
-        "stars-on-stage",
-        "revival"
+        "revival",
+        "stars-on-stage"
       ]
     },
     {
@@ -2253,24 +2365,24 @@
         "cheapest": 87,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-11-19"
+        "as_of": "2026-11-20"
       },
       "review": {
         "score": 94,
-        "review_count": 1012,
+        "review_count": 1016,
         "adjectives": [
           "Entertaining",
-          "Great acting",
-          "Delightful",
+          "Funny",
           "Great singing",
-          "Funny"
+          "Delightful",
+          "Great acting"
         ]
       },
       "lat": 40.7554936,
       "lng": -73.9812059,
       "tags": [
-        "satire",
         "romance",
+        "satire",
         "comedy",
         "rush-available"
       ]
@@ -2291,11 +2403,11 @@
         "cheapest": 67,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-11-19"
+        "as_of": "2026-11-20"
       },
       "review": {
         "score": 94,
-        "review_count": 130,
+        "review_count": 140,
         "adjectives": []
       },
       "lat": 40.7588721,
@@ -2320,11 +2432,11 @@
         "cheapest": 87,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-11-19"
+        "as_of": "2026-11-20"
       },
       "review": {
         "score": 97,
-        "review_count": 787,
+        "review_count": 799,
         "adjectives": []
       },
       "lat": 40.7591227,
@@ -2349,12 +2461,12 @@
         "cheapest": 104,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-11-19"
+        "as_of": "2026-11-20"
       },
       "tags": [
+        "adventure",
         "contemporary",
-        "comedy",
-        "adventure"
+        "comedy"
       ]
     },
     {
@@ -2372,12 +2484,12 @@
         "cheapest": 64,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-11-19"
+        "as_of": "2026-11-20"
       },
       "tags": [
-        "drama",
         "contemporary",
-        "comedy"
+        "comedy",
+        "drama"
       ]
     },
     {
@@ -2397,11 +2509,11 @@
         "cheapest": 99,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-11-19"
+        "as_of": "2026-11-20"
       },
       "tags": [
-        "satire",
         "contemporary",
+        "satire",
         "comedy",
         "rush-available"
       ]
@@ -2423,16 +2535,16 @@
         "cheapest": 68,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-11-19"
+        "as_of": "2026-11-20"
       },
       "review": {
         "score": 85,
-        "review_count": 246,
+        "review_count": 254,
         "adjectives": []
       },
       "tags": [
-        "drama",
         "contemporary",
+        "drama",
         "rush-available"
       ]
     },
@@ -2451,17 +2563,17 @@
         "cheapest": 28,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-11-19"
+        "as_of": "2026-11-20"
       },
       "review": {
         "score": 90,
         "review_count": 120,
         "adjectives": [
+          "Enchanting",
+          "Entertaining",
           "Clever",
           "Delightful",
-          "Enchanting",
-          "Great staging",
-          "Entertaining"
+          "Great staging"
         ]
       },
       "lat": 40.7111665,
@@ -2486,11 +2598,11 @@
         "cheapest": 149,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-11-19"
+        "as_of": "2026-11-20"
       },
       "review": {
-        "score": 87,
-        "review_count": 132,
+        "score": 88,
+        "review_count": 135,
         "adjectives": []
       },
       "tags": [
@@ -2513,7 +2625,7 @@
         "cheapest": 97,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-11-19"
+        "as_of": "2026-11-20"
       },
       "tags": [
         "rush-available"
@@ -2527,7 +2639,7 @@
       "status": "running",
       "genre": "play",
       "opening_date": "2026-10-25",
-      "closing_date": "2026-11-22",
+      "closing_date": "2026-11-29",
       "image_url": "https://images.ctfassets.net/6pezt69ih962/4JKS4Im4FZU4PkbRlxx7Jd/4b44ab9f5bbf2dd2ba8accd77e84c097/2627Public_WellSee_temp_todaytix_V1_480x720.jpg",
       "playbill_url": "https://playbill.com/production/well-see-off-broadway-public-theater-barbaralee-theater-formerly-anspacher-theater-2026",
       "todaytix_url": "https://www.todaytix.com/nyc/shows/46899",
@@ -2535,7 +2647,7 @@
         "cheapest": 97,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-11-19"
+        "as_of": "2026-11-20"
       },
       "tags": [
         "rush-available"
@@ -2556,7 +2668,7 @@
         "cheapest": 106,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-11-19"
+        "as_of": "2026-11-20"
       },
       "lat": 40.7639353,
       "lng": -73.9794602,
@@ -2580,13 +2692,13 @@
         "cheapest": 46,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-11-19"
+        "as_of": "2026-11-20"
       },
       "lat": 40.7639353,
       "lng": -73.9794602,
       "tags": [
-        "drama",
-        "revival"
+        "revival",
+        "drama"
       ]
     },
     {
@@ -2604,7 +2716,7 @@
         "cheapest": 48,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-11-19"
+        "as_of": "2026-11-20"
       },
       "lat": 40.7639353,
       "lng": -73.9794602,
@@ -2628,7 +2740,7 @@
         "cheapest": 78,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-11-19"
+        "as_of": "2026-11-20"
       },
       "lat": 40.7639353,
       "lng": -73.9794602,
@@ -2652,7 +2764,7 @@
         "cheapest": 98,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-11-19"
+        "as_of": "2026-11-20"
       },
       "lat": 40.7639353,
       "lng": -73.9794602,
@@ -2676,7 +2788,7 @@
         "cheapest": 46,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-11-19"
+        "as_of": "2026-11-20"
       },
       "lat": 40.7639353,
       "lng": -73.9794602,
@@ -2701,19 +2813,19 @@
         "cheapest": 59,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-11-19"
+        "as_of": "2026-11-20"
       },
       "review": {
         "score": 91,
-        "review_count": 3323,
+        "review_count": 3350,
         "adjectives": []
       },
       "lat": 40.763373,
       "lng": -73.9841934,
       "tags": [
-        "halloween",
         "film-tv",
         "crime-thriller-mystery",
+        "halloween",
         "rush-available"
       ]
     },
@@ -2731,7 +2843,7 @@
         "cheapest": 27,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-11-19"
+        "as_of": "2026-11-20"
       },
       "lat": 40.7562129,
       "lng": -73.9865339,
@@ -2753,7 +2865,7 @@
         "cheapest": 74,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-11-19"
+        "as_of": "2026-11-20"
       },
       "lat": 40.7327227,
       "lng": -73.9882473,
@@ -2779,16 +2891,16 @@
         "cheapest": 126,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-11-19"
+        "as_of": "2026-11-20"
       },
       "lat": 40.7327227,
       "lng": -73.9882473,
       "tags": [
-        "classic",
-        "contemporary",
-        "history",
         "romance",
-        "adventure"
+        "classic",
+        "adventure",
+        "contemporary",
+        "history"
       ]
     },
     {
@@ -2806,7 +2918,7 @@
         "cheapest": 43,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-11-19"
+        "as_of": "2026-11-20"
       },
       "tags": []
     },
@@ -2826,13 +2938,13 @@
         "cheapest": 58,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-11-19"
+        "as_of": "2026-11-20"
       },
       "tags": [
-        "drama",
+        "biography",
         "crime-thriller-mystery",
-        "history",
-        "biography"
+        "drama",
+        "history"
       ]
     },
     {
@@ -2849,10 +2961,10 @@
       "playbill_url": "https://playbill.com/production/hole-off-broadway-playwrights-horizons-peter-jay-sharp-theater-2026",
       "todaytix_url": "https://www.todaytix.com/nyc/shows/47083",
       "price": {
-        "cheapest": 67,
+        "cheapest": 71,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-11-19"
+        "as_of": "2026-11-20"
       },
       "lat": 40.7586397,
       "lng": -73.9936128,
@@ -2875,10 +2987,10 @@
       "playbill_url": "https://playbill.com/production/the-ripple-the-wave-that-carried-me-home-off-broadway-playwrights-horizons-the-judith-o-rubin-theater-2026",
       "todaytix_url": "https://www.todaytix.com/nyc/shows/47096",
       "price": {
-        "cheapest": 48,
+        "cheapest": 38,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-11-19"
+        "as_of": "2026-11-20"
       },
       "lat": 40.7586397,
       "lng": -73.9936128,
@@ -2903,14 +3015,14 @@
         "cheapest": 47,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-11-19"
+        "as_of": "2026-11-20"
       },
       "lat": 40.7586397,
       "lng": -73.9936128,
       "tags": [
-        "drama",
         "contemporary",
-        "comedy"
+        "comedy",
+        "drama"
       ]
     },
     {
@@ -2930,20 +3042,20 @@
         "cheapest": 77,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-11-19"
+        "as_of": "2026-11-20"
       },
       "review": {
         "score": 82,
-        "review_count": 496,
+        "review_count": 514,
         "adjectives": []
       },
       "lat": 40.7578513,
       "lng": -73.9878417,
       "tags": [
+        "romance",
         "classic",
         "revival",
-        "award-winners",
-        "romance"
+        "award-winners"
       ]
     },
     {
@@ -2962,11 +3074,11 @@
         "cheapest": 82,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-11-19"
+        "as_of": "2026-11-20"
       },
       "review": {
-        "score": 80,
-        "review_count": 135,
+        "score": 81,
+        "review_count": 143,
         "adjectives": []
       },
       "tags": [
@@ -2988,7 +3100,7 @@
         "cheapest": 75,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-11-19"
+        "as_of": "2026-11-20"
       },
       "lat": 40.7592532,
       "lng": -73.9892108,
@@ -3011,19 +3123,19 @@
         "cheapest": 58,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-11-19"
+        "as_of": "2026-11-20"
       },
       "review": {
         "score": 87,
-        "review_count": 150,
+        "review_count": 156,
         "adjectives": []
       },
       "lat": 40.7592532,
       "lng": -73.9892108,
       "tags": [
-        "halloween",
-        "film-tv",
         "family-kid-friendly",
+        "film-tv",
+        "halloween",
         "rush-available"
       ]
     },
@@ -3044,11 +3156,11 @@
         "cheapest": 64,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-11-19"
+        "as_of": "2026-11-20"
       },
       "review": {
         "score": 83,
-        "review_count": 296,
+        "review_count": 304,
         "adjectives": []
       },
       "lat": 40.7333618,
@@ -3075,7 +3187,7 @@
         "cheapest": 79,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-11-19"
+        "as_of": "2026-11-20"
       },
       "lat": 40.7333618,
       "lng": -74.0057425,
@@ -3097,10 +3209,10 @@
       "playbill_url": "https://playbill.com/production/midnight-off-broadway-daryl-roth-theatre-2026",
       "todaytix_url": "https://www.todaytix.com/nyc/shows/47251",
       "price": {
-        "cheapest": 85,
+        "cheapest": 58,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-11-19"
+        "as_of": "2026-11-20"
       },
       "lat": 40.7352914,
       "lng": -73.9894585,
@@ -3125,20 +3237,20 @@
         "cheapest": 166,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-11-19"
+        "as_of": "2026-11-20"
       },
       "review": {
         "score": 88,
-        "review_count": 164,
+        "review_count": 170,
         "adjectives": []
       },
       "tags": [
-        "drama",
-        "stars-on-stage",
         "classic",
         "film-tv",
+        "crime-thriller-mystery",
         "revival",
-        "crime-thriller-mystery"
+        "stars-on-stage",
+        "drama"
       ]
     },
     {
@@ -3157,7 +3269,7 @@
         "cheapest": 53,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-11-19"
+        "as_of": "2026-11-20"
       },
       "lat": 40.7036434,
       "lng": -73.992813,
@@ -3182,20 +3294,20 @@
         "cheapest": 53,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-11-19"
+        "as_of": "2026-11-20"
       },
       "review": {
         "score": 89,
-        "review_count": 100,
+        "review_count": 106,
         "adjectives": []
       },
       "lat": 40.7036434,
       "lng": -73.992813,
       "tags": [
-        "drama",
-        "revival",
         "romance",
+        "revival",
         "comedy",
+        "drama",
         "rush-available"
       ]
     },
@@ -3214,7 +3326,7 @@
         "cheapest": 43,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-11-19"
+        "as_of": "2026-11-20"
       },
       "lat": 40.7036434,
       "lng": -73.992813,
@@ -3237,13 +3349,13 @@
         "cheapest": 58,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-11-19"
+        "as_of": "2026-11-20"
       },
       "lat": 40.7036434,
       "lng": -73.992813,
       "tags": [
-        "drama",
-        "biography"
+        "biography",
+        "drama"
       ]
     },
     {
@@ -3261,7 +3373,7 @@
         "cheapest": 33,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-11-19"
+        "as_of": "2026-11-20"
       },
       "lat": 40.7036434,
       "lng": -73.992813,
@@ -3286,7 +3398,7 @@
         "cheapest": 101,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-11-19"
+        "as_of": "2026-11-20"
       },
       "lat": 40.7591662,
       "lng": -73.9859015,
@@ -3311,7 +3423,7 @@
         "cheapest": 52,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-11-19"
+        "as_of": "2026-11-20"
       },
       "lat": 40.7591662,
       "lng": -73.9859015,
@@ -3335,7 +3447,7 @@
         "cheapest": 33,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-11-19"
+        "as_of": "2026-11-20"
       },
       "lat": 40.7405316,
       "lng": -73.9847625,
@@ -3356,16 +3468,16 @@
         "cheapest": 33,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-11-19"
+        "as_of": "2026-11-20"
       },
       "lat": 40.7405316,
       "lng": -73.9847625,
       "tags": [
-        "satire",
-        "contemporary",
         "biography",
-        "comedy",
-        "transfer"
+        "contemporary",
+        "transfer",
+        "satire",
+        "comedy"
       ]
     },
     {
@@ -3385,17 +3497,17 @@
         "cheapest": 57,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-11-19"
+        "as_of": "2026-11-20"
       },
       "review": {
         "score": 82,
-        "review_count": 441,
+        "review_count": 442,
         "adjectives": [
           "Confusing",
-          "Thought-provoking",
           "Great acting",
           "Absorbing",
-          "Ambitious"
+          "Ambitious",
+          "Thought-provoking"
         ]
       },
       "tags": [
@@ -3418,11 +3530,11 @@
         "cheapest": 47,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-11-19"
+        "as_of": "2026-11-20"
       },
       "tags": [
-        "contemporary",
         "biography",
+        "contemporary",
         "comedy"
       ]
     },
@@ -3440,18 +3552,18 @@
       "playbill_url": "https://playbill.com/production/slam-frank-off-broadway-orpheum-theatre-2026",
       "todaytix_url": "https://www.todaytix.com/nyc/shows/47340",
       "price": {
-        "cheapest": 78,
+        "cheapest": 67,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-11-19"
+        "as_of": "2026-11-20"
       },
       "lat": 40.7281864,
       "lng": -73.9874823,
       "tags": [
-        "satire",
         "contemporary",
-        "history",
+        "satire",
         "comedy",
+        "history",
         "rush-available"
       ]
     },
@@ -3470,7 +3582,7 @@
         "cheapest": 58,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-11-19"
+        "as_of": "2026-11-20"
       },
       "tags": []
     },
@@ -3489,7 +3601,7 @@
         "cheapest": 58,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-11-19"
+        "as_of": "2026-11-20"
       },
       "tags": []
     },
@@ -3507,10 +3619,10 @@
       "playbill_url": "https://playbill.com/production/soon-off-broadway-st-lukes-theatre-2026",
       "todaytix_url": "https://www.todaytix.com/nyc/shows/47468",
       "price": {
-        "cheapest": 49,
+        "cheapest": 77,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-11-19"
+        "as_of": "2026-11-20"
       },
       "tags": [
         "transfer",
@@ -3534,7 +3646,7 @@
         "cheapest": 49,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-11-19"
+        "as_of": "2026-11-20"
       },
       "tags": [
         "crime-thriller-mystery",
@@ -3558,77 +3670,11 @@
         "cheapest": 53,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-11-19"
+        "as_of": "2026-11-20"
       },
       "lat": 40.7584179,
       "lng": -73.9880164,
       "tags": []
-    },
-    {
-      "id": "violets-magic-glasses-92ny-buttenwieser-hall",
-      "title": "Violet’s Magic Glasses",
-      "venue": "92NY Buttenwieser Hall",
-      "category": "off-broadway",
-      "status": "running",
-      "genre": "musical",
-      "opening_date": "2026-11-01",
-      "closing_date": "2026-11-22",
-      "image_url": "https://images.ctfassets.net/6pezt69ih962/2FzBvugvDWCyw2DY3JgX5O/060cff3577edc36137364182323a7310/Untitled_design__6_.png",
-      "todaytix_url": "https://www.todaytix.com/nyc/shows/47496",
-      "price": {
-        "cheapest": 48,
-        "currency": "USD",
-        "source": "todaytix",
-        "as_of": "2026-11-19"
-      },
-      "tags": [
-        "family-kid-friendly"
-      ]
-    },
-    {
-      "id": "annie-92ny-buttenwieser-hall",
-      "title": "Annie",
-      "venue": "92NY Buttenwieser Hall",
-      "category": "off-broadway",
-      "status": "upcoming",
-      "genre": "musical",
-      "opening_date": "2026-11-29",
-      "closing_date": "2026-12-20",
-      "image_url": "https://images.ctfassets.net/6pezt69ih962/2SgYTc9GQfT4Qd61vymBdX/ea6342b726347efd1c768c178adc1a38/Annie_TTG_Poster.png",
-      "todaytix_url": "https://www.todaytix.com/nyc/shows/47602",
-      "price": {
-        "cheapest": 63,
-        "currency": "USD",
-        "source": "todaytix",
-        "as_of": "2026-11-19"
-      },
-      "tags": [
-        "classic",
-        "family-kid-friendly",
-        "history"
-      ]
-    },
-    {
-      "id": "joseph-92ny-buttenwieser-hall",
-      "title": "Joseph",
-      "venue": "92NY Buttenwieser Hall",
-      "category": "off-broadway",
-      "status": "upcoming",
-      "genre": "musical",
-      "opening_date": "2027-04-11",
-      "closing_date": "2027-05-16",
-      "image_url": "https://images.ctfassets.net/6pezt69ih962/3wtF2CuXS3UAN2ixBMoFQ2/8409ffc326e9cbc99215a2dac0791366/Joseph_Poster.png",
-      "todaytix_url": "https://www.todaytix.com/nyc/shows/48630",
-      "price": {
-        "cheapest": 63,
-        "currency": "USD",
-        "source": "todaytix",
-        "as_of": "2026-11-19"
-      },
-      "tags": [
-        "classic",
-        "family-kid-friendly"
-      ]
     },
     {
       "id": "selected-shorts-objects-with-roz-chast-peter-jay-sharp-theatre-at-symphony-space",
@@ -3645,7 +3691,7 @@
         "cheapest": 46,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-11-19"
+        "as_of": "2026-11-20"
       },
       "tags": []
     },
@@ -3664,7 +3710,7 @@
         "cheapest": 62,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-11-19"
+        "as_of": "2026-11-20"
       },
       "tags": []
     },
@@ -3683,7 +3729,7 @@
         "cheapest": 63,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-11-19"
+        "as_of": "2026-11-20"
       },
       "tags": []
     },
@@ -3704,11 +3750,11 @@
         "cheapest": 59,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-11-19"
+        "as_of": "2026-11-20"
       },
       "review": {
         "score": 83,
-        "review_count": 306,
+        "review_count": 314,
         "adjectives": []
       },
       "lat": 40.7567679,
@@ -3733,7 +3779,7 @@
         "cheapest": 45,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-11-19"
+        "as_of": "2026-11-20"
       },
       "lat": 40.7567679,
       "lng": -73.9882358,
@@ -3756,11 +3802,11 @@
         "cheapest": 65,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-11-19"
+        "as_of": "2026-11-20"
       },
       "review": {
         "score": 81,
-        "review_count": 197,
+        "review_count": 200,
         "adjectives": []
       },
       "tags": [
@@ -3784,7 +3830,7 @@
         "cheapest": 87,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-11-19"
+        "as_of": "2026-11-20"
       },
       "lat": 40.7579801,
       "lng": -73.9855452,
@@ -3795,7 +3841,7 @@
       "title": "Joris Lacoste: Nexus de l’adoration",
       "venue": "NYU Skirball",
       "category": "off-broadway",
-      "status": "upcoming",
+      "status": "running",
       "genre": "events",
       "opening_date": "2026-11-20",
       "closing_date": "2026-11-21",
@@ -3805,7 +3851,7 @@
         "cheapest": 56,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-11-19"
+        "as_of": "2026-11-20"
       },
       "tags": []
     },
@@ -3824,7 +3870,7 @@
         "cheapest": 66,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-11-19"
+        "as_of": "2026-11-20"
       },
       "tags": [
         "drama"
@@ -3845,7 +3891,7 @@
         "cheapest": 91,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-11-19"
+        "as_of": "2026-11-20"
       },
       "tags": [
         "drama"
@@ -3866,7 +3912,7 @@
         "cheapest": 91,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-11-19"
+        "as_of": "2026-11-20"
       },
       "tags": []
     },
@@ -3885,7 +3931,7 @@
         "cheapest": 66,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-11-19"
+        "as_of": "2026-11-20"
       },
       "tags": []
     },
@@ -3904,7 +3950,7 @@
         "cheapest": 66,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-11-19"
+        "as_of": "2026-11-20"
       },
       "tags": [
         "drama"
@@ -3925,7 +3971,7 @@
         "cheapest": 91,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-11-19"
+        "as_of": "2026-11-20"
       },
       "tags": []
     },
@@ -3944,7 +3990,7 @@
         "cheapest": 66,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-11-19"
+        "as_of": "2026-11-20"
       },
       "tags": []
     },
@@ -3963,7 +4009,7 @@
         "cheapest": 66,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-11-19"
+        "as_of": "2026-11-20"
       },
       "tags": []
     },
@@ -3983,7 +4029,7 @@
         "cheapest": 74,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-11-19"
+        "as_of": "2026-11-20"
       },
       "lat": 40.7312452,
       "lng": -74.0052802,
@@ -4009,7 +4055,7 @@
         "cheapest": 74,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-11-19"
+        "as_of": "2026-11-20"
       },
       "lat": 40.7312452,
       "lng": -74.0052802,
@@ -4036,7 +4082,7 @@
         "cheapest": 53,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-11-19"
+        "as_of": "2026-11-20"
       },
       "lat": 40.7601222,
       "lng": -73.9861351,
@@ -4056,7 +4102,7 @@
         "cheapest": 179,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-11-19"
+        "as_of": "2026-11-20"
       },
       "lat": 40.7601222,
       "lng": -73.9861351,
@@ -4080,7 +4126,7 @@
         "cheapest": 92,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-11-19"
+        "as_of": "2026-11-20"
       },
       "tags": [
         "rush-available"
@@ -4102,11 +4148,11 @@
         "cheapest": 107,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-11-19"
+        "as_of": "2026-11-20"
       },
       "review": {
         "score": 92,
-        "review_count": 523,
+        "review_count": 528,
         "adjectives": []
       },
       "lat": 40.758373,
@@ -4130,13 +4176,13 @@
         "cheapest": 77,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-11-19"
+        "as_of": "2026-11-20"
       },
       "lat": 40.758373,
       "lng": -73.9870903,
       "tags": [
-        "drama",
-        "stars-on-stage"
+        "stars-on-stage",
+        "drama"
       ]
     },
     {
@@ -4154,7 +4200,7 @@
         "cheapest": 33,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-11-19"
+        "as_of": "2026-11-20"
       },
       "lat": 40.7672334,
       "lng": -73.9655036,
@@ -4176,7 +4222,7 @@
         "cheapest": 93,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-11-19"
+        "as_of": "2026-11-20"
       },
       "lat": 40.7672334,
       "lng": -73.9655036,
@@ -4199,11 +4245,11 @@
         "cheapest": 87,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-11-19"
+        "as_of": "2026-11-20"
       },
       "review": {
         "score": 83,
-        "review_count": 126,
+        "review_count": 130,
         "adjectives": []
       },
       "tags": [
@@ -4223,10 +4269,10 @@
       "image_url": "https://images.ctfassets.net/6pezt69ih962/6hABCfJvUjZlUHSiF6tf5z/0f5feac3213adcdf15165ff343496772/27-1422300-Today-Tix-Next-Wave-Fall-Minor-Music_480_x_720.jpg",
       "todaytix_url": "https://www.todaytix.com/nyc/shows/48046",
       "price": {
-        "cheapest": 16,
+        "cheapest": 51,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-11-19"
+        "as_of": "2026-11-20"
       },
       "tags": []
     },
@@ -4245,7 +4291,7 @@
         "cheapest": 33,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-11-19"
+        "as_of": "2026-11-20"
       },
       "tags": []
     },
@@ -4264,7 +4310,7 @@
         "cheapest": 41,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-11-19"
+        "as_of": "2026-11-20"
       },
       "tags": []
     },
@@ -4275,15 +4321,15 @@
       "category": "off-broadway",
       "status": "upcoming",
       "genre": "play",
-      "opening_date": "2026-12-10",
+      "opening_date": "2026-12-11",
       "closing_date": "2026-12-13",
       "image_url": "https://images.ctfassets.net/6pezt69ih962/4vUJF6qX7zv8f1o0HA5Kd0/bcc7d78ce077becc1765d6353d5609df/27-1422300-Today-Tix-Next-Wave-Fall-ImPossible_480_x_720.jpg",
       "todaytix_url": "https://www.todaytix.com/nyc/shows/48057",
       "price": {
-        "cheapest": 46,
+        "cheapest": 68,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-11-19"
+        "as_of": "2026-11-20"
       },
       "lat": 40.6866469,
       "lng": -73.9779506,
@@ -4305,7 +4351,7 @@
         "cheapest": 57,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-11-19"
+        "as_of": "2026-11-20"
       },
       "lat": 40.7264507,
       "lng": -74.0043756,
@@ -4329,14 +4375,14 @@
         "cheapest": 48,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-11-19"
+        "as_of": "2026-11-20"
       },
       "lat": 40.7264507,
       "lng": -74.0043756,
       "tags": [
-        "drama",
         "contemporary",
-        "comedy"
+        "comedy",
+        "drama"
       ]
     },
     {
@@ -4353,7 +4399,7 @@
         "cheapest": 132,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-11-19"
+        "as_of": "2026-11-20"
       },
       "tags": []
     },
@@ -4372,33 +4418,9 @@
         "cheapest": 48,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-11-19"
+        "as_of": "2026-11-20"
       },
       "tags": []
-    },
-    {
-      "id": "ghost-notes-the-royal-family-performing-arts-space",
-      "title": "Ghost Notes",
-      "venue": "The Royal Family Performing Arts Space",
-      "category": "off-broadway",
-      "status": "running",
-      "genre": "musical",
-      "opening_date": "2026-10-28",
-      "closing_date": "2026-11-19",
-      "image_url": "https://images.ctfassets.net/6pezt69ih962/6yOISUjuQdA5wUe6A3E5Om/3f5023903c735a5e3f39dca71e96bc0d/TodayTix_Poster.png",
-      "todaytix_url": "https://www.todaytix.com/nyc/shows/48275",
-      "price": {
-        "cheapest": 35,
-        "currency": "USD",
-        "source": "todaytix",
-        "as_of": "2026-11-19"
-      },
-      "tags": [
-        "crime-thriller-mystery",
-        "comedy",
-        "adventure",
-        "rush-available"
-      ]
     },
     {
       "id": "other-bodies-the-barrow-group",
@@ -4410,18 +4432,19 @@
       "opening_date": "2026-11-19",
       "closing_date": "2026-12-18",
       "image_url": "https://images.ctfassets.net/6pezt69ih962/2oFvhGk4d5Mik2uYa3MYwF/9b9b0c507881e46b436a4293f42c8bc7/OTHER_BODIES__480x720_.png",
+      "playbill_url": "https://playbill.com/production/other-bodies-off-broadway-the-barrow-group-2026",
       "todaytix_url": "https://www.todaytix.com/nyc/shows/48276",
       "price": {
         "cheapest": 49,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-11-19"
+        "as_of": "2026-11-20"
       },
       "tags": [
-        "drama",
-        "contemporary",
         "biography",
-        "comedy"
+        "contemporary",
+        "comedy",
+        "drama"
       ]
     },
     {
@@ -4438,22 +4461,22 @@
       "playbill_url": "https://playbill.com/production/its-a-wonderful-life-a-live-radio-play-broadway-broadhurst-theatre-2026",
       "todaytix_url": "https://www.todaytix.com/nyc/shows/48284",
       "price": {
-        "cheapest": 82,
+        "cheapest": 72,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-11-19"
+        "as_of": "2026-11-20"
       },
       "review": {
-        "score": 89,
-        "review_count": 174,
+        "score": 88,
+        "review_count": 181,
         "adjectives": []
       },
       "lat": 40.7582686,
       "lng": -73.9876171,
       "tags": [
-        "stars-on-stage",
+        "family-kid-friendly",
         "film-tv",
-        "family-kid-friendly"
+        "stars-on-stage"
       ]
     },
     {
@@ -4471,7 +4494,7 @@
         "cheapest": 67,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-11-19"
+        "as_of": "2026-11-20"
       },
       "lat": 40.7582686,
       "lng": -73.9876171,
@@ -4484,7 +4507,7 @@
       "title": "A Christmas Story: The Musical",
       "venue": "State Theatre New Jersey",
       "category": "off-broadway",
-      "status": "upcoming",
+      "status": "running",
       "genre": "musical",
       "opening_date": "2026-11-20",
       "closing_date": "2026-11-22",
@@ -4494,7 +4517,7 @@
         "cheapest": 67,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-11-19"
+        "as_of": "2026-11-20"
       },
       "tags": []
     },
@@ -4513,7 +4536,7 @@
         "cheapest": 52,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-11-19"
+        "as_of": "2026-11-20"
       },
       "tags": []
     },
@@ -4533,7 +4556,7 @@
         "cheapest": 58,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-11-19"
+        "as_of": "2026-11-20"
       },
       "tags": [
         "drama",
@@ -4556,11 +4579,11 @@
         "cheapest": 58,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-11-19"
+        "as_of": "2026-11-20"
       },
       "tags": [
-        "contemporary",
         "biography",
+        "contemporary",
         "comedy"
       ]
     },
@@ -4579,13 +4602,13 @@
         "cheapest": 57,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-11-19"
+        "as_of": "2026-11-20"
       },
       "tags": [
-        "drama",
-        "holiday",
         "family-kid-friendly",
-        "comedy"
+        "comedy",
+        "holiday",
+        "drama"
       ]
     },
     {
@@ -4604,14 +4627,14 @@
         "cheapest": 78,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-11-19"
+        "as_of": "2026-11-20"
       },
       "lat": 40.7633055,
       "lng": -73.9704554,
       "tags": [
-        "drama",
         "contemporary",
         "comedy",
+        "drama",
         "rush-available"
       ]
     },
@@ -4630,14 +4653,14 @@
         "cheapest": 78,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-11-19"
+        "as_of": "2026-11-20"
       },
       "lat": 40.7633055,
       "lng": -73.9704554,
       "tags": [
+        "comedy",
         "drama",
-        "history",
-        "comedy"
+        "history"
       ]
     },
     {
@@ -4655,7 +4678,7 @@
         "cheapest": 99,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-11-19"
+        "as_of": "2026-11-20"
       },
       "tags": [
         "stars-on-stage"
@@ -4666,7 +4689,7 @@
       "title": "The New York Pops One Night Only: An Evening with Denée Benton and Jordan Donica",
       "venue": "Stern Auditorium / Perelman Stage at Carnegie Hall",
       "category": "off-broadway",
-      "status": "upcoming",
+      "status": "running",
       "genre": "concert",
       "opening_date": "2026-11-20",
       "closing_date": "2026-11-20",
@@ -4676,7 +4699,7 @@
         "cheapest": 122,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-11-19"
+        "as_of": "2026-11-20"
       },
       "tags": []
     },
@@ -4695,7 +4718,7 @@
         "cheapest": 76,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-11-19"
+        "as_of": "2026-11-20"
       },
       "tags": []
     },
@@ -4714,7 +4737,7 @@
         "cheapest": 320,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-11-19"
+        "as_of": "2026-11-20"
       },
       "tags": []
     },
@@ -4733,7 +4756,7 @@
         "cheapest": 57,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-11-19"
+        "as_of": "2026-11-20"
       },
       "tags": []
     },
@@ -4752,7 +4775,7 @@
         "cheapest": 57,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-11-19"
+        "as_of": "2026-11-20"
       },
       "tags": []
     },
@@ -4771,7 +4794,7 @@
         "cheapest": 101,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-11-19"
+        "as_of": "2026-11-20"
       },
       "tags": []
     },
@@ -4790,7 +4813,7 @@
         "cheapest": 44,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-11-19"
+        "as_of": "2026-11-20"
       },
       "tags": []
     },
@@ -4809,7 +4832,7 @@
         "cheapest": 29,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-11-19"
+        "as_of": "2026-11-20"
       },
       "lat": 40.7565319,
       "lng": -73.9874728,
@@ -4832,7 +4855,7 @@
         "cheapest": 34,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-11-19"
+        "as_of": "2026-11-20"
       },
       "lat": 40.7565319,
       "lng": -73.9874728,
@@ -4856,11 +4879,11 @@
         "cheapest": 87,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-11-19"
+        "as_of": "2026-11-20"
       },
       "tags": [
-        "drama",
-        "contemporary"
+        "contemporary",
+        "drama"
       ]
     },
     {
@@ -4878,7 +4901,7 @@
         "cheapest": 47,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-11-19"
+        "as_of": "2026-11-20"
       },
       "tags": [
         "family-kid-friendly"
@@ -4899,11 +4922,11 @@
         "cheapest": 30,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-11-19"
+        "as_of": "2026-11-20"
       },
       "tags": [
-        "contemporary",
         "romance",
+        "contemporary",
         "comedy"
       ]
     },
@@ -4922,7 +4945,7 @@
         "cheapest": 62,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-11-19"
+        "as_of": "2026-11-20"
       },
       "tags": []
     },
@@ -4942,7 +4965,7 @@
         "cheapest": 91,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-11-19"
+        "as_of": "2026-11-20"
       },
       "lat": 40.7266868,
       "lng": -73.9899902,
@@ -4963,7 +4986,7 @@
         "cheapest": 45,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-11-19"
+        "as_of": "2026-11-20"
       },
       "tags": []
     },
@@ -4982,7 +5005,7 @@
         "cheapest": 123,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-11-19"
+        "as_of": "2026-11-20"
       },
       "tags": []
     },
@@ -5001,7 +5024,7 @@
         "cheapest": 53,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-11-19"
+        "as_of": "2026-11-20"
       },
       "lat": 40.7253407,
       "lng": -73.9933641,
@@ -5022,7 +5045,7 @@
         "cheapest": 81,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-11-19"
+        "as_of": "2026-11-20"
       },
       "lat": 40.7842912,
       "lng": -73.9459685,
@@ -5040,13 +5063,14 @@
       "genre": "musical",
       "opening_date": "2027-02-12",
       "closing_date": "2027-05-16",
+      "description": "*A History of Paper* is a two-character chamber musical that shares a love story through the physical papers that define a relationship.",
       "image_url": "https://images.ctfassets.net/6pezt69ih962/7cgvKmCrGWZDJwNgPztzap/d2832861df78e3ed59b2839691c58d50/AHOP_TodayTix_480x720_Poster.jpg",
       "todaytix_url": "https://www.todaytix.com/nyc/shows/48549",
       "price": {
         "cheapest": 57,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-11-19"
+        "as_of": "2026-11-20"
       },
       "tags": [
         "stars-on-stage"
@@ -5067,7 +5091,7 @@
         "cheapest": 53,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-11-19"
+        "as_of": "2026-11-20"
       },
       "tags": []
     },
@@ -5086,8 +5110,38 @@
         "cheapest": 53,
         "currency": "USD",
         "source": "todaytix",
-        "as_of": "2026-11-19"
+        "as_of": "2026-11-20"
       },
+      "tags": []
+    },
+    {
+      "id": "birthright-hudson-theatre",
+      "title": "Birthright",
+      "venue": "Hudson Theatre",
+      "category": "broadway",
+      "status": "upcoming",
+      "genre": "play",
+      "opening_date": "2027-03-15",
+      "closing_date": "2027-07-11",
+      "image_url": "https://www.theatermania.com/wp-content/uploads/sites/4/2026/11/hudson_birthright_hero_3000x1687.webp?w=640",
+      "ticket_url": "https://us.atgtickets.com/events/birthright/hudson-theatre-broadway/calendar/2027-02-23",
+      "lat": 40.7571077,
+      "lng": -73.9844244,
+      "tags": []
+    },
+    {
+      "id": "all-my-sons-booth-theatre",
+      "title": "All My Sons",
+      "venue": "Booth Theatre",
+      "category": "broadway",
+      "status": "upcoming",
+      "genre": "play",
+      "opening_date": "2027-04-13",
+      "closing_date": "2027-06-27",
+      "image_url": "https://www.theatermania.com/wp-content/uploads/sites/4/2026/11/augustwilson_allmysons_hero_3000x1687.webp?w=640",
+      "ticket_url": "https://us.atgtickets.com/events/all-my-sons/august-wilson-theatre/calendar/2027-03-30?utm_provider=ATG",
+      "lat": 40.758373,
+      "lng": -73.9870903,
       "tags": []
     },
     {
@@ -5103,6 +5157,36 @@
       "ticket_url": "https://www.telecharge.com/awake-and-sing-tickets?AID=AFF000009000",
       "lat": 40.7603807,
       "lng": -73.9867276,
+      "tags": []
+    },
+    {
+      "id": "penelope-classic-stage-company",
+      "title": "Penelope",
+      "venue": "Classic Stage Company",
+      "category": "off-broadway",
+      "status": "upcoming",
+      "genre": "musical",
+      "opening_date": "2026-12-11",
+      "closing_date": "2027-01-21",
+      "image_url": "https://www.theatermania.com/wp-content/uploads/sites/4/2026/08/Screenshot-2026-08-27-at-12.08.19-PM-e1787846959535.png?w=300",
+      "ticket_url": "https://www.classicstage.org/penelope/?utm_provider=Other#buy-now",
+      "lat": 40.7327227,
+      "lng": -73.9882473,
+      "tags": []
+    },
+    {
+      "id": "atlantic-for-kids-finn-atlantic-stage-2",
+      "title": "Atlantic for Kids: Finn",
+      "venue": "Atlantic Stage 2",
+      "category": "off-broadway",
+      "status": "upcoming",
+      "genre": "family",
+      "opening_date": "2026-12-12",
+      "closing_date": "2027-01-31",
+      "image_url": "https://www.theatermania.com/wp-content/uploads/sites/4/2026/11/Screenshot-2026-11-19-at-1.59.17-PM.png?w=640",
+      "ticket_url": "https://atlantictheater.org/production/finn/?utm_provider=Other",
+      "lat": 40.7414435,
+      "lng": -74.0027591,
       "tags": []
     },
     {
@@ -5178,21 +5262,6 @@
       "ticket_url": "https://sacrificesthemusical.eventbrite.com",
       "lat": 40.7211816,
       "lng": -73.9857912,
-      "tags": []
-    },
-    {
-      "id": "atlantic-for-kids-finn-atlantic-stage-2",
-      "title": "Atlantic for Kids: Finn",
-      "venue": "Atlantic Stage 2",
-      "category": "off-broadway",
-      "status": "upcoming",
-      "genre": "musical",
-      "opening_date": "2026-12-12",
-      "closing_date": "2027-01-31",
-      "image_url": "https://www.theatermania.com/wp-content/uploads/sites/4/2026/07/Screenshot-2026-07-15-at-1.27.17-PM-e1784152685102.png?w=640",
-      "ticket_url": "https://atlantictheater.org/production/finn/?utm_provider=Broadway+Direct#book",
-      "lat": 40.7414435,
-      "lng": -74.0027591,
       "tags": []
     },
     {
